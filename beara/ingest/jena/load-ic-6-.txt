@@ -1,0 +1,697 @@
+ 18:12:01 INFO -- TDB Bulk Loader Start
+find: unrecognized: -quit
+BusyBox v1.24.2 (2017-01-18 14:13:46 GMT) multi-call binary.
+
+Usage: find [-HL] [PATH]... [OPTIONS] [ACTIONS]
+
+Search for files and perform actions on them.
+First failed action stops processing of current file.
+Defaults: PATH is current directory, action is '-print'
+
+	-L,-follow	Follow symlinks
+	-H		...on command line only
+	-xdev		Don't descend directories on other filesystems
+	-maxdepth N	Descend at most N levels. -maxdepth 0 applies
+			actions to command line arguments only
+	-mindepth N	Don't act on first N levels
+	-depth		Act on directory *after* traversing it
+
+Actions:
+	( ACTIONS )	Group actions for -o / -a
+	! ACT		Invert ACT's success/failure
+	ACT1 [-a] ACT2	If ACT1 fails, stop, else do ACT2
+	ACT1 -o ACT2	If ACT1 succeeds, stop, else do ACT2
+			Note: -a has higher priority than -o
+	-name PATTERN	Match file name (w/o directory name) to PATTERN
+	-iname PATTERN	Case insensitive -name
+	-path PATTERN	Match path to PATTERN
+	-ipath PATTERN	Case insensitive -path
+	-regex PATTERN	Match path to regex PATTERN
+	-type X		File type is X (one of: f,d,l,b,c,...)
+	-perm MASK	At least one mask bit (+MASK), all bits (-MASK),
+			or exactly MASK bits are set in file's mode
+	-mtime DAYS	mtime is greater than (+N), less than (-N),
+			or exactly N days in the past
+	-mmin MINS	mtime is greater than (+N), less than (-N),
+			or exactly N minutes in the past
+	-newer FILE	mtime is more recent than FILE's
+	-inum N		File has inode number N
+	-user NAME/ID	File is owned by given user
+	-group NAME/ID	File is owned by given group
+	-size N[bck]	File size is N (c:bytes,k:kbytes,b:512 bytes(def.))
+			+/-N: file size is bigger/smaller than N
+	-links N	Number of links is greater than (+N), less than (-N),
+			or exactly N
+	-prune		If current file is directory, don't descend into it
+If none of the following actions is specified, -print is assumed
+	-print		Print file name
+	-print0		Print file name, NUL terminated
+	-exec CMD ARG ;	Run CMD with all instances of {} replaced by
+			file name. Fails if CMD exits with nonzero
+	-exec CMD ARG + Run CMD with {} replaced by list of file names
+	-delete		Delete current file/directory. Turns on -depth option
+ 18:12:01 INFO Data Load Phase
+ 18:12:01 INFO Got 1 data files to load
+ 18:12:01 INFO Data file 1: /var/data/in/7.nt
+INFO  Load: /var/data/in/7.nt -- 2017/06/27 18:12:02 GMT
+INFO  Add: 50,000 Data (Batch: 36,049 / Avg: 36,049)
+INFO  Add: 100,000 Data (Batch: 77,760 / Avg: 49,261)
+INFO  Add: 150,000 Data (Batch: 69,060 / Avg: 54,466)
+INFO  Add: 200,000 Data (Batch: 104,602 / Avg: 61,881)
+INFO  Add: 250,000 Data (Batch: 81,566 / Avg: 65,019)
+INFO  Add: 300,000 Data (Batch: 70,621 / Avg: 65,890)
+INFO  Add: 350,000 Data (Batch: 82,236 / Avg: 67,816)
+INFO  Add: 400,000 Data (Batch: 82,508 / Avg: 69,360)
+INFO  Add: 450,000 Data (Batch: 70,422 / Avg: 69,476)
+INFO  Add: 500,000 Data (Batch: 59,453 / Avg: 68,324)
+INFO    Elapsed: 7.32 seconds [2017/06/27 18:12:09 GMT]
+INFO  Add: 550,000 Data (Batch: 77,279 / Avg: 69,052)
+INFO  Add: 600,000 Data (Batch: 58,004 / Avg: 67,973)
+INFO  Add: 650,000 Data (Batch: 117,924 / Avg: 70,262)
+INFO  Add: 700,000 Data (Batch: 51,493 / Avg: 68,479)
+INFO  Add: 750,000 Data (Batch: 78,492 / Avg: 69,067)
+INFO  Add: 800,000 Data (Batch: 57,803 / Avg: 68,236)
+INFO  Add: 850,000 Data (Batch: 118,764 / Avg: 69,987)
+INFO  Add: 900,000 Data (Batch: 116,279 / Avg: 71,570)
+INFO  Add: 950,000 Data (Batch: 106,609 / Avg: 72,830)
+INFO  Add: 1,000,000 Data (Batch: 83,472 / Avg: 73,297)
+INFO    Elapsed: 13.64 seconds [2017/06/27 18:12:16 GMT]
+INFO  Add: 1,050,000 Data (Batch: 60,901 / Avg: 72,594)
+INFO  Add: 1,100,000 Data (Batch: 99,601 / Avg: 73,499)
+INFO  Add: 1,150,000 Data (Batch: 86,805 / Avg: 73,993)
+INFO  Add: 1,200,000 Data (Batch: 68,027 / Avg: 73,723)
+INFO  Add: 1,250,000 Data (Batch: 98,231 / Avg: 74,466)
+INFO  Add: 1,300,000 Data (Batch: 106,837 / Avg: 75,344)
+INFO  Add: 1,350,000 Data (Batch: 106,837 / Avg: 76,176)
+INFO  Add: 1,400,000 Data (Batch: 109,890 / Avg: 77,020)
+INFO  Add: 1,450,000 Data (Batch: 87,260 / Avg: 77,333)
+INFO  Add: 1,500,000 Data (Batch: 96,339 / Avg: 77,845)
+INFO    Elapsed: 19.27 seconds [2017/06/27 18:12:21 GMT]
+INFO  Add: 1,550,000 Data (Batch: 107,296 / Avg: 78,540)
+INFO  Add: 1,600,000 Data (Batch: 99,206 / Avg: 79,055)
+INFO  Add: 1,650,000 Data (Batch: 105,263 / Avg: 79,656)
+INFO  Add: 1,700,000 Data (Batch: 80,000 / Avg: 79,666)
+INFO  Add: 1,750,000 Data (Batch: 105,708 / Avg: 80,231)
+INFO  Add: 1,800,000 Data (Batch: 88,967 / Avg: 80,450)
+INFO  Add: 1,850,000 Data (Batch: 94,161 / Avg: 80,768)
+INFO  Add: 1,900,000 Data (Batch: 97,847 / Avg: 81,141)
+INFO  Add: 1,950,000 Data (Batch: 50,403 / Avg: 79,891)
+INFO  Add: 2,000,000 Data (Batch: 94,696 / Avg: 80,205)
+INFO    Elapsed: 24.94 seconds [2017/06/27 18:12:27 GMT]
+INFO  Add: 2,050,000 Data (Batch: 81,168 / Avg: 80,228)
+INFO  Add: 2,100,000 Data (Batch: 84,033 / Avg: 80,315)
+INFO  Add: 2,150,000 Data (Batch: 77,519 / Avg: 80,247)
+INFO  Add: 2,200,000 Data (Batch: 65,616 / Avg: 79,843)
+INFO  Add: 2,250,000 Data (Batch: 67,658 / Avg: 79,524)
+INFO  Add: 2,300,000 Data (Batch: 72,150 / Avg: 79,348)
+INFO  Add: 2,350,000 Data (Batch: 97,276 / Avg: 79,661)
+INFO  Add: 2,400,000 Data (Batch: 94,339 / Avg: 79,920)
+INFO  Add: 2,450,000 Data (Batch: 111,856 / Avg: 80,388)
+INFO  Add: 2,500,000 Data (Batch: 70,028 / Avg: 80,151)
+INFO    Elapsed: 31.19 seconds [2017/06/27 18:12:33 GMT]
+INFO  Add: 2,550,000 Data (Batch: 62,578 / Avg: 79,712)
+INFO  Add: 2,600,000 Data (Batch: 98,425 / Avg: 80,004)
+INFO  Add: 2,650,000 Data (Batch: 87,565 / Avg: 80,135)
+INFO  Add: 2,700,000 Data (Batch: 71,736 / Avg: 79,962)
+INFO  Add: 2,750,000 Data (Batch: 85,470 / Avg: 80,055)
+INFO  Add: 2,800,000 Data (Batch: 127,551 / Avg: 80,591)
+INFO  Add: 2,850,000 Data (Batch: 150,150 / Avg: 81,252)
+INFO  Add: 2,900,000 Data (Batch: 127,226 / Avg: 81,761)
+INFO  Add: 2,950,000 Data (Batch: 128,205 / Avg: 82,266)
+INFO  Add: 3,000,000 Data (Batch: 75,642 / Avg: 82,146)
+INFO    Elapsed: 36.52 seconds [2017/06/27 18:12:39 GMT]
+INFO  Add: 3,050,000 Data (Batch: 66,401 / Avg: 81,828)
+INFO  Add: 3,100,000 Data (Batch: 88,183 / Avg: 81,923)
+INFO  Add: 3,150,000 Data (Batch: 90,090 / Avg: 82,041)
+INFO  Add: 3,200,000 Data (Batch: 99,800 / Avg: 82,270)
+INFO  Add: 3,250,000 Data (Batch: 118,203 / Avg: 82,657)
+INFO  Add: 3,300,000 Data (Batch: 103,950 / Avg: 82,914)
+INFO  Add: 3,350,000 Data (Batch: 119,047 / Avg: 83,291)
+INFO  Add: 3,400,000 Data (Batch: 101,832 / Avg: 83,515)
+INFO  Add: 3,450,000 Data (Batch: 102,669 / Avg: 83,741)
+INFO  Add: 3,500,000 Data (Batch: 88,967 / Avg: 83,812)
+INFO    Elapsed: 41.76 seconds [2017/06/27 18:12:44 GMT]
+INFO  Add: 3,550,000 Data (Batch: 109,409 / Avg: 84,089)
+INFO  Add: 3,600,000 Data (Batch: 102,040 / Avg: 84,295)
+INFO  Add: 3,650,000 Data (Batch: 105,932 / Avg: 84,531)
+INFO  Add: 3,700,000 Data (Batch: 96,899 / Avg: 84,677)
+INFO  Add: 3,750,000 Data (Batch: 100,000 / Avg: 84,851)
+INFO  Add: 3,800,000 Data (Batch: 110,375 / Avg: 85,110)
+INFO  Add: 3,850,000 Data (Batch: 99,206 / Avg: 85,267)
+INFO  Add: 3,900,000 Data (Batch: 107,758 / Avg: 85,496)
+INFO  Add: 3,950,000 Data (Batch: 94,517 / Avg: 85,599)
+INFO  Add: 4,000,000 Data (Batch: 117,370 / Avg: 85,890)
+INFO    Elapsed: 46.57 seconds [2017/06/27 18:12:49 GMT]
+INFO  Add: 4,050,000 Data (Batch: 101,010 / Avg: 86,049)
+INFO  Add: 4,100,000 Data (Batch: 112,866 / Avg: 86,299)
+INFO  Add: 4,150,000 Data (Batch: 98,231 / Avg: 86,425)
+INFO  Add: 4,200,000 Data (Batch: 117,096 / Avg: 86,696)
+INFO  Add: 4,250,000 Data (Batch: 105,708 / Avg: 86,880)
+INFO  Add: 4,300,000 Data (Batch: 109,890 / Avg: 87,092)
+INFO  Add: 4,350,000 Data (Batch: 99,800 / Avg: 87,219)
+INFO  Add: 4,400,000 Data (Batch: 119,047 / Avg: 87,485)
+INFO  Add: 4,450,000 Data (Batch: 104,384 / Avg: 87,645)
+INFO  Add: 4,500,000 Data (Batch: 109,170 / Avg: 87,837)
+INFO    Elapsed: 51.23 seconds [2017/06/27 18:12:53 GMT]
+INFO  Add: 4,550,000 Data (Batch: 98,619 / Avg: 87,943)
+INFO  Add: 4,600,000 Data (Batch: 116,009 / Avg: 88,174)
+INFO  Add: 4,650,000 Data (Batch: 107,296 / Avg: 88,344)
+INFO  Add: 4,700,000 Data (Batch: 107,991 / Avg: 88,515)
+INFO  Add: 4,750,000 Data (Batch: 101,626 / Avg: 88,635)
+INFO  Add: 4,800,000 Data (Batch: 109,649 / Avg: 88,813)
+INFO  Add: 4,850,000 Data (Batch: 109,170 / Avg: 88,984)
+INFO  Add: 4,900,000 Data (Batch: 117,924 / Avg: 89,207)
+INFO  Add: 4,950,000 Data (Batch: 107,066 / Avg: 89,358)
+INFO  Add: 5,000,000 Data (Batch: 125,628 / Avg: 89,616)
+INFO    Elapsed: 55.79 seconds [2017/06/27 18:12:58 GMT]
+INFO  Add: 5,050,000 Data (Batch: 62,814 / Avg: 89,239)
+INFO  Add: 5,100,000 Data (Batch: 117,370 / Avg: 89,450)
+INFO  Add: 5,150,000 Data (Batch: 97,465 / Avg: 89,521)
+INFO  Add: 5,200,000 Data (Batch: 100,401 / Avg: 89,615)
+INFO  Add: 5,250,000 Data (Batch: 104,821 / Avg: 89,738)
+INFO  Add: 5,300,000 Data (Batch: 112,107 / Avg: 89,908)
+INFO  Add: 5,350,000 Data (Batch: 106,609 / Avg: 90,040)
+INFO  Add: 5,400,000 Data (Batch: 105,932 / Avg: 90,165)
+INFO  Add: 5,450,000 Data (Batch: 112,612 / Avg: 90,330)
+INFO  Add: 5,500,000 Data (Batch: 123,456 / Avg: 90,551)
+INFO    Elapsed: 60.74 seconds [2017/06/27 18:13:03 GMT]
+INFO  Add: 5,550,000 Data (Batch: 110,864 / Avg: 90,701)
+INFO  Add: 5,600,000 Data (Batch: 85,470 / Avg: 90,651)
+INFO  Add: 5,650,000 Data (Batch: 93,109 / Avg: 90,672)
+INFO  Add: 5,700,000 Data (Batch: 111,856 / Avg: 90,823)
+INFO  Add: 5,750,000 Data (Batch: 100,000 / Avg: 90,896)
+INFO  Add: 5,800,000 Data (Batch: 108,225 / Avg: 91,021)
+INFO  Add: 5,850,000 Data (Batch: 99,601 / Avg: 91,088)
+INFO  Add: 5,900,000 Data (Batch: 121,654 / Avg: 91,283)
+INFO  Add: 5,950,000 Data (Batch: 103,092 / Avg: 91,371)
+INFO  Add: 6,000,000 Data (Batch: 101,626 / Avg: 91,448)
+INFO    Elapsed: 65.61 seconds [2017/06/27 18:13:08 GMT]
+INFO  Add: 6,050,000 Data (Batch: 96,153 / Avg: 91,485)
+INFO  Add: 6,100,000 Data (Batch: 115,740 / Avg: 91,642)
+INFO  Add: 6,150,000 Data (Batch: 104,384 / Avg: 91,733)
+INFO  Add: 6,200,000 Data (Batch: 114,155 / Avg: 91,879)
+INFO  Add: 6,250,000 Data (Batch: 96,153 / Avg: 91,911)
+INFO  Add: 6,300,000 Data (Batch: 101,010 / Avg: 91,977)
+INFO  Add: 6,350,000 Data (Batch: 117,096 / Avg: 92,133)
+INFO  Add: 6,400,000 Data (Batch: 101,214 / Avg: 92,197)
+INFO  Add: 6,450,000 Data (Batch: 106,837 / Avg: 92,295)
+INFO  Add: 6,500,000 Data (Batch: 108,695 / Avg: 92,403)
+INFO    Elapsed: 70.34 seconds [2017/06/27 18:13:12 GMT]
+INFO  Add: 6,550,000 Data (Batch: 111,111 / Avg: 92,521)
+INFO  Add: 6,600,000 Data (Batch: 103,092 / Avg: 92,593)
+INFO  Add: 6,650,000 Data (Batch: 108,225 / Avg: 92,694)
+INFO  Add: 6,700,000 Data (Batch: 107,296 / Avg: 92,788)
+INFO  Add: 6,750,000 Data (Batch: 120,192 / Avg: 92,945)
+INFO  Add: 6,800,000 Data (Batch: 95,969 / Avg: 92,967)
+INFO  Add: 6,850,000 Data (Batch: 105,708 / Avg: 93,049)
+INFO  Add: 6,900,000 Data (Batch: 106,837 / Avg: 93,136)
+INFO  Add: 6,950,000 Data (Batch: 116,822 / Avg: 93,272)
+INFO  Add: 7,000,000 Data (Batch: 101,626 / Avg: 93,327)
+INFO    Elapsed: 75.00 seconds [2017/06/27 18:13:17 GMT]
+INFO  Add: 7,050,000 Data (Batch: 99,403 / Avg: 93,367)
+INFO  Add: 7,100,000 Data (Batch: 70,422 / Avg: 93,153)
+INFO  Add: 7,150,000 Data (Batch: 69,735 / Avg: 92,935)
+INFO  Add: 7,200,000 Data (Batch: 70,721 / Avg: 92,733)
+INFO  Add: 7,250,000 Data (Batch: 71,225 / Avg: 92,540)
+INFO  Add: 7,300,000 Data (Batch: 68,587 / Avg: 92,319)
+INFO  Add: 7,350,000 Data (Batch: 55,187 / Avg: 91,899)
+INFO  Add: 7,400,000 Data (Batch: 89,285 / Avg: 91,880)
+INFO  Add: 7,450,000 Data (Batch: 82,781 / Avg: 91,813)
+INFO  Add: 7,500,000 Data (Batch: 85,178 / Avg: 91,765)
+INFO    Elapsed: 81.73 seconds [2017/06/27 18:13:24 GMT]
+INFO  Add: 7,550,000 Data (Batch: 90,909 / Avg: 91,759)
+INFO  Add: 7,600,000 Data (Batch: 83,892 / Avg: 91,703)
+INFO  Add: 7,650,000 Data (Batch: 85,616 / Avg: 91,660)
+INFO  Add: 7,700,000 Data (Batch: 80,775 / Avg: 91,580)
+INFO  Add: 7,750,000 Data (Batch: 89,285 / Avg: 91,565)
+INFO  Add: 7,800,000 Data (Batch: 84,033 / Avg: 91,512)
+INFO  Add: 7,850,000 Data (Batch: 86,655 / Avg: 91,480)
+INFO  Add: 7,900,000 Data (Batch: 78,247 / Avg: 91,382)
+INFO  Add: 7,950,000 Data (Batch: 64,432 / Avg: 91,142)
+INFO  Add: 8,000,000 Data (Batch: 75,075 / Avg: 91,020)
+INFO    Elapsed: 87.89 seconds [2017/06/27 18:13:30 GMT]
+INFO  Add: 8,050,000 Data (Batch: 80,256 / Avg: 90,945)
+INFO  Add: 8,100,000 Data (Batch: 64,432 / Avg: 90,714)
+INFO  Add: 8,150,000 Data (Batch: 67,750 / Avg: 90,526)
+INFO  Add: 8,200,000 Data (Batch: 63,051 / Avg: 90,286)
+INFO  Add: 8,250,000 Data (Batch: 63,451 / Avg: 90,055)
+INFO  Add: 8,300,000 Data (Batch: 59,808 / Avg: 89,782)
+INFO  Add: 8,350,000 Data (Batch: 65,274 / Avg: 89,580)
+INFO  Add: 8,400,000 Data (Batch: 65,189 / Avg: 89,381)
+INFO  Add: 8,450,000 Data (Batch: 67,567 / Avg: 89,211)
+INFO  Add: 8,500,000 Data (Batch: 67,567 / Avg: 89,043)
+INFO    Elapsed: 95.46 seconds [2017/06/27 18:13:37 GMT]
+INFO  Add: 8,550,000 Data (Batch: 68,870 / Avg: 88,891)
+INFO  Add: 8,600,000 Data (Batch: 65,104 / Avg: 88,702)
+INFO  Add: 8,650,000 Data (Batch: 53,533 / Avg: 88,367)
+INFO  Add: 8,700,000 Data (Batch: 56,116 / Avg: 88,076)
+INFO  Add: 8,750,000 Data (Batch: 61,349 / Avg: 87,857)
+INFO  Add: 8,800,000 Data (Batch: 86,206 / Avg: 87,848)
+INFO  Add: 8,850,000 Data (Batch: 100,200 / Avg: 87,909)
+INFO  Add: 8,900,000 Data (Batch: 61,349 / Avg: 87,695)
+INFO  Add: 8,950,000 Data (Batch: 50,813 / Avg: 87,341)
+INFO  Add: 9,000,000 Data (Batch: 57,471 / Avg: 87,090)
+INFO    Elapsed: 103.34 seconds [2017/06/27 18:13:45 GMT]
+INFO  Add: 9,050,000 Data (Batch: 63,051 / Avg: 86,907)
+INFO  Add: 9,100,000 Data (Batch: 126,903 / Avg: 87,058)
+INFO  Add: 9,150,000 Data (Batch: 116,550 / Avg: 87,178)
+INFO  Add: 9,200,000 Data (Batch: 103,734 / Avg: 87,254)
+INFO  Add: 9,250,000 Data (Batch: 97,276 / Avg: 87,302)
+INFO  Add: 9,300,000 Data (Batch: 89,605 / Avg: 87,314)
+INFO  Add: 9,350,000 Data (Batch: 99,403 / Avg: 87,371)
+INFO  Add: 9,400,000 Data (Batch: 100,603 / Avg: 87,432)
+INFO  Add: 9,450,000 Data (Batch: 49,358 / Avg: 87,077)
+INFO  Add: 9,500,000 Data (Batch: 38,880 / Avg: 86,513)
+INFO    Elapsed: 109.81 seconds [2017/06/27 18:13:52 GMT]
+INFO  Add: 9,550,000 Data (Batch: 40,064 / Avg: 85,991)
+INFO  Add: 9,600,000 Data (Batch: 46,296 / Avg: 85,608)
+INFO  Add: 9,650,000 Data (Batch: 63,131 / Avg: 85,451)
+INFO  Add: 9,700,000 Data (Batch: 70,323 / Avg: 85,356)
+INFO  Add: 9,750,000 Data (Batch: 73,746 / Avg: 85,287)
+INFO  Add: 9,800,000 Data (Batch: 98,039 / Avg: 85,344)
+INFO  Add: 9,850,000 Data (Batch: 76,569 / Avg: 85,294)
+INFO  Add: 9,900,000 Data (Batch: 91,911 / Avg: 85,325)
+INFO  Add: 9,950,000 Data (Batch: 105,042 / Avg: 85,406)
+INFO  Add: 10,000,000 Data (Batch: 88,183 / Avg: 85,419)
+INFO    Elapsed: 117.07 seconds [2017/06/27 18:13:59 GMT]
+INFO  Add: 10,050,000 Data (Batch: 115,207 / Avg: 85,529)
+INFO  Add: 10,100,000 Data (Batch: 131,578 / Avg: 85,678)
+INFO  Add: 10,150,000 Data (Batch: 79,872 / Avg: 85,647)
+INFO  Add: 10,200,000 Data (Batch: 139,275 / Avg: 85,809)
+INFO  Add: 10,250,000 Data (Batch: 201,612 / Avg: 86,050)
+INFO  Add: 10,300,000 Data (Batch: 145,348 / Avg: 86,221)
+INFO  Add: 10,350,000 Data (Batch: 135,869 / Avg: 86,373)
+INFO  Add: 10,400,000 Data (Batch: 142,450 / Avg: 86,537)
+INFO  Add: 10,450,000 Data (Batch: 130,208 / Avg: 86,676)
+INFO  Add: 10,500,000 Data (Batch: 119,904 / Avg: 86,791)
+INFO    Elapsed: 120.98 seconds [2017/06/27 18:14:03 GMT]
+INFO  Add: 10,550,000 Data (Batch: 171,821 / Avg: 86,995)
+INFO  Add: 10,600,000 Data (Batch: 95,057 / Avg: 87,030)
+INFO  Add: 10,650,000 Data (Batch: 70,521 / Avg: 86,934)
+INFO  Add: 10,700,000 Data (Batch: 86,805 / Avg: 86,933)
+INFO  Add: 10,750,000 Data (Batch: 98,231 / Avg: 86,980)
+INFO  Add: 10,800,000 Data (Batch: 90,090 / Avg: 86,994)
+INFO  Add: 10,850,000 Data (Batch: 86,505 / Avg: 86,992)
+INFO  Add: 10,900,000 Data (Batch: 125,000 / Avg: 87,113)
+INFO  Add: 10,950,000 Data (Batch: 129,533 / Avg: 87,244)
+INFO  Add: 11,000,000 Data (Batch: 122,249 / Avg: 87,357)
+INFO    Elapsed: 125.92 seconds [2017/06/27 18:14:08 GMT]
+INFO  Add: 11,050,000 Data (Batch: 150,150 / Avg: 87,523)
+INFO  Add: 11,100,000 Data (Batch: 78,864 / Avg: 87,480)
+INFO  Add: 11,150,000 Data (Batch: 152,905 / Avg: 87,648)
+INFO  Add: 11,200,000 Data (Batch: 155,279 / Avg: 87,819)
+INFO  Add: 11,250,000 Data (Batch: 134,770 / Avg: 87,955)
+INFO  Add: 11,300,000 Data (Batch: 148,367 / Avg: 88,113)
+INFO  Add: 11,350,000 Data (Batch: 123,456 / Avg: 88,225)
+INFO  Add: 11,400,000 Data (Batch: 117,647 / Avg: 88,322)
+INFO  Add: 11,450,000 Data (Batch: 90,744 / Avg: 88,332)
+INFO  Add: 11,500,000 Data (Batch: 134,770 / Avg: 88,464)
+INFO    Elapsed: 129.99 seconds [2017/06/27 18:14:12 GMT]
+INFO  Add: 11,550,000 Data (Batch: 125,944 / Avg: 88,579)
+INFO  Add: 11,600,000 Data (Batch: 149,253 / Avg: 88,734)
+INFO  Add: 11,650,000 Data (Batch: 156,739 / Avg: 88,900)
+INFO  Add: 11,700,000 Data (Batch: 115,473 / Avg: 88,987)
+INFO  Add: 11,750,000 Data (Batch: 154,798 / Avg: 89,148)
+INFO  Add: 11,800,000 Data (Batch: 126,903 / Avg: 89,261)
+INFO  Add: 11,850,000 Data (Batch: 142,450 / Avg: 89,402)
+INFO  Add: 11,900,000 Data (Batch: 149,253 / Avg: 89,553)
+INFO  Add: 11,950,000 Data (Batch: 116,009 / Avg: 89,638)
+INFO  Add: 12,000,000 Data (Batch: 153,374 / Avg: 89,794)
+INFO    Elapsed: 133.64 seconds [2017/06/27 18:14:16 GMT]
+INFO  Add: 12,050,000 Data (Batch: 154,798 / Avg: 89,950)
+INFO  Add: 12,100,000 Data (Batch: 121,359 / Avg: 90,047)
+INFO  Add: 12,150,000 Data (Batch: 155,279 / Avg: 90,203)
+INFO  Add: 12,200,000 Data (Batch: 155,763 / Avg: 90,358)
+INFO  Add: 12,250,000 Data (Batch: 142,450 / Avg: 90,494)
+INFO  Add: 12,300,000 Data (Batch: 157,728 / Avg: 90,651)
+INFO  Add: 12,350,000 Data (Batch: 139,664 / Avg: 90,780)
+INFO  Add: 12,400,000 Data (Batch: 154,320 / Avg: 90,931)
+INFO  Add: 12,450,000 Data (Batch: 151,057 / Avg: 91,076)
+INFO  Add: 12,500,000 Data (Batch: 135,501 / Avg: 91,196)
+INFO    Elapsed: 137.07 seconds [2017/06/27 18:14:19 GMT]
+INFO  Add: 12,550,000 Data (Batch: 148,367 / Avg: 91,336)
+INFO  Add: 12,600,000 Data (Batch: 144,508 / Avg: 91,470)
+INFO  Add: 12,650,000 Data (Batch: 49,950 / Avg: 91,170)
+INFO  Add: 12,700,000 Data (Batch: 51,072 / Avg: 90,889)
+INFO  Add: 12,750,000 Data (Batch: 65,359 / Avg: 90,750)
+INFO  Add: 12,800,000 Data (Batch: 104,384 / Avg: 90,796)
+INFO  Add: 12,850,000 Data (Batch: 65,963 / Avg: 90,664)
+INFO  Add: 12,900,000 Data (Batch: 72,046 / Avg: 90,573)
+INFO  Add: 12,950,000 Data (Batch: 71,123 / Avg: 90,477)
+INFO  Add: 13,000,000 Data (Batch: 67,024 / Avg: 90,356)
+INFO    Elapsed: 143.88 seconds [2017/06/27 18:14:26 GMT]
+INFO  Add: 13,050,000 Data (Batch: 57,603 / Avg: 90,159)
+INFO  Add: 13,100,000 Data (Batch: 68,965 / Avg: 90,054)
+INFO  Add: 13,150,000 Data (Batch: 64,850 / Avg: 89,921)
+INFO  Add: 13,200,000 Data (Batch: 68,870 / Avg: 89,817)
+INFO  Add: 13,250,000 Data (Batch: 113,895 / Avg: 89,889)
+INFO  Add: 13,300,000 Data (Batch: 78,003 / Avg: 89,837)
+INFO  Add: 13,350,000 Data (Batch: 81,833 / Avg: 89,804)
+INFO  Add: 13,400,000 Data (Batch: 97,465 / Avg: 89,830)
+INFO  Add: 13,450,000 Data (Batch: 93,984 / Avg: 89,845)
+INFO  Add: 13,500,000 Data (Batch: 105,042 / Avg: 89,893)
+INFO    Elapsed: 150.18 seconds [2017/06/27 18:14:32 GMT]
+INFO  Add: 13,550,000 Data (Batch: 97,847 / Avg: 89,920)
+INFO  Add: 13,600,000 Data (Batch: 100,000 / Avg: 89,954)
+INFO  Add: 13,650,000 Data (Batch: 89,605 / Avg: 89,952)
+INFO  Add: 13,700,000 Data (Batch: 80,000 / Avg: 89,912)
+INFO  Add: 13,750,000 Data (Batch: 87,719 / Avg: 89,903)
+INFO  Add: 13,800,000 Data (Batch: 67,476 / Avg: 89,795)
+INFO  Add: 13,850,000 Data (Batch: 72,886 / Avg: 89,720)
+INFO  Add: 13,900,000 Data (Batch: 76,103 / Avg: 89,662)
+INFO  Add: 13,950,000 Data (Batch: 118,764 / Avg: 89,741)
+INFO  Add: 14,000,000 Data (Batch: 95,419 / Avg: 89,760)
+INFO    Elapsed: 155.97 seconds [2017/06/27 18:14:38 GMT]
+INFO  Add: 14,050,000 Data (Batch: 65,445 / Avg: 89,642)
+INFO  Add: 14,100,000 Data (Batch: 57,339 / Avg: 89,463)
+INFO  Add: 14,150,000 Data (Batch: 43,440 / Avg: 89,129)
+INFO  Add: 14,200,000 Data (Batch: 56,818 / Avg: 88,951)
+INFO  Add: 14,250,000 Data (Batch: 74,850 / Avg: 88,893)
+INFO  Add: 14,300,000 Data (Batch: 98,231 / Avg: 88,922)
+INFO  Add: 14,350,000 Data (Batch: 134,770 / Avg: 89,028)
+INFO  Add: 14,400,000 Data (Batch: 117,370 / Avg: 89,102)
+INFO  Add: 14,450,000 Data (Batch: 97,465 / Avg: 89,129)
+INFO  Add: 14,500,000 Data (Batch: 114,678 / Avg: 89,197)
+INFO    Elapsed: 162.56 seconds [2017/06/27 18:14:45 GMT]
+INFO  Add: 14,550,000 Data (Batch: 67,024 / Avg: 89,096)
+INFO  Add: 14,600,000 Data (Batch: 38,402 / Avg: 88,695)
+INFO  Add: 14,650,000 Data (Batch: 44,523 / Avg: 88,396)
+INFO  Add: 14,700,000 Data (Batch: 75,187 / Avg: 88,343)
+INFO  Add: 14,750,000 Data (Batch: 86,206 / Avg: 88,336)
+INFO  Add: 14,800,000 Data (Batch: 76,923 / Avg: 88,291)
+INFO  Add: 14,850,000 Data (Batch: 83,892 / Avg: 88,276)
+INFO  Add: 14,900,000 Data (Batch: 100,200 / Avg: 88,311)
+INFO  Add: 14,950,000 Data (Batch: 86,505 / Avg: 88,305)
+INFO  Add: 15,000,000 Data (Batch: 89,445 / Avg: 88,309)
+INFO    Elapsed: 169.86 seconds [2017/06/27 18:14:52 GMT]
+INFO  Add: 15,050,000 Data (Batch: 94,339 / Avg: 88,327)
+INFO  Add: 15,100,000 Data (Batch: 84,889 / Avg: 88,315)
+INFO  Add: 15,150,000 Data (Batch: 85,324 / Avg: 88,305)
+INFO  Add: 15,200,000 Data (Batch: 91,240 / Avg: 88,315)
+INFO  Add: 15,250,000 Data (Batch: 84,033 / Avg: 88,300)
+INFO  Add: 15,300,000 Data (Batch: 89,445 / Avg: 88,304)
+INFO  Add: 15,350,000 Data (Batch: 86,505 / Avg: 88,298)
+INFO  Add: 15,400,000 Data (Batch: 82,644 / Avg: 88,278)
+INFO  Add: 15,450,000 Data (Batch: 95,057 / Avg: 88,298)
+INFO  Add: 15,500,000 Data (Batch: 84,459 / Avg: 88,285)
+INFO    Elapsed: 175.57 seconds [2017/06/27 18:14:58 GMT]
+INFO  Add: 15,550,000 Data (Batch: 87,719 / Avg: 88,284)
+INFO  Add: 15,600,000 Data (Batch: 91,743 / Avg: 88,294)
+INFO  Add: 15,650,000 Data (Batch: 83,472 / Avg: 88,278)
+INFO  Add: 15,700,000 Data (Batch: 82,781 / Avg: 88,259)
+INFO  Add: 15,750,000 Data (Batch: 91,074 / Avg: 88,268)
+INFO  Add: 15,800,000 Data (Batch: 84,175 / Avg: 88,254)
+INFO  Add: 15,850,000 Data (Batch: 83,333 / Avg: 88,238)
+INFO  Add: 15,900,000 Data (Batch: 92,764 / Avg: 88,251)
+INFO  Add: 15,950,000 Data (Batch: 87,260 / Avg: 88,248)
+INFO  Add: 16,000,000 Data (Batch: 128,205 / Avg: 88,334)
+INFO    Elapsed: 181.13 seconds [2017/06/27 18:15:03 GMT]
+INFO  Add: 16,050,000 Data (Batch: 96,899 / Avg: 88,359)
+INFO  Add: 16,100,000 Data (Batch: 138,504 / Avg: 88,458)
+INFO  Add: 16,150,000 Data (Batch: 67,114 / Avg: 88,371)
+INFO  Add: 16,200,000 Data (Batch: 78,247 / Avg: 88,336)
+INFO  Add: 16,250,000 Data (Batch: 87,412 / Avg: 88,333)
+INFO  Add: 16,300,000 Data (Batch: 87,412 / Avg: 88,330)
+INFO  Add: 16,350,000 Data (Batch: 96,711 / Avg: 88,354)
+INFO  Add: 16,400,000 Data (Batch: 92,592 / Avg: 88,366)
+INFO  Add: 16,450,000 Data (Batch: 88,809 / Avg: 88,367)
+INFO  Add: 16,500,000 Data (Batch: 98,619 / Avg: 88,395)
+INFO    Elapsed: 186.66 seconds [2017/06/27 18:15:09 GMT]
+INFO  Add: 16,550,000 Data (Batch: 90,090 / Avg: 88,400)
+INFO  Add: 16,600,000 Data (Batch: 87,719 / Avg: 88,398)
+INFO  Add: 16,650,000 Data (Batch: 100,200 / Avg: 88,429)
+INFO  Add: 16,700,000 Data (Batch: 54,585 / Avg: 88,265)
+INFO  Add: 16,750,000 Data (Batch: 96,525 / Avg: 88,288)
+INFO  Add: 16,800,000 Data (Batch: 104,602 / Avg: 88,329)
+INFO  Add: 16,850,000 Data (Batch: 95,785 / Avg: 88,349)
+INFO  Add: 16,900,000 Data (Batch: 87,719 / Avg: 88,347)
+INFO  Add: 16,950,000 Data (Batch: 97,276 / Avg: 88,371)
+INFO  Add: 17,000,000 Data (Batch: 93,808 / Avg: 88,386)
+INFO    Elapsed: 192.34 seconds [2017/06/27 18:15:14 GMT]
+INFO  Add: 17,050,000 Data (Batch: 69,444 / Avg: 88,316)
+INFO  Add: 17,100,000 Data (Batch: 63,694 / Avg: 88,216)
+INFO  Add: 17,150,000 Data (Batch: 61,349 / Avg: 88,104)
+INFO  Add: 17,200,000 Data (Batch: 55,679 / Avg: 87,955)
+INFO  Add: 17,250,000 Data (Batch: 57,208 / Avg: 87,818)
+INFO  Add: 17,300,000 Data (Batch: 94,696 / Avg: 87,836)
+INFO  Add: 17,350,000 Data (Batch: 140,845 / Avg: 87,932)
+INFO  Add: 17,400,000 Data (Batch: 69,735 / Avg: 87,866)
+INFO  Add: 17,450,000 Data (Batch: 67,385 / Avg: 87,789)
+INFO  Add: 17,500,000 Data (Batch: 73,964 / Avg: 87,743)
+INFO    Elapsed: 199.45 seconds [2017/06/27 18:15:21 GMT]
+INFO  Add: 17,550,000 Data (Batch: 101,626 / Avg: 87,777)
+INFO  Add: 17,600,000 Data (Batch: 106,382 / Avg: 87,820)
+INFO  Add: 17,650,000 Data (Batch: 100,000 / Avg: 87,851)
+INFO  Add: 17,700,000 Data (Batch: 152,905 / Avg: 87,956)
+INFO  Add: 17,750,000 Data (Batch: 117,924 / Avg: 88,019)
+INFO  Add: 17,800,000 Data (Batch: 96,711 / Avg: 88,042)
+INFO  Add: 17,850,000 Data (Batch: 91,911 / Avg: 88,052)
+INFO  Add: 17,900,000 Data (Batch: 96,153 / Avg: 88,073)
+INFO  Add: 17,950,000 Data (Batch: 105,042 / Avg: 88,112)
+INFO  Add: 18,000,000 Data (Batch: 103,305 / Avg: 88,148)
+INFO    Elapsed: 204.20 seconds [2017/06/27 18:15:26 GMT]
+INFO  Add: 18,050,000 Data (Batch: 127,551 / Avg: 88,224)
+INFO  Add: 18,100,000 Data (Batch: 151,515 / Avg: 88,326)
+INFO  Add: 18,150,000 Data (Batch: 92,421 / Avg: 88,337)
+INFO  Add: 18,200,000 Data (Batch: 85,763 / Avg: 88,329)
+INFO  Add: 18,250,000 Data (Batch: 89,445 / Avg: 88,332)
+INFO  Add: 18,300,000 Data (Batch: 140,056 / Avg: 88,422)
+INFO  Add: 18,350,000 Data (Batch: 201,612 / Avg: 88,557)
+INFO  Add: 18,400,000 Data (Batch: 133,689 / Avg: 88,638)
+INFO  Add: 18,450,000 Data (Batch: 132,978 / Avg: 88,718)
+INFO  Add: 18,500,000 Data (Batch: 92,936 / Avg: 88,729)
+INFO    Elapsed: 208.50 seconds [2017/06/27 18:15:31 GMT]
+INFO  Add: 18,550,000 Data (Batch: 123,456 / Avg: 88,797)
+INFO  Add: 18,600,000 Data (Batch: 156,250 / Avg: 88,900)
+INFO  Add: 18,650,000 Data (Batch: 140,056 / Avg: 88,987)
+INFO  Add: 18,700,000 Data (Batch: 67,385 / Avg: 88,911)
+INFO  Add: 18,750,000 Data (Batch: 87,719 / Avg: 88,908)
+INFO  Add: 18,800,000 Data (Batch: 75,414 / Avg: 88,865)
+INFO  Add: 18,850,000 Data (Batch: 81,699 / Avg: 88,845)
+INFO  Add: 18,900,000 Data (Batch: 64,935 / Avg: 88,758)
+INFO  Add: 18,950,000 Data (Batch: 71,022 / Avg: 88,700)
+INFO  Add: 19,000,000 Data (Batch: 122,549 / Avg: 88,764)
+INFO    Elapsed: 214.05 seconds [2017/06/27 18:15:36 GMT]
+INFO  Add: 19,050,000 Data (Batch: 91,074 / Avg: 88,770)
+INFO  Add: 19,100,000 Data (Batch: 111,111 / Avg: 88,817)
+INFO  Add: 19,150,000 Data (Batch: 110,375 / Avg: 88,862)
+INFO  Add: 19,200,000 Data (Batch: 106,609 / Avg: 88,901)
+INFO  Add: 19,250,000 Data (Batch: 76,804 / Avg: 88,864)
+INFO  Add: 19,300,000 Data (Batch: 83,472 / Avg: 88,850)
+INFO  Add: 19,350,000 Data (Batch: 95,057 / Avg: 88,865)
+INFO  Add: 19,400,000 Data (Batch: 89,285 / Avg: 88,866)
+INFO  Add: 19,450,000 Data (Batch: 89,766 / Avg: 88,868)
+INFO  Add: 19,500,000 Data (Batch: 48,262 / Avg: 88,677)
+INFO    Elapsed: 219.90 seconds [2017/06/27 18:15:42 GMT]
+INFO  Add: 19,550,000 Data (Batch: 68,212 / Avg: 88,609)
+INFO  Add: 19,600,000 Data (Batch: 71,123 / Avg: 88,553)
+INFO  Add: 19,650,000 Data (Batch: 73,421 / Avg: 88,507)
+INFO  Add: 19,700,000 Data (Batch: 76,335 / Avg: 88,471)
+INFO  Add: 19,750,000 Data (Batch: 71,326 / Avg: 88,417)
+INFO  Add: 19,800,000 Data (Batch: 70,921 / Avg: 88,362)
+INFO  Add: 19,850,000 Data (Batch: 100,000 / Avg: 88,388)
+INFO  Add: 19,900,000 Data (Batch: 90,909 / Avg: 88,394)
+INFO  Add: 19,950,000 Data (Batch: 97,276 / Avg: 88,414)
+INFO  Add: 20,000,000 Data (Batch: 108,932 / Avg: 88,456)
+INFO    Elapsed: 226.10 seconds [2017/06/27 18:15:48 GMT]
+INFO  Add: 20,050,000 Data (Batch: 125,944 / Avg: 88,522)
+INFO  Add: 20,100,000 Data (Batch: 122,249 / Avg: 88,582)
+INFO  Add: 20,150,000 Data (Batch: 114,155 / Avg: 88,632)
+INFO  Add: 20,200,000 Data (Batch: 181,159 / Avg: 88,744)
+INFO  Add: 20,250,000 Data (Batch: 157,232 / Avg: 88,839)
+INFO  Add: 20,300,000 Data (Batch: 153,846 / Avg: 88,932)
+INFO  Add: 20,350,000 Data (Batch: 108,225 / Avg: 88,971)
+INFO  Add: 20,400,000 Data (Batch: 182,481 / Avg: 89,083)
+INFO  Add: 20,450,000 Data (Batch: 268,817 / Avg: 89,229)
+INFO  Add: 20,500,000 Data (Batch: 270,270 / Avg: 89,375)
+INFO    Elapsed: 229.37 seconds [2017/06/27 18:15:51 GMT]
+INFO  Add: 20,550,000 Data (Batch: 246,305 / Avg: 89,514)
+INFO  Add: 20,600,000 Data (Batch: 198,412 / Avg: 89,633)
+INFO  Add: 20,650,000 Data (Batch: 133,333 / Avg: 89,704)
+INFO  Add: 20,700,000 Data (Batch: 75,642 / Avg: 89,664)
+INFO  Add: 20,750,000 Data (Batch: 171,821 / Avg: 89,767)
+INFO  Add: 20,800,000 Data (Batch: 236,966 / Avg: 89,902)
+INFO  Add: 20,850,000 Data (Batch: 122,549 / Avg: 89,959)
+INFO  Add: 20,900,000 Data (Batch: 60,827 / Avg: 89,856)
+INFO  Add: 20,950,000 Data (Batch: 145,348 / Avg: 89,938)
+INFO  Add: 21,000,000 Data (Batch: 114,416 / Avg: 89,984)
+INFO    Elapsed: 233.37 seconds [2017/06/27 18:15:55 GMT]
+INFO  Add: 21,050,000 Data (Batch: 84,459 / Avg: 89,970)
+INFO  Add: 21,100,000 Data (Batch: 79,617 / Avg: 89,942)
+INFO  Add: 21,150,000 Data (Batch: 91,911 / Avg: 89,947)
+INFO  Add: 21,200,000 Data (Batch: 122,249 / Avg: 90,003)
+INFO  Add: 21,250,000 Data (Batch: 59,241 / Avg: 89,893)
+INFO  Add: 21,300,000 Data (Batch: 69,541 / Avg: 89,831)
+INFO  Add: 21,350,000 Data (Batch: 70,521 / Avg: 89,774)
+INFO  Add: 21,400,000 Data (Batch: 75,075 / Avg: 89,733)
+INFO  Add: 21,450,000 Data (Batch: 98,231 / Avg: 89,751)
+INFO  Add: 21,500,000 Data (Batch: 93,632 / Avg: 89,759)
+INFO    Elapsed: 239.53 seconds [2017/06/27 18:16:02 GMT]
+INFO  Add: 21,550,000 Data (Batch: 107,296 / Avg: 89,793)
+INFO  Add: 21,600,000 Data (Batch: 85,034 / Avg: 89,782)
+INFO  Add: 21,650,000 Data (Batch: 88,495 / Avg: 89,779)
+INFO  Add: 21,700,000 Data (Batch: 88,809 / Avg: 89,777)
+INFO  Add: 21,750,000 Data (Batch: 84,033 / Avg: 89,762)
+INFO  Add: 21,800,000 Data (Batch: 93,984 / Avg: 89,772)
+INFO  Add: 21,850,000 Data (Batch: 73,964 / Avg: 89,728)
+INFO  Add: 21,900,000 Data (Batch: 92,081 / Avg: 89,733)
+INFO  Add: 21,950,000 Data (Batch: 84,745 / Avg: 89,721)
+INFO  Add: 22,000,000 Data (Batch: 88,028 / Avg: 89,717)
+INFO    Elapsed: 245.21 seconds [2017/06/27 18:16:07 GMT]
+INFO  Add: 22,050,000 Data (Batch: 79,617 / Avg: 89,691)
+INFO  Add: 22,100,000 Data (Batch: 89,126 / Avg: 89,690)
+INFO  Add: 22,150,000 Data (Batch: 93,984 / Avg: 89,699)
+INFO  Add: 22,200,000 Data (Batch: 91,240 / Avg: 89,703)
+INFO  Add: 22,250,000 Data (Batch: 95,057 / Avg: 89,714)
+INFO  Add: 22,300,000 Data (Batch: 144,508 / Avg: 89,790)
+INFO  Add: 22,350,000 Data (Batch: 88,652 / Avg: 89,788)
+INFO  Add: 22,400,000 Data (Batch: 97,276 / Avg: 89,803)
+INFO  Add: 22,450,000 Data (Batch: 90,744 / Avg: 89,805)
+INFO  Add: 22,500,000 Data (Batch: 86,355 / Avg: 89,797)
+INFO    Elapsed: 250.56 seconds [2017/06/27 18:16:13 GMT]
+INFO  Add: 22,550,000 Data (Batch: 96,525 / Avg: 89,811)
+INFO  Add: 22,600,000 Data (Batch: 56,947 / Avg: 89,697)
+INFO  Add: 22,650,000 Data (Batch: 84,033 / Avg: 89,683)
+INFO  Add: 22,700,000 Data (Batch: 39,370 / Avg: 89,432)
+INFO  Add: 22,750,000 Data (Batch: 30,156 / Avg: 89,047)
+INFO  Add: 22,800,000 Data (Batch: 33,512 / Avg: 88,724)
+INFO  Add: 22,850,000 Data (Batch: 94,876 / Avg: 88,737)
+INFO  Add: 22,900,000 Data (Batch: 79,617 / Avg: 88,715)
+INFO  Add: 22,950,000 Data (Batch: 83,892 / Avg: 88,704)
+INFO  Add: 23,000,000 Data (Batch: 86,058 / Avg: 88,698)
+INFO    Elapsed: 259.31 seconds [2017/06/27 18:16:21 GMT]
+INFO  Add: 23,050,000 Data (Batch: 110,132 / Avg: 88,735)
+INFO  Add: 23,100,000 Data (Batch: 103,950 / Avg: 88,763)
+INFO  Add: 23,150,000 Data (Batch: 101,214 / Avg: 88,787)
+INFO  Add: 23,200,000 Data (Batch: 132,625 / Avg: 88,850)
+INFO  Add: 23,250,000 Data (Batch: 92,764 / Avg: 88,858)
+INFO  Add: 23,300,000 Data (Batch: 167,785 / Avg: 88,948)
+INFO  Add: 23,350,000 Data (Batch: 83,892 / Avg: 88,937)
+INFO  Add: 23,400,000 Data (Batch: 59,952 / Avg: 88,845)
+INFO  Add: 23,450,000 Data (Batch: 115,207 / Avg: 88,888)
+INFO  Add: 23,500,000 Data (Batch: 117,924 / Avg: 88,935)
+INFO    Elapsed: 264.24 seconds [2017/06/27 18:16:26 GMT]
+INFO  Add: 23,550,000 Data (Batch: 128,865 / Avg: 88,993)
+INFO  Add: 23,600,000 Data (Batch: 119,904 / Avg: 89,042)
+INFO  Add: 23,650,000 Data (Batch: 138,121 / Avg: 89,109)
+INFO  Add: 23,700,000 Data (Batch: 125,000 / Avg: 89,163)
+INFO  Add: 23,750,000 Data (Batch: 140,449 / Avg: 89,232)
+INFO  Add: 23,800,000 Data (Batch: 132,978 / Avg: 89,293)
+INFO  Add: 23,850,000 Data (Batch: 118,203 / Avg: 89,339)
+INFO  Add: 23,900,000 Data (Batch: 143,266 / Avg: 89,409)
+INFO  Add: 23,950,000 Data (Batch: 127,551 / Avg: 89,465)
+INFO  Add: 24,000,000 Data (Batch: 144,927 / Avg: 89,537)
+INFO    Elapsed: 268.05 seconds [2017/06/27 18:16:30 GMT]
+INFO  Add: 24,050,000 Data (Batch: 130,890 / Avg: 89,596)
+INFO  Add: 24,100,000 Data (Batch: 147,928 / Avg: 89,669)
+INFO  Add: 24,150,000 Data (Batch: 132,625 / Avg: 89,729)
+INFO  Add: 24,200,000 Data (Batch: 153,846 / Avg: 89,806)
+INFO  Add: 24,250,000 Data (Batch: 155,279 / Avg: 89,885)
+INFO  Add: 24,300,000 Data (Batch: 127,877 / Avg: 89,940)
+INFO  Add: 24,350,000 Data (Batch: 150,150 / Avg: 90,014)
+INFO  Add: 24,400,000 Data (Batch: 127,877 / Avg: 90,068)
+INFO  Add: 24,450,000 Data (Batch: 147,928 / Avg: 90,140)
+INFO  Add: 24,500,000 Data (Batch: 149,700 / Avg: 90,214)
+INFO    Elapsed: 271.58 seconds [2017/06/27 18:16:34 GMT]
+INFO  Add: 24,550,000 Data (Batch: 126,262 / Avg: 90,266)
+INFO  Add: 24,600,000 Data (Batch: 138,888 / Avg: 90,330)
+INFO  Add: 24,650,000 Data (Batch: 124,378 / Avg: 90,381)
+INFO  Add: 24,700,000 Data (Batch: 141,643 / Avg: 90,447)
+INFO  Add: 24,750,000 Data (Batch: 90,744 / Avg: 90,447)
+INFO  Add: 24,800,000 Data (Batch: 94,696 / Avg: 90,456)
+INFO  Add: 24,850,000 Data (Batch: 125,628 / Avg: 90,507)
+INFO  Add: 24,900,000 Data (Batch: 112,107 / Avg: 90,542)
+INFO  Add: 24,950,000 Data (Batch: 141,242 / Avg: 90,607)
+INFO  Add: 25,000,000 Data (Batch: 119,617 / Avg: 90,651)
+INFO    Elapsed: 275.78 seconds [2017/06/27 18:16:38 GMT]
+INFO  Add: 25,050,000 Data (Batch: 143,678 / Avg: 90,718)
+INFO  Add: 25,100,000 Data (Batch: 137,741 / Avg: 90,779)
+INFO  Add: 25,150,000 Data (Batch: 121,951 / Avg: 90,826)
+INFO  Add: 25,200,000 Data (Batch: 143,266 / Avg: 90,892)
+INFO  Add: 25,250,000 Data (Batch: 79,872 / Avg: 90,867)
+INFO  Add: 25,300,000 Data (Batch: 145,348 / Avg: 90,934)
+INFO  Add: 25,350,000 Data (Batch: 133,689 / Avg: 90,991)
+INFO  Add: 25,400,000 Data (Batch: 150,602 / Avg: 91,062)
+INFO  Add: 25,450,000 Data (Batch: 153,846 / Avg: 91,135)
+INFO  Add: 25,500,000 Data (Batch: 137,741 / Avg: 91,196)
+INFO    Elapsed: 279.62 seconds [2017/06/27 18:16:42 GMT]
+INFO  Add: 25,550,000 Data (Batch: 156,739 / Avg: 91,271)
+INFO  Add: 25,600,000 Data (Batch: 124,378 / Avg: 91,318)
+INFO  Add: 25,650,000 Data (Batch: 152,905 / Avg: 91,390)
+INFO  Add: 25,700,000 Data (Batch: 148,367 / Avg: 91,458)
+INFO  Add: 25,750,000 Data (Batch: 129,533 / Avg: 91,510)
+INFO  Add: 25,800,000 Data (Batch: 151,057 / Avg: 91,580)
+INFO  Add: 25,850,000 Data (Batch: 108,932 / Avg: 91,609)
+INFO  Add: 25,900,000 Data (Batch: 104,602 / Avg: 91,631)
+INFO  Add: 25,950,000 Data (Batch: 79,491 / Avg: 91,604)
+INFO  Add: 26,000,000 Data (Batch: 82,101 / Avg: 91,583)
+INFO    Elapsed: 283.89 seconds [2017/06/27 18:16:46 GMT]
+INFO  Add: 26,050,000 Data (Batch: 110,864 / Avg: 91,614)
+INFO  Add: 26,100,000 Data (Batch: 149,700 / Avg: 91,682)
+INFO  Add: 26,150,000 Data (Batch: 166,666 / Avg: 91,761)
+INFO  Add: 26,200,000 Data (Batch: 167,785 / Avg: 91,840)
+INFO  Add: 26,250,000 Data (Batch: 150,602 / Avg: 91,909)
+INFO  Add: 26,300,000 Data (Batch: 166,112 / Avg: 91,987)
+INFO  Add: 26,350,000 Data (Batch: 144,092 / Avg: 92,050)
+INFO  Add: 26,400,000 Data (Batch: 158,730 / Avg: 92,123)
+INFO  Add: 26,450,000 Data (Batch: 171,232 / Avg: 92,204)
+INFO  Add: 26,500,000 Data (Batch: 154,320 / Avg: 92,274)
+INFO    Elapsed: 287.19 seconds [2017/06/27 18:16:49 GMT]
+INFO  Add: 26,550,000 Data (Batch: 165,562 / Avg: 92,351)
+INFO  Add: 26,600,000 Data (Batch: 165,016 / Avg: 92,427)
+INFO  Add: 26,650,000 Data (Batch: 133,333 / Avg: 92,481)
+INFO  Add: 26,700,000 Data (Batch: 162,866 / Avg: 92,556)
+INFO  Add: 26,750,000 Data (Batch: 168,350 / Avg: 92,633)
+INFO  Add: 26,800,000 Data (Batch: 146,198 / Avg: 92,697)
+INFO  Add: 26,850,000 Data (Batch: 124,378 / Avg: 92,741)
+INFO  Add: 26,900,000 Data (Batch: 97,276 / Avg: 92,749)
+INFO  Add: 26,950,000 Data (Batch: 133,333 / Avg: 92,801)
+INFO  Add: 27,000,000 Data (Batch: 94,876 / Avg: 92,805)
+INFO    Elapsed: 290.93 seconds [2017/06/27 18:16:53 GMT]
+INFO  Add: 27,050,000 Data (Batch: 99,206 / Avg: 92,816)
+INFO  Add: 27,100,000 Data (Batch: 74,738 / Avg: 92,775)
+INFO  Add: 27,150,000 Data (Batch: 86,956 / Avg: 92,763)
+INFO  Add: 27,200,000 Data (Batch: 88,652 / Avg: 92,755)
+INFO  Add: 27,250,000 Data (Batch: 77,519 / Avg: 92,722)
+INFO  Add: 27,300,000 Data (Batch: 102,880 / Avg: 92,739)
+INFO  Add: 27,350,000 Data (Batch: 98,231 / Avg: 92,748)
+INFO  Add: 27,400,000 Data (Batch: 93,632 / Avg: 92,750)
+INFO  Add: 27,450,000 Data (Batch: 107,758 / Avg: 92,773)
+INFO  Add: 27,500,000 Data (Batch: 140,449 / Avg: 92,831)
+INFO    Elapsed: 296.24 seconds [2017/06/27 18:16:58 GMT]
+INFO  Add: 27,550,000 Data (Batch: 124,688 / Avg: 92,874)
+INFO  Add: 27,600,000 Data (Batch: 100,806 / Avg: 92,887)
+INFO  Add: 27,650,000 Data (Batch: 150,602 / Avg: 92,951)
+INFO  Add: 27,700,000 Data (Batch: 179,856 / Avg: 93,032)
+INFO  Add: 27,750,000 Data (Batch: 183,150 / Avg: 93,115)
+INFO  Add: 27,800,000 Data (Batch: 136,612 / Avg: 93,168)
+INFO  Total: 27,827,281 tuples : 299.70 seconds : 92,851.69 tuples/sec [2017/06/27 18:17:02 GMT]
+ 18:17:02 INFO Data Load Phase Completed
+ 18:17:02 INFO Index Building Phase
+ 18:17:02 INFO Creating Index SPO
+ 18:17:02 INFO Sort SPO
+ 18:25:32 INFO Sort SPO Completed
+ 18:25:32 INFO Build SPO
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 18:25:38 INFO Build SPO Completed
+ 18:25:38 INFO Creating Index POS
+ 18:25:38 INFO Sort POS
+ 18:42:11 INFO Sort POS Completed
+ 18:42:11 INFO Build POS
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 18:42:17 INFO Build POS Completed
+ 18:42:17 INFO Creating Index OSP
+ 18:42:17 INFO Sort OSP
+ 18:55:32 INFO Sort OSP Completed
+ 18:55:32 INFO Build OSP
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 18:55:38 INFO Build OSP Completed
+ 18:55:38 INFO Index Building Phase Completed
+ 18:55:38 INFO -- TDB Bulk Loader Finish
+ 18:55:38 INFO -- 2617 seconds
