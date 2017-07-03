@@ -1,0 +1,2 @@
+<Queries>,<mean_time>,<total>
+43,0.318884,13.712
