@@ -1,0 +1,2 @@
+##name, min, mean, max, stddev, count, total
+tot,0.0,1.0200000000000005,6.0,1.1691615694634354,50 51.0
