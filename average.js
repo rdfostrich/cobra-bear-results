@@ -18,7 +18,9 @@ let SUBDIRS = [
     'so-low',
     'sp-high',
     'sp-low',
-    'spo'
+    'spo',
+    'p',
+    'po'
 ];
 
 let columnsStaticVm = [
@@ -74,16 +76,16 @@ let countdown = 0;
 SUBDIRS.forEach((subDir) => {
     countdown++;
     fs.readdir(dir + subDir, (err, files) => {
+        if (err) return;
         countdown++;
-        if (err) throw err;
         
         files.forEach(file => {
             type = null;
-            if (file.indexOf('_average_vq') == 0 || file.indexOf('vq') == 0) {
+            if (file.indexOf('_median_vq') == 0 || file.indexOf('vq') == 0) {
                 type = 'vq';
-            } else if (file.indexOf('_average_dm') == 0 || file.indexOf('dm') == 0) {
+            } else if (file.indexOf('_median_dm') == 0 || file.indexOf('dm') == 0) {
                 type = 'dm';
-            } else if (file.indexOf('_average_vm') == 0 || file.indexOf('vm') == 0) {
+            } else if (file.indexOf('_median_vm') == 0 || file.indexOf('vm') == 0) {
                 type = 'vm';
             }
             if (type) {
