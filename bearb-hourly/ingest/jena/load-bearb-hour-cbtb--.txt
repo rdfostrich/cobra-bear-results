@@ -1,0 +1,148 @@
+ 06:09:21 INFO -- TDB Bulk Loader Start
+find: unrecognized: -quit
+BusyBox v1.24.2 (2017-01-18 14:13:46 GMT) multi-call binary.
+
+Usage: find [-HL] [PATH]... [OPTIONS] [ACTIONS]
+
+Search for files and perform actions on them.
+First failed action stops processing of current file.
+Defaults: PATH is current directory, action is '-print'
+
+	-L,-follow	Follow symlinks
+	-H		...on command line only
+	-xdev		Don't descend directories on other filesystems
+	-maxdepth N	Descend at most N levels. -maxdepth 0 applies
+			actions to command line arguments only
+	-mindepth N	Don't act on first N levels
+	-depth		Act on directory *after* traversing it
+
+Actions:
+	( ACTIONS )	Group actions for -o / -a
+	! ACT		Invert ACT's success/failure
+	ACT1 [-a] ACT2	If ACT1 fails, stop, else do ACT2
+	ACT1 -o ACT2	If ACT1 succeeds, stop, else do ACT2
+			Note: -a has higher priority than -o
+	-name PATTERN	Match file name (w/o directory name) to PATTERN
+	-iname PATTERN	Case insensitive -name
+	-path PATTERN	Match path to PATTERN
+	-ipath PATTERN	Case insensitive -path
+	-regex PATTERN	Match path to regex PATTERN
+	-type X		File type is X (one of: f,d,l,b,c,...)
+	-perm MASK	At least one mask bit (+MASK), all bits (-MASK),
+			or exactly MASK bits are set in file's mode
+	-mtime DAYS	mtime is greater than (+N), less than (-N),
+			or exactly N days in the past
+	-mmin MINS	mtime is greater than (+N), less than (-N),
+			or exactly N minutes in the past
+	-newer FILE	mtime is more recent than FILE's
+	-inum N		File has inode number N
+	-user NAME/ID	File is owned by given user
+	-group NAME/ID	File is owned by given group
+	-size N[bck]	File size is N (c:bytes,k:kbytes,b:512 bytes(def.))
+			+/-N: file size is bigger/smaller than N
+	-links N	Number of links is greater than (+N), less than (-N),
+			or exactly N
+	-prune		If current file is directory, don't descend into it
+If none of the following actions is specified, -print is assumed
+	-print		Print file name
+	-print0		Print file name, NUL terminated
+	-exec CMD ARG ;	Run CMD with all instances of {} replaced by
+			file name. Fails if CMD exits with nonzero
+	-exec CMD ARG + Run CMD with {} replaced by list of file names
+	-delete		Delete current file/directory. Turns on -depth option
+ 06:09:21 INFO Data Load Phase
+ 06:09:21 INFO Got 1 data files to load
+ 06:09:21 INFO Data file 1: /var/data/in/alldata.CBTB.nq
+INFO  Load: /var/data/in/alldata.CBTB.nq -- 2017/07/12 06:09:22 GMT
+INFO  Add: 50,000 Data (Batch: 41,288 / Avg: 41,288)
+INFO  Add: 100,000 Data (Batch: 123,456 / Avg: 61,881)
+INFO  Add: 150,000 Data (Batch: 145,348 / Avg: 76,530)
+INFO  Add: 200,000 Data (Batch: 131,926 / Avg: 85,506)
+INFO  Add: 250,000 Data (Batch: 140,845 / Avg: 92,798)
+INFO  Total: 262,329 tuples : 2.89 seconds : 90,614.51 tuples/sec [2017/07/12 06:09:25 GMT]
+ 06:09:25 INFO Data Load Phase Completed
+ 06:09:25 INFO Index Building Phase
+ 06:09:25 INFO Creating Index SPO
+/jena/bin/tdbloader2index: line 340: [: 1191899136117756489728: integer expression expected
+ 06:09:25 INFO Sort SPO
+ 06:09:25 INFO Sort SPO Completed
+ 06:09:25 INFO Build SPO
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 06:09:26 INFO Build SPO Completed
+ 06:09:26 INFO Creating Index POS
+/jena/bin/tdbloader2index: line 340: [: 1191899136117756493824: integer expression expected
+ 06:09:26 INFO Sort POS
+ 06:09:26 INFO Sort POS Completed
+ 06:09:26 INFO Build POS
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 06:09:26 INFO Build POS Completed
+ 06:09:26 INFO Creating Index OSP
+/jena/bin/tdbloader2index: line 340: [: 1191899136117756641280: integer expression expected
+ 06:09:26 INFO Sort OSP
+ 06:09:27 INFO Sort OSP Completed
+ 06:09:27 INFO Build OSP
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 06:09:27 INFO Build OSP Completed
+ 06:09:27 INFO Creating Index GSPO
+/jena/bin/tdbloader2index: line 340: [: 1191899136117756809216: integer expression expected
+ 06:09:27 INFO Sort GSPO
+ 06:09:29 INFO Sort GSPO Completed
+ 06:09:29 INFO Build GSPO
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 06:09:30 INFO Build GSPO Completed
+ 06:09:30 INFO Creating Index GPOS
+/jena/bin/tdbloader2index: line 340: [: 1191899136117765500928: integer expression expected
+ 06:09:30 INFO Sort GPOS
+ 06:09:33 INFO Sort GPOS Completed
+ 06:09:33 INFO Build GPOS
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 06:09:34 INFO Build GPOS Completed
+ 06:09:34 INFO Creating Index GOSP
+/jena/bin/tdbloader2index: line 340: [: 1191899136117773762560: integer expression expected
+ 06:09:34 INFO Sort GOSP
+ 06:09:37 INFO Sort GOSP Completed
+ 06:09:37 INFO Build GOSP
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 06:09:38 INFO Build GOSP Completed
+ 06:09:38 INFO Creating Index SPOG
+/jena/bin/tdbloader2index: line 340: [: 1191899136117782020096: integer expression expected
+ 06:09:38 INFO Sort SPOG
+ 06:09:45 INFO Sort SPOG Completed
+ 06:09:45 INFO Build SPOG
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 06:09:46 INFO Build SPOG Completed
+ 06:09:46 INFO Creating Index POSG
+/jena/bin/tdbloader2index: line 340: [: 1191899136117790277632: integer expression expected
+ 06:09:46 INFO Sort POSG
+ 06:09:53 INFO Sort POSG Completed
+ 06:09:53 INFO Build POSG
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 06:09:54 INFO Build POSG Completed
+ 06:09:54 INFO Creating Index OSPG
+/jena/bin/tdbloader2index: line 340: [: 1191899136117798535168: integer expression expected
+ 06:09:54 INFO Sort OSPG
+ 06:09:59 INFO Sort OSPG Completed
+ 06:09:59 INFO Build OSPG
+log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ 06:10:00 INFO Build OSPG Completed
+ 06:10:00 INFO Index Building Phase Completed
+ 06:10:00 INFO -- TDB Bulk Loader Finish
+ 06:10:00 INFO -- 39 seconds

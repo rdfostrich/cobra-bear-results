@@ -1,0 +1,7792 @@
+==> load-bearb-hour-cb-0-add-.txt <==
+ 13:11:27 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-0-del-.txt <==
+ 13:11:31 INFO -- 1 seconds
+
+==> load-bearb-hour-cb-1000-add-.txt <==
+ 16:58:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1000-del-.txt <==
+ 16:58:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1001-add-.txt <==
+ 16:58:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1001-del-.txt <==
+ 16:58:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1002-add-.txt <==
+ 16:58:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1002-del-.txt <==
+ 16:58:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1003-add-.txt <==
+ 16:58:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1003-del-.txt <==
+ 16:58:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1004-add-.txt <==
+ 16:59:02 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1004-del-.txt <==
+ 16:59:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1005-add-.txt <==
+ 16:59:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1005-del-.txt <==
+ 16:59:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1006-add-.txt <==
+ 16:59:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1006-del-.txt <==
+ 16:59:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1007-add-.txt <==
+ 16:59:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1007-del-.txt <==
+ 16:59:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1008-add-.txt <==
+ 16:59:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1008-del-.txt <==
+ 16:59:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1009-add-.txt <==
+ 17:00:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1009-del-.txt <==
+ 17:00:14 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-100-add-.txt <==
+ 13:33:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-100-del-.txt <==
+ 13:33:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1010-add-.txt <==
+ 17:00:24 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1010-del-.txt <==
+ 17:00:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1011-add-.txt <==
+ 17:00:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1011-del-.txt <==
+ 17:00:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1012-add-.txt <==
+ 17:00:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1012-del-.txt <==
+ 17:00:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1013-add-.txt <==
+ 17:01:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1013-del-.txt <==
+ 17:01:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1014-add-.txt <==
+ 17:01:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1014-del-.txt <==
+ 17:01:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1015-add-.txt <==
+ 17:01:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1015-del-.txt <==
+ 17:01:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1016-add-.txt <==
+ 17:01:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1016-del-.txt <==
+ 17:01:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1017-add-.txt <==
+ 17:01:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1017-del-.txt <==
+ 17:02:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1018-add-.txt <==
+ 17:02:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1018-del-.txt <==
+ 17:02:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1019-add-.txt <==
+ 17:02:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1019-del-.txt <==
+ 17:02:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-101-add-.txt <==
+ 13:33:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-101-del-.txt <==
+ 13:33:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1020-add-.txt <==
+ 17:02:33 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1020-del-.txt <==
+ 17:02:45 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-1021-add-.txt <==
+ 17:02:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1021-del-.txt <==
+ 17:02:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1022-add-.txt <==
+ 17:03:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1022-del-.txt <==
+ 17:03:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1023-add-.txt <==
+ 17:03:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1023-del-.txt <==
+ 17:03:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1024-add-.txt <==
+ 17:03:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1024-del-.txt <==
+ 17:03:41 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1025-add-.txt <==
+ 17:03:51 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1025-del-.txt <==
+ 17:03:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1026-add-.txt <==
+ 17:04:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1026-del-.txt <==
+ 17:04:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1027-add-.txt <==
+ 17:04:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1027-del-.txt <==
+ 17:04:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1028-add-.txt <==
+ 17:04:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1028-del-.txt <==
+ 17:04:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1029-add-.txt <==
+ 17:04:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1029-del-.txt <==
+ 17:04:53 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-102-add-.txt <==
+ 13:33:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-102-del-.txt <==
+ 13:33:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1030-add-.txt <==
+ 17:05:00 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1030-del-.txt <==
+ 17:05:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1031-add-.txt <==
+ 17:05:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1031-del-.txt <==
+ 17:05:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1032-add-.txt <==
+ 17:05:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1032-del-.txt <==
+ 17:05:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1033-add-.txt <==
+ 17:05:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1033-del-.txt <==
+ 17:05:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1034-add-.txt <==
+ 17:05:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1034-del-.txt <==
+ 17:05:59 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1035-add-.txt <==
+ 17:06:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1035-del-.txt <==
+ 17:06:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1036-add-.txt <==
+ 17:06:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1036-del-.txt <==
+ 17:06:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1037-add-.txt <==
+ 17:06:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1037-del-.txt <==
+ 17:06:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1038-add-.txt <==
+ 17:06:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1038-del-.txt <==
+ 17:06:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1039-add-.txt <==
+ 17:06:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1039-del-.txt <==
+ 17:07:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-103-add-.txt <==
+ 13:33:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-103-del-.txt <==
+ 13:33:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1040-add-.txt <==
+ 17:07:11 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1040-del-.txt <==
+ 17:07:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1041-add-.txt <==
+ 17:07:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1041-del-.txt <==
+ 17:07:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1042-add-.txt <==
+ 17:07:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1042-del-.txt <==
+ 17:07:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1043-add-.txt <==
+ 17:07:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1043-del-.txt <==
+ 17:07:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1044-add-.txt <==
+ 17:08:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1044-del-.txt <==
+ 17:08:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1045-add-.txt <==
+ 17:08:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1045-del-.txt <==
+ 17:08:26 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-1046-add-.txt <==
+ 17:08:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1046-del-.txt <==
+ 17:08:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1047-add-.txt <==
+ 17:08:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1047-del-.txt <==
+ 17:08:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1048-add-.txt <==
+ 17:09:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1048-del-.txt <==
+ 17:09:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1049-add-.txt <==
+ 17:09:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1049-del-.txt <==
+ 17:09:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-104-add-.txt <==
+ 13:33:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-104-del-.txt <==
+ 13:33:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1050-add-.txt <==
+ 17:09:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1050-del-.txt <==
+ 17:09:37 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-1051-add-.txt <==
+ 17:09:44 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1051-del-.txt <==
+ 17:09:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1052-add-.txt <==
+ 17:09:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1052-del-.txt <==
+ 17:10:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1053-add-.txt <==
+ 17:10:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1053-del-.txt <==
+ 17:10:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1054-add-.txt <==
+ 17:10:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1054-del-.txt <==
+ 17:10:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1055-add-.txt <==
+ 17:10:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1055-del-.txt <==
+ 17:10:44 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1056-add-.txt <==
+ 17:10:57 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-1056-del-.txt <==
+ 17:11:04 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1057-add-.txt <==
+ 17:11:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1057-del-.txt <==
+ 17:11:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1058-add-.txt <==
+ 17:11:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1058-del-.txt <==
+ 17:11:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1059-add-.txt <==
+ 17:11:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1059-del-.txt <==
+ 17:11:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-105-add-.txt <==
+ 13:34:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-105-del-.txt <==
+ 13:34:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1060-add-.txt <==
+ 17:11:50 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1060-del-.txt <==
+ 17:11:58 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1061-add-.txt <==
+ 17:12:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1061-del-.txt <==
+ 17:12:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1062-add-.txt <==
+ 17:12:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1062-del-.txt <==
+ 17:12:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1063-add-.txt <==
+ 17:12:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1063-del-.txt <==
+ 17:12:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1064-add-.txt <==
+ 17:12:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1064-del-.txt <==
+ 17:12:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1065-add-.txt <==
+ 17:12:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1065-del-.txt <==
+ 17:13:08 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-1066-add-.txt <==
+ 17:13:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1066-del-.txt <==
+ 17:13:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1067-add-.txt <==
+ 17:13:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1067-del-.txt <==
+ 17:13:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1068-add-.txt <==
+ 17:13:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1068-del-.txt <==
+ 17:13:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1069-add-.txt <==
+ 17:13:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1069-del-.txt <==
+ 17:13:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-106-add-.txt <==
+ 13:34:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-106-del-.txt <==
+ 13:34:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1070-add-.txt <==
+ 17:14:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1070-del-.txt <==
+ 17:14:16 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-1071-add-.txt <==
+ 17:14:23 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1071-del-.txt <==
+ 17:14:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1072-add-.txt <==
+ 17:14:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1072-del-.txt <==
+ 17:14:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1073-add-.txt <==
+ 17:14:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1073-del-.txt <==
+ 17:14:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1074-add-.txt <==
+ 17:15:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1074-del-.txt <==
+ 17:15:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1075-add-.txt <==
+ 17:15:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1075-del-.txt <==
+ 17:15:23 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1076-add-.txt <==
+ 17:15:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1076-del-.txt <==
+ 17:15:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1077-add-.txt <==
+ 17:15:42 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1077-del-.txt <==
+ 17:15:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1078-add-.txt <==
+ 17:15:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1078-del-.txt <==
+ 17:16:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1079-add-.txt <==
+ 17:16:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1079-del-.txt <==
+ 17:16:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-107-add-.txt <==
+ 13:34:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-107-del-.txt <==
+ 13:34:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1080-add-.txt <==
+ 17:16:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1080-del-.txt <==
+ 17:16:29 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1081-add-.txt <==
+ 17:16:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1081-del-.txt <==
+ 17:16:45 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1082-add-.txt <==
+ 17:16:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1082-del-.txt <==
+ 17:16:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1083-add-.txt <==
+ 17:17:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1083-del-.txt <==
+ 17:17:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1084-add-.txt <==
+ 17:17:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1084-del-.txt <==
+ 17:17:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1085-add-.txt <==
+ 17:17:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1085-del-.txt <==
+ 17:17:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1086-add-.txt <==
+ 17:17:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1086-del-.txt <==
+ 17:17:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1087-add-.txt <==
+ 17:17:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1087-del-.txt <==
+ 17:18:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1088-add-.txt <==
+ 17:18:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1088-del-.txt <==
+ 17:18:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1089-add-.txt <==
+ 17:18:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1089-del-.txt <==
+ 17:18:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-108-add-.txt <==
+ 13:34:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-108-del-.txt <==
+ 13:34:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1090-add-.txt <==
+ 17:18:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1090-del-.txt <==
+ 17:18:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1091-add-.txt <==
+ 17:18:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1091-del-.txt <==
+ 17:18:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1092-add-.txt <==
+ 17:19:03 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1092-del-.txt <==
+ 17:19:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1093-add-.txt <==
+ 17:19:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1093-del-.txt <==
+ 17:19:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1094-add-.txt <==
+ 17:19:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1094-del-.txt <==
+ 17:19:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1095-add-.txt <==
+ 17:19:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1095-del-.txt <==
+ 17:19:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1096-add-.txt <==
+ 17:19:53 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1096-del-.txt <==
+ 17:20:02 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1097-add-.txt <==
+ 17:20:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1097-del-.txt <==
+ 17:20:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1098-add-.txt <==
+ 17:20:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1098-del-.txt <==
+ 17:20:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1099-add-.txt <==
+ 17:20:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1099-del-.txt <==
+ 17:20:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-109-add-.txt <==
+ 13:34:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-109-del-.txt <==
+ 13:35:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-10-add-.txt <==
+ 13:13:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-10-del-.txt <==
+ 13:13:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1100-add-.txt <==
+ 17:20:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1100-del-.txt <==
+ 17:20:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1101-add-.txt <==
+ 17:20:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1101-del-.txt <==
+ 17:21:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1102-add-.txt <==
+ 17:21:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1102-del-.txt <==
+ 17:21:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1103-add-.txt <==
+ 17:21:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1103-del-.txt <==
+ 17:21:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1104-add-.txt <==
+ 17:21:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1104-del-.txt <==
+ 17:21:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1105-add-.txt <==
+ 17:21:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1105-del-.txt <==
+ 17:21:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1106-add-.txt <==
+ 17:22:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1106-del-.txt <==
+ 17:22:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1107-add-.txt <==
+ 17:22:22 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1107-del-.txt <==
+ 17:22:32 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1108-add-.txt <==
+ 17:22:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1108-del-.txt <==
+ 17:22:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1109-add-.txt <==
+ 17:22:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1109-del-.txt <==
+ 17:22:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-110-add-.txt <==
+ 13:35:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-110-del-.txt <==
+ 13:35:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1110-add-.txt <==
+ 17:23:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1110-del-.txt <==
+ 17:23:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1111-add-.txt <==
+ 17:23:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1111-del-.txt <==
+ 17:23:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1112-add-.txt <==
+ 17:23:31 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1112-del-.txt <==
+ 17:23:39 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1113-add-.txt <==
+ 17:23:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1113-del-.txt <==
+ 17:23:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1114-add-.txt <==
+ 17:23:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1114-del-.txt <==
+ 17:24:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1115-add-.txt <==
+ 17:24:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1115-del-.txt <==
+ 17:24:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1116-add-.txt <==
+ 17:24:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1116-del-.txt <==
+ 17:24:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1117-add-.txt <==
+ 17:24:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1117-del-.txt <==
+ 17:24:49 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-1118-add-.txt <==
+ 17:24:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1118-del-.txt <==
+ 17:25:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1119-add-.txt <==
+ 17:25:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1119-del-.txt <==
+ 17:25:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-111-add-.txt <==
+ 13:35:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-111-del-.txt <==
+ 13:35:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1120-add-.txt <==
+ 17:25:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1120-del-.txt <==
+ 17:25:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1121-add-.txt <==
+ 17:25:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1121-del-.txt <==
+ 17:25:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1122-add-.txt <==
+ 17:25:48 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1122-del-.txt <==
+ 17:25:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1123-add-.txt <==
+ 17:26:06 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-1123-del-.txt <==
+ 17:26:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1124-add-.txt <==
+ 17:26:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1124-del-.txt <==
+ 17:26:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1125-add-.txt <==
+ 17:26:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1125-del-.txt <==
+ 17:26:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1126-add-.txt <==
+ 17:26:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1126-del-.txt <==
+ 17:26:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1127-add-.txt <==
+ 17:26:58 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1127-del-.txt <==
+ 17:27:05 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1128-add-.txt <==
+ 17:27:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1128-del-.txt <==
+ 17:27:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1129-add-.txt <==
+ 17:27:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1129-del-.txt <==
+ 17:27:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-112-add-.txt <==
+ 13:35:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-112-del-.txt <==
+ 13:35:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1130-add-.txt <==
+ 17:27:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1130-del-.txt <==
+ 17:27:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1131-add-.txt <==
+ 17:27:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1131-del-.txt <==
+ 17:27:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1132-add-.txt <==
+ 17:28:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1132-del-.txt <==
+ 17:28:13 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1133-add-.txt <==
+ 17:28:21 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1133-del-.txt <==
+ 17:28:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1134-add-.txt <==
+ 17:28:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1134-del-.txt <==
+ 17:28:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1135-add-.txt <==
+ 17:28:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1135-del-.txt <==
+ 17:28:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1136-add-.txt <==
+ 17:28:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1136-del-.txt <==
+ 17:29:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1137-add-.txt <==
+ 17:29:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1137-del-.txt <==
+ 17:29:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1138-add-.txt <==
+ 17:29:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1138-del-.txt <==
+ 17:29:34 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1139-add-.txt <==
+ 17:29:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1139-del-.txt <==
+ 17:29:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-113-add-.txt <==
+ 13:35:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-113-del-.txt <==
+ 13:35:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1140-add-.txt <==
+ 17:29:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1140-del-.txt <==
+ 17:30:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1141-add-.txt <==
+ 17:30:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1141-del-.txt <==
+ 17:30:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1142-add-.txt <==
+ 17:30:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1142-del-.txt <==
+ 17:30:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1143-add-.txt <==
+ 17:30:33 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1143-del-.txt <==
+ 17:30:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1144-add-.txt <==
+ 17:30:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1144-del-.txt <==
+ 17:30:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1145-add-.txt <==
+ 17:30:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1145-del-.txt <==
+ 17:31:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1146-add-.txt <==
+ 17:31:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1146-del-.txt <==
+ 17:31:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1147-add-.txt <==
+ 17:31:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1147-del-.txt <==
+ 17:31:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1148-add-.txt <==
+ 17:31:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1148-del-.txt <==
+ 17:31:43 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1149-add-.txt <==
+ 17:31:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1149-del-.txt <==
+ 17:31:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-114-add-.txt <==
+ 13:35:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-114-del-.txt <==
+ 13:36:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1150-add-.txt <==
+ 17:32:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1150-del-.txt <==
+ 17:32:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1151-add-.txt <==
+ 17:32:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1151-del-.txt <==
+ 17:32:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1152-add-.txt <==
+ 17:32:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1152-del-.txt <==
+ 17:32:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1153-add-.txt <==
+ 17:32:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1153-del-.txt <==
+ 17:32:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1154-add-.txt <==
+ 17:32:55 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1154-del-.txt <==
+ 17:33:08 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-1155-add-.txt <==
+ 17:33:17 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1155-del-.txt <==
+ 17:33:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1156-add-.txt <==
+ 17:33:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1156-del-.txt <==
+ 17:33:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1157-add-.txt <==
+ 17:33:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1157-del-.txt <==
+ 17:33:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1158-add-.txt <==
+ 17:33:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1158-del-.txt <==
+ 17:34:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1159-add-.txt <==
+ 17:34:15 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-1159-del-.txt <==
+ 17:34:28 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-115-add-.txt <==
+ 13:36:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-115-del-.txt <==
+ 13:36:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1160-add-.txt <==
+ 17:34:36 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1160-del-.txt <==
+ 17:34:42 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1161-add-.txt <==
+ 17:34:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1161-del-.txt <==
+ 17:34:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1162-add-.txt <==
+ 17:35:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1162-del-.txt <==
+ 17:35:09 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1163-add-.txt <==
+ 17:35:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1163-del-.txt <==
+ 17:35:24 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1164-add-.txt <==
+ 17:35:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1164-del-.txt <==
+ 17:35:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1165-add-.txt <==
+ 17:35:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1165-del-.txt <==
+ 17:35:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1166-add-.txt <==
+ 17:35:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1166-del-.txt <==
+ 17:36:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1167-add-.txt <==
+ 17:36:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1167-del-.txt <==
+ 17:36:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1168-add-.txt <==
+ 17:36:22 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1168-del-.txt <==
+ 17:36:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1169-add-.txt <==
+ 17:36:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1169-del-.txt <==
+ 17:36:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-116-add-.txt <==
+ 13:36:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-116-del-.txt <==
+ 13:36:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1170-add-.txt <==
+ 17:36:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1170-del-.txt <==
+ 17:36:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1171-add-.txt <==
+ 17:37:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1171-del-.txt <==
+ 17:37:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1172-add-.txt <==
+ 17:37:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1172-del-.txt <==
+ 17:37:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1173-add-.txt <==
+ 17:37:30 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1173-del-.txt <==
+ 17:37:41 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-1174-add-.txt <==
+ 17:37:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1174-del-.txt <==
+ 17:37:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1175-add-.txt <==
+ 17:37:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1175-del-.txt <==
+ 17:38:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1176-add-.txt <==
+ 17:38:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1176-del-.txt <==
+ 17:38:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1177-add-.txt <==
+ 17:38:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1177-del-.txt <==
+ 17:38:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1178-add-.txt <==
+ 17:38:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1178-del-.txt <==
+ 17:38:44 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1179-add-.txt <==
+ 17:38:56 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-1179-del-.txt <==
+ 17:39:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-117-add-.txt <==
+ 13:36:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-117-del-.txt <==
+ 13:36:42 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1180-add-.txt <==
+ 17:39:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1180-del-.txt <==
+ 17:39:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1181-add-.txt <==
+ 17:39:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1181-del-.txt <==
+ 17:39:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1182-add-.txt <==
+ 17:39:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1182-del-.txt <==
+ 17:39:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1183-add-.txt <==
+ 17:39:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1183-del-.txt <==
+ 17:39:59 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-1184-add-.txt <==
+ 17:40:13 INFO -- 11 seconds
+
+==> load-bearb-hour-cb-1184-del-.txt <==
+ 17:40:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1185-add-.txt <==
+ 17:40:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1185-del-.txt <==
+ 17:40:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1186-add-.txt <==
+ 17:40:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1186-del-.txt <==
+ 17:40:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1187-add-.txt <==
+ 17:40:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1187-del-.txt <==
+ 17:41:02 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1188-add-.txt <==
+ 17:41:10 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1188-del-.txt <==
+ 17:41:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1189-add-.txt <==
+ 17:41:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1189-del-.txt <==
+ 17:41:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-118-add-.txt <==
+ 13:36:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-118-del-.txt <==
+ 13:36:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1190-add-.txt <==
+ 17:41:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1190-del-.txt <==
+ 17:41:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1191-add-.txt <==
+ 17:41:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1191-del-.txt <==
+ 17:41:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1192-add-.txt <==
+ 17:42:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1192-del-.txt <==
+ 17:42:15 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-1193-add-.txt <==
+ 17:42:25 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1193-del-.txt <==
+ 17:42:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1194-add-.txt <==
+ 17:42:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1194-del-.txt <==
+ 17:42:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1195-add-.txt <==
+ 17:42:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1195-del-.txt <==
+ 17:42:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1196-add-.txt <==
+ 17:43:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1196-del-.txt <==
+ 17:43:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1197-add-.txt <==
+ 17:43:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1197-del-.txt <==
+ 17:43:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1198-add-.txt <==
+ 17:43:33 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1198-del-.txt <==
+ 17:43:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1199-add-.txt <==
+ 17:43:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1199-del-.txt <==
+ 17:43:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-119-add-.txt <==
+ 13:37:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-119-del-.txt <==
+ 13:37:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-11-add-.txt <==
+ 13:13:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-11-del-.txt <==
+ 13:13:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1200-add-.txt <==
+ 17:43:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1200-del-.txt <==
+ 17:44:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1201-add-.txt <==
+ 17:44:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1201-del-.txt <==
+ 17:44:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1202-add-.txt <==
+ 17:44:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1202-del-.txt <==
+ 17:44:30 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1203-add-.txt <==
+ 17:44:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1203-del-.txt <==
+ 17:44:50 INFO -- 11 seconds
+
+==> load-bearb-hour-cb-1204-add-.txt <==
+ 17:44:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1204-del-.txt <==
+ 17:45:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1205-add-.txt <==
+ 17:45:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1205-del-.txt <==
+ 17:45:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1206-add-.txt <==
+ 17:45:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1206-del-.txt <==
+ 17:45:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1207-add-.txt <==
+ 17:45:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1207-del-.txt <==
+ 17:45:46 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-1208-add-.txt <==
+ 17:45:56 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1208-del-.txt <==
+ 17:46:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1209-add-.txt <==
+ 17:46:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1209-del-.txt <==
+ 17:46:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-120-add-.txt <==
+ 13:37:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-120-del-.txt <==
+ 13:37:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1210-add-.txt <==
+ 17:46:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1210-del-.txt <==
+ 17:46:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1211-add-.txt <==
+ 17:46:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1211-del-.txt <==
+ 17:46:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1212-add-.txt <==
+ 17:46:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1212-del-.txt <==
+ 17:46:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1213-add-.txt <==
+ 17:47:01 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1213-del-.txt <==
+ 17:47:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1214-add-.txt <==
+ 17:47:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1214-del-.txt <==
+ 17:47:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1215-add-.txt <==
+ 17:47:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1215-del-.txt <==
+ 17:47:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1216-add-.txt <==
+ 17:47:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1216-del-.txt <==
+ 17:47:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1217-add-.txt <==
+ 17:47:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1217-del-.txt <==
+ 17:47:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1218-add-.txt <==
+ 17:48:06 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1218-del-.txt <==
+ 17:48:16 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1219-add-.txt <==
+ 17:48:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1219-del-.txt <==
+ 17:48:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-121-add-.txt <==
+ 13:37:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-121-del-.txt <==
+ 13:37:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1220-add-.txt <==
+ 17:48:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1220-del-.txt <==
+ 17:48:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1221-add-.txt <==
+ 17:48:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1221-del-.txt <==
+ 17:48:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1222-add-.txt <==
+ 17:49:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1222-del-.txt <==
+ 17:49:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1223-add-.txt <==
+ 17:49:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1223-del-.txt <==
+ 17:49:24 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1224-add-.txt <==
+ 17:49:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1224-del-.txt <==
+ 17:49:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1225-add-.txt <==
+ 17:49:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1225-del-.txt <==
+ 17:49:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1226-add-.txt <==
+ 17:49:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1226-del-.txt <==
+ 17:50:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1227-add-.txt <==
+ 17:50:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1227-del-.txt <==
+ 17:50:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1228-add-.txt <==
+ 17:50:22 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1228-del-.txt <==
+ 17:50:30 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1229-add-.txt <==
+ 17:50:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1229-del-.txt <==
+ 17:50:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-122-add-.txt <==
+ 13:37:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-122-del-.txt <==
+ 13:37:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1230-add-.txt <==
+ 17:50:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1230-del-.txt <==
+ 17:50:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1231-add-.txt <==
+ 17:51:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1231-del-.txt <==
+ 17:51:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1232-add-.txt <==
+ 17:51:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1232-del-.txt <==
+ 17:51:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1233-add-.txt <==
+ 17:51:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1233-del-.txt <==
+ 17:51:34 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1234-add-.txt <==
+ 17:51:42 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1234-del-.txt <==
+ 17:51:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1235-add-.txt <==
+ 17:51:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1235-del-.txt <==
+ 17:52:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1236-add-.txt <==
+ 17:52:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1236-del-.txt <==
+ 17:52:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1237-add-.txt <==
+ 17:52:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1237-del-.txt <==
+ 17:52:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1238-add-.txt <==
+ 17:52:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1238-del-.txt <==
+ 17:52:43 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1239-add-.txt <==
+ 17:52:51 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1239-del-.txt <==
+ 17:52:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-123-add-.txt <==
+ 13:37:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-123-del-.txt <==
+ 13:37:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1240-add-.txt <==
+ 17:53:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1240-del-.txt <==
+ 17:53:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1241-add-.txt <==
+ 17:53:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1241-del-.txt <==
+ 17:53:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1242-add-.txt <==
+ 17:53:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1242-del-.txt <==
+ 17:53:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1243-add-.txt <==
+ 17:53:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1243-del-.txt <==
+ 17:53:56 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-1244-add-.txt <==
+ 17:54:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1244-del-.txt <==
+ 17:54:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1245-add-.txt <==
+ 17:54:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1245-del-.txt <==
+ 17:54:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1246-add-.txt <==
+ 17:54:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1246-del-.txt <==
+ 17:54:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1247-add-.txt <==
+ 17:54:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1247-del-.txt <==
+ 17:54:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1248-add-.txt <==
+ 17:54:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1248-del-.txt <==
+ 17:55:02 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-1249-add-.txt <==
+ 17:55:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1249-del-.txt <==
+ 17:55:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-124-add-.txt <==
+ 13:38:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-124-del-.txt <==
+ 13:38:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1250-add-.txt <==
+ 17:55:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1250-del-.txt <==
+ 17:55:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1251-add-.txt <==
+ 17:55:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1251-del-.txt <==
+ 17:55:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1252-add-.txt <==
+ 17:55:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1252-del-.txt <==
+ 17:55:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1253-add-.txt <==
+ 17:56:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1253-del-.txt <==
+ 17:56:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1254-add-.txt <==
+ 17:56:19 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-1254-del-.txt <==
+ 17:56:30 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-1255-add-.txt <==
+ 17:56:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1255-del-.txt <==
+ 17:56:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1256-add-.txt <==
+ 17:56:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1256-del-.txt <==
+ 17:56:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1257-add-.txt <==
+ 17:57:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1257-del-.txt <==
+ 17:57:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1258-add-.txt <==
+ 17:57:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1258-del-.txt <==
+ 17:57:26 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-1259-add-.txt <==
+ 17:57:36 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1259-del-.txt <==
+ 17:57:42 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-125-add-.txt <==
+ 13:38:21 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-125-del-.txt <==
+ 13:38:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1260-add-.txt <==
+ 17:57:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1260-del-.txt <==
+ 17:57:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1261-add-.txt <==
+ 17:58:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1261-del-.txt <==
+ 17:58:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1262-add-.txt <==
+ 17:58:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1262-del-.txt <==
+ 17:58:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1263-add-.txt <==
+ 17:58:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1263-del-.txt <==
+ 17:58:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1264-add-.txt <==
+ 17:58:43 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1264-del-.txt <==
+ 17:58:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1265-add-.txt <==
+ 17:58:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1265-del-.txt <==
+ 17:59:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1266-add-.txt <==
+ 17:59:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1266-del-.txt <==
+ 17:59:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1267-add-.txt <==
+ 17:59:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1267-del-.txt <==
+ 17:59:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1268-add-.txt <==
+ 17:59:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1268-del-.txt <==
+ 17:59:43 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1269-add-.txt <==
+ 17:59:54 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-1269-del-.txt <==
+ 18:00:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-126-add-.txt <==
+ 13:38:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-126-del-.txt <==
+ 13:38:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1270-add-.txt <==
+ 18:00:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1270-del-.txt <==
+ 18:00:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1271-add-.txt <==
+ 18:00:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1271-del-.txt <==
+ 18:00:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1272-add-.txt <==
+ 18:00:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1272-del-.txt <==
+ 18:00:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1273-add-.txt <==
+ 18:00:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1273-del-.txt <==
+ 18:00:57 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-1274-add-.txt <==
+ 18:01:05 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1274-del-.txt <==
+ 18:01:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1275-add-.txt <==
+ 18:01:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1275-del-.txt <==
+ 18:01:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1276-add-.txt <==
+ 18:01:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1276-del-.txt <==
+ 18:01:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1277-add-.txt <==
+ 18:01:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1277-del-.txt <==
+ 18:01:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1278-add-.txt <==
+ 18:01:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1278-del-.txt <==
+ 18:02:07 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-1279-add-.txt <==
+ 18:02:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1279-del-.txt <==
+ 18:02:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-127-add-.txt <==
+ 13:38:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-127-del-.txt <==
+ 13:38:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1280-add-.txt <==
+ 18:02:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1280-del-.txt <==
+ 18:02:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1281-add-.txt <==
+ 18:02:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1281-del-.txt <==
+ 18:02:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1282-add-.txt <==
+ 18:02:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1282-del-.txt <==
+ 18:02:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1283-add-.txt <==
+ 18:03:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1283-del-.txt <==
+ 18:03:16 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-1284-add-.txt <==
+ 18:03:24 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1284-del-.txt <==
+ 18:03:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1285-add-.txt <==
+ 18:03:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1285-del-.txt <==
+ 18:03:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1286-add-.txt <==
+ 18:03:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1286-del-.txt <==
+ 18:03:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1287-add-.txt <==
+ 18:04:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1287-del-.txt <==
+ 18:04:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1288-add-.txt <==
+ 18:04:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1288-del-.txt <==
+ 18:04:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1289-add-.txt <==
+ 18:04:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1289-del-.txt <==
+ 18:04:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-128-add-.txt <==
+ 13:38:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-128-del-.txt <==
+ 13:39:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1290-add-.txt <==
+ 18:04:42 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1290-del-.txt <==
+ 18:04:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1291-add-.txt <==
+ 18:04:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1291-del-.txt <==
+ 18:05:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1292-add-.txt <==
+ 18:05:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1292-del-.txt <==
+ 18:05:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1293-add-.txt <==
+ 18:05:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1293-del-.txt <==
+ 18:05:29 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1294-add-.txt <==
+ 18:05:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1294-del-.txt <==
+ 18:05:45 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-1295-add-.txt <==
+ 18:05:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1295-del-.txt <==
+ 18:05:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1296-add-.txt <==
+ 18:06:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1296-del-.txt <==
+ 18:06:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1297-add-.txt <==
+ 18:06:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1297-del-.txt <==
+ 18:06:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1298-add-.txt <==
+ 18:06:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-1298-del-.txt <==
+ 18:06:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-129-add-.txt <==
+ 13:39:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-129-del-.txt <==
+ 13:39:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-12-add-.txt <==
+ 13:13:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-12-del-.txt <==
+ 13:14:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-130-add-.txt <==
+ 13:39:27 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-130-del-.txt <==
+ 13:39:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-131-add-.txt <==
+ 13:39:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-131-del-.txt <==
+ 13:39:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-132-add-.txt <==
+ 13:39:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-132-del-.txt <==
+ 13:39:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-133-add-.txt <==
+ 13:40:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-133-del-.txt <==
+ 13:40:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-134-add-.txt <==
+ 13:40:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-134-del-.txt <==
+ 13:40:25 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-135-add-.txt <==
+ 13:40:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-135-del-.txt <==
+ 13:40:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-136-add-.txt <==
+ 13:40:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-136-del-.txt <==
+ 13:40:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-137-add-.txt <==
+ 13:40:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-137-del-.txt <==
+ 13:41:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-138-add-.txt <==
+ 13:41:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-138-del-.txt <==
+ 13:41:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-139-add-.txt <==
+ 13:41:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-139-del-.txt <==
+ 13:41:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-13-add-.txt <==
+ 13:14:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-13-del-.txt <==
+ 13:14:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-140-add-.txt <==
+^[[B^[[A
+==> load-bearb-hour-cb-140-del-.txt <==
+ 13:41:43 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-141-add-.txt <==
+ 13:41:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-141-del-.txt <==
+ 13:41:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-142-add-.txt <==
+ 13:42:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-142-del-.txt <==
+ 13:42:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-143-add-.txt <==
+ 13:42:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-143-del-.txt <==
+ 13:42:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-144-add-.txt <==
+ 13:42:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-144-del-.txt <==
+ 13:42:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-145-add-.txt <==
+ 13:42:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-145-del-.txt <==
+ 13:42:49 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-146-add-.txt <==
+ 13:43:03 INFO -- 12 seconds
+
+==> load-bearb-hour-cb-146-del-.txt <==
+ 13:43:12 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-147-add-.txt <==
+ 13:43:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-147-del-.txt <==
+ 13:43:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-148-add-.txt <==
+ 13:43:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-148-del-.txt <==
+ 13:43:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-149-add-.txt <==
+ 13:43:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-149-del-.txt <==
+ 13:43:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-14-add-.txt <==
+ 13:14:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-14-del-.txt <==
+ 13:14:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-150-add-.txt <==
+ 13:43:59 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-150-del-.txt <==
+ 13:44:08 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-151-add-.txt <==
+ 13:44:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-151-del-.txt <==
+ 13:44:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-152-add-.txt <==
+ 13:44:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-152-del-.txt <==
+ 13:44:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-153-add-.txt <==
+ 13:44:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-153-del-.txt <==
+ 13:44:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-154-add-.txt <==
+ 13:44:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-154-del-.txt <==
+ 13:45:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-155-add-.txt <==
+ 13:45:12 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-155-del-.txt <==
+ 13:45:24 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-156-add-.txt <==
+ 13:45:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-156-del-.txt <==
+ 13:45:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-157-add-.txt <==
+ 13:45:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-157-del-.txt <==
+ 13:45:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-158-add-.txt <==
+ 13:45:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-158-del-.txt <==
+ 13:46:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-159-add-.txt <==
+ 13:46:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-159-del-.txt <==
+ 13:46:16 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-15-add-.txt <==
+ 13:14:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-15-del-.txt <==
+ 13:14:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-160-add-.txt <==
+ 13:46:24 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-160-del-.txt <==
+ 13:46:41 INFO -- 14 seconds
+
+==> load-bearb-hour-cb-161-add-.txt <==
+ 13:46:52 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-161-del-.txt <==
+ 13:46:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-162-add-.txt <==
+ 13:47:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-162-del-.txt <==
+ 13:47:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-163-add-.txt <==
+ 13:47:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-163-del-.txt <==
+ 13:47:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-164-add-.txt <==
+ 13:47:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-164-del-.txt <==
+ 13:47:41 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-165-add-.txt <==
+ 13:47:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-165-del-.txt <==
+ 13:47:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-166-add-.txt <==
+ 13:48:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-166-del-.txt <==
+ 13:48:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-167-add-.txt <==
+ 13:48:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-167-del-.txt <==
+ 13:48:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-168-add-.txt <==
+ 13:48:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-168-del-.txt <==
+ 13:48:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-169-add-.txt <==
+ 13:48:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-169-del-.txt <==
+ 13:48:51 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-16-add-.txt <==
+ 13:14:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-16-del-.txt <==
+ 13:14:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-170-add-.txt <==
+ 13:48:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-170-del-.txt <==
+ 13:49:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-171-add-.txt <==
+ 13:49:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-171-del-.txt <==
+ 13:49:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-172-add-.txt <==
+ 13:49:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-172-del-.txt <==
+ 13:49:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-173-add-.txt <==
+ 13:49:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-173-del-.txt <==
+ 13:49:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-174-add-.txt <==
+ 13:49:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-174-del-.txt <==
+ 13:49:57 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-175-add-.txt <==
+ 13:50:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-175-del-.txt <==
+ 13:50:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-176-add-.txt <==
+ 13:50:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-176-del-.txt <==
+ 13:50:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-177-add-.txt <==
+ 13:50:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-177-del-.txt <==
+ 13:50:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-178-add-.txt <==
+ 13:50:41 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-178-del-.txt <==
+ 13:50:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-179-add-.txt <==
+ 13:50:59 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-179-del-.txt <==
+ 13:51:07 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-17-add-.txt <==
+ 13:14:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-17-del-.txt <==
+ 13:15:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-180-add-.txt <==
+ 13:51:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-180-del-.txt <==
+ 13:51:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-181-add-.txt <==
+ 13:51:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-181-del-.txt <==
+ 13:51:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-182-add-.txt <==
+ 13:51:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-182-del-.txt <==
+ 13:51:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-183-add-.txt <==
+ 13:51:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-183-del-.txt <==
+ 13:52:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-184-add-.txt <==
+ 13:52:13 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-184-del-.txt <==
+ 13:52:20 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-185-add-.txt <==
+ 13:52:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-185-del-.txt <==
+ 13:52:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-186-add-.txt <==
+ 13:52:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-186-del-.txt <==
+ 13:52:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-187-add-.txt <==
+ 13:52:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-187-del-.txt <==
+ 13:52:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-188-add-.txt <==
+ 13:53:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-188-del-.txt <==
+ 13:53:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-189-add-.txt <==
+ 13:53:17 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-189-del-.txt <==
+ 13:53:25 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-18-add-.txt <==
+ 13:15:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-18-del-.txt <==
+ 13:15:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-190-add-.txt <==
+ 13:53:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-190-del-.txt <==
+ 13:53:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-191-add-.txt <==
+ 13:53:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-191-del-.txt <==
+ 13:53:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-192-add-.txt <==
+ 13:53:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-192-del-.txt <==
+ 13:54:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-193-add-.txt <==
+ 13:54:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-193-del-.txt <==
+ 13:54:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-194-add-.txt <==
+ 13:54:27 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-194-del-.txt <==
+ 13:54:35 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-195-add-.txt <==
+ 13:54:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-195-del-.txt <==
+ 13:54:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-196-add-.txt <==
+ 13:54:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-196-del-.txt <==
+ 13:55:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-197-add-.txt <==
+ 13:55:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-197-del-.txt <==
+ 13:55:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-198-add-.txt <==
+ 13:55:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-198-del-.txt <==
+ 13:55:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-199-add-.txt <==
+ 13:55:34 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-199-del-.txt <==
+ 13:55:43 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-19-add-.txt <==
+ 13:15:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-19-del-.txt <==
+ 13:15:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1-add-.txt <==
+ 13:11:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-1-del-.txt <==
+ 13:11:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-200-add-.txt <==
+ 13:55:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-200-del-.txt <==
+ 13:55:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-201-add-.txt <==
+ 13:56:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-201-del-.txt <==
+ 13:56:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-202-add-.txt <==
+ 13:56:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-202-del-.txt <==
+ 13:56:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-203-add-.txt <==
+ 13:56:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-203-del-.txt <==
+ 13:56:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-204-add-.txt <==
+ 13:56:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-204-del-.txt <==
+ 13:56:51 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-205-add-.txt <==
+ 13:56:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-205-del-.txt <==
+ 13:57:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-206-add-.txt <==
+ 13:57:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-206-del-.txt <==
+ 13:57:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-207-add-.txt <==
+ 13:57:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-207-del-.txt <==
+ 13:57:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-208-add-.txt <==
+ 13:57:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-208-del-.txt <==
+ 13:57:42 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-209-add-.txt <==
+ 13:57:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-209-del-.txt <==
+ 13:57:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-20-add-.txt <==
+ 13:15:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-20-del-.txt <==
+ 13:15:41 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-210-add-.txt <==
+ 13:58:03 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-210-del-.txt <==
+ 13:58:13 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-211-add-.txt <==
+ 13:58:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-211-del-.txt <==
+ 13:58:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-212-add-.txt <==
+ 13:58:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-212-del-.txt <==
+ 13:58:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-213-add-.txt <==
+ 13:58:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-213-del-.txt <==
+ 13:58:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-214-add-.txt <==
+ 13:58:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-214-del-.txt <==
+ 13:59:07 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-215-add-.txt <==
+ 13:59:15 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-215-del-.txt <==
+ 13:59:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-216-add-.txt <==
+ 13:59:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-216-del-.txt <==
+ 13:59:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-217-add-.txt <==
+ 13:59:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-217-del-.txt <==
+ 13:59:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-218-add-.txt <==
+ 13:59:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-218-del-.txt <==
+ 14:00:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-219-add-.txt <==
+ 14:00:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-219-del-.txt <==
+ 14:00:15 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-21-add-.txt <==
+ 13:15:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-21-del-.txt <==
+ 13:15:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-220-add-.txt <==
+ 14:00:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-220-del-.txt <==
+ 14:00:29 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-221-add-.txt <==
+ 14:00:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-221-del-.txt <==
+ 14:00:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-222-add-.txt <==
+ 14:00:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-222-del-.txt <==
+ 14:00:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-223-add-.txt <==
+ 14:01:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-223-del-.txt <==
+ 14:01:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-224-add-.txt <==
+ 14:01:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-224-del-.txt <==
+ 14:01:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-225-add-.txt <==
+ 14:01:29 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-225-del-.txt <==
+ 14:01:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-226-add-.txt <==
+ 14:01:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-226-del-.txt <==
+ 14:01:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-227-add-.txt <==
+ 14:01:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-227-del-.txt <==
+ 14:02:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-228-add-.txt <==
+ 14:02:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-228-del-.txt <==
+ 14:02:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-229-add-.txt <==
+ 14:02:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-229-del-.txt <==
+ 14:02:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-22-add-.txt <==
+ 13:16:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-22-del-.txt <==
+ 13:16:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-230-add-.txt <==
+ 14:02:35 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-230-del-.txt <==
+ 14:02:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-231-add-.txt <==
+ 14:02:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-231-del-.txt <==
+ 14:02:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-232-add-.txt <==
+ 14:03:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-232-del-.txt <==
+ 14:03:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-233-add-.txt <==
+ 14:03:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-233-del-.txt <==
+ 14:03:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-234-add-.txt <==
+ 14:03:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-234-del-.txt <==
+ 14:03:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-235-add-.txt <==
+ 14:03:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-235-del-.txt <==
+ 14:03:49 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-236-add-.txt <==
+ 14:03:56 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-236-del-.txt <==
+ 14:04:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-237-add-.txt <==
+ 14:04:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-237-del-.txt <==
+ 14:04:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-238-add-.txt <==
+ 14:04:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-238-del-.txt <==
+ 14:04:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-239-add-.txt <==
+ 14:04:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-239-del-.txt <==
+ 14:04:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-23-add-.txt <==
+ 13:16:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-23-del-.txt <==
+ 13:16:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-240-add-.txt <==
+ 14:04:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-240-del-.txt <==
+ 14:04:57 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-241-add-.txt <==
+ 14:05:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-241-del-.txt <==
+ 14:05:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-242-add-.txt <==
+ 14:05:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-242-del-.txt <==
+ 14:05:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-243-add-.txt <==
+ 14:05:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-243-del-.txt <==
+ 14:05:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-244-add-.txt <==
+ 14:05:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-244-del-.txt <==
+ 14:05:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-245-add-.txt <==
+ 14:05:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-245-del-.txt <==
+ 14:06:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-246-add-.txt <==
+ 14:06:10 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-246-del-.txt <==
+ 14:06:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-247-add-.txt <==
+ 14:06:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-247-del-.txt <==
+ 14:06:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-248-add-.txt <==
+ 14:06:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-248-del-.txt <==
+ 14:06:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-249-add-.txt <==
+ 14:06:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-249-del-.txt <==
+ 14:06:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-24-add-.txt <==
+ 13:16:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-24-del-.txt <==
+ 13:16:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-250-add-.txt <==
+ 14:07:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-250-del-.txt <==
+ 14:07:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-251-add-.txt <==
+ 14:07:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-251-del-.txt <==
+ 14:07:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-252-add-.txt <==
+ 14:07:29 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-252-del-.txt <==
+ 14:07:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-253-add-.txt <==
+ 14:07:41 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-253-del-.txt <==
+ 14:07:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-254-add-.txt <==
+ 14:07:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-254-del-.txt <==
+ 14:08:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-255-add-.txt <==
+ 14:08:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-255-del-.txt <==
+ 14:08:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-256-add-.txt <==
+ 14:08:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-256-del-.txt <==
+ 14:08:28 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-257-add-.txt <==
+ 14:08:36 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-257-del-.txt <==
+ 14:08:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-258-add-.txt <==
+ 14:08:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-258-del-.txt <==
+ 14:08:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-259-add-.txt <==
+ 14:09:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-259-del-.txt <==
+ 14:09:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-25-add-.txt <==
+ 13:16:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-25-del-.txt <==
+ 13:16:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-260-add-.txt <==
+ 14:09:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-260-del-.txt <==
+ 14:09:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-261-add-.txt <==
+ 14:09:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-261-del-.txt <==
+ 14:09:35 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-262-add-.txt <==
+ 14:09:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-262-del-.txt <==
+ 14:09:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-263-add-.txt <==
+ 14:09:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-263-del-.txt <==
+ 14:10:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-264-add-.txt <==
+ 14:10:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-264-del-.txt <==
+ 14:10:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-265-add-.txt <==
+ 14:10:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-265-del-.txt <==
+ 14:10:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-266-add-.txt <==
+ 14:10:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-266-del-.txt <==
+ 14:10:45 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-267-add-.txt <==
+ 14:10:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-267-del-.txt <==
+ 14:11:03 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-268-add-.txt <==
+ 14:11:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-268-del-.txt <==
+ 14:11:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-269-add-.txt <==
+ 14:11:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-269-del-.txt <==
+ 14:11:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-26-add-.txt <==
+ 13:16:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-26-del-.txt <==
+ 13:16:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-270-add-.txt <==
+ 14:11:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-270-del-.txt <==
+ 14:11:41 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-271-add-.txt <==
+ 14:11:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-271-del-.txt <==
+ 14:11:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-272-add-.txt <==
+ 14:12:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-272-del-.txt <==
+ 14:12:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-273-add-.txt <==
+ 14:12:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-273-del-.txt <==
+ 14:12:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-274-add-.txt <==
+ 14:12:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-274-del-.txt <==
+ 14:12:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-275-add-.txt <==
+ 14:12:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-275-del-.txt <==
+ 14:12:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-276-add-.txt <==
+ 14:12:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-276-del-.txt <==
+ 14:12:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-277-add-.txt <==
+ 14:13:10 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-277-del-.txt <==
+ 14:13:20 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-278-add-.txt <==
+ 14:13:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-278-del-.txt <==
+ 14:13:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-279-add-.txt <==
+ 14:13:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-279-del-.txt <==
+ 14:13:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-27-add-.txt <==
+ 13:17:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-27-del-.txt <==
+ 13:17:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-280-add-.txt <==
+ 14:13:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-280-del-.txt <==
+ 14:13:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-281-add-.txt <==
+ 14:14:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-281-del-.txt <==
+ 14:14:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-282-add-.txt <==
+ 14:14:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-282-del-.txt <==
+ 14:14:27 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-283-add-.txt <==
+ 14:14:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-283-del-.txt <==
+ 14:14:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-284-add-.txt <==
+ 14:14:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-284-del-.txt <==
+ 14:14:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-285-add-.txt <==
+ 14:15:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-285-del-.txt <==
+ 14:15:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-286-add-.txt <==
+ 14:15:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-286-del-.txt <==
+ 14:15:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-287-add-.txt <==
+ 14:15:27 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-287-del-.txt <==
+ 14:15:38 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-288-add-.txt <==
+ 14:15:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-288-del-.txt <==
+ 14:15:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-289-add-.txt <==
+ 14:15:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-289-del-.txt <==
+ 14:16:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-28-add-.txt <==
+ 13:17:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-28-del-.txt <==
+ 13:17:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-290-add-.txt <==
+ 14:16:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-290-del-.txt <==
+ 14:16:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-291-add-.txt <==
+ 14:16:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-291-del-.txt <==
+ 14:16:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-292-add-.txt <==
+ 14:16:41 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-292-del-.txt <==
+ 14:16:48 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-293-add-.txt <==
+ 14:16:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-293-del-.txt <==
+ 14:17:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-294-add-.txt <==
+ 14:17:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-294-del-.txt <==
+ 14:17:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-295-add-.txt <==
+ 14:17:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-295-del-.txt <==
+ 14:17:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-296-add-.txt <==
+ 14:17:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-296-del-.txt <==
+ 14:17:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-297-add-.txt <==
+ 14:17:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-297-del-.txt <==
+ 14:17:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-298-add-.txt <==
+ 14:18:01 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-298-del-.txt <==
+ 14:18:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-299-add-.txt <==
+ 14:18:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-299-del-.txt <==
+ 14:18:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-29-add-.txt <==
+ 13:17:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-29-del-.txt <==
+ 13:17:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-2-add-.txt <==
+ 13:11:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-2-del-.txt <==
+ 13:11:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-300-add-.txt <==
+ 14:18:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-300-del-.txt <==
+ 14:18:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-301-add-.txt <==
+ 14:18:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-301-del-.txt <==
+ 14:18:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-302-add-.txt <==
+ 14:18:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-302-del-.txt <==
+ 14:18:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-303-add-.txt <==
+ 14:19:08 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-303-del-.txt <==
+ 14:19:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-304-add-.txt <==
+ 14:19:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-304-del-.txt <==
+ 14:19:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-305-add-.txt <==
+ 14:19:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-305-del-.txt <==
+ 14:19:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-306-add-.txt <==
+ 14:19:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-306-del-.txt <==
+ 14:19:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-307-add-.txt <==
+ 14:20:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-307-del-.txt <==
+ 14:20:12 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-308-add-.txt <==
+ 14:20:19 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-308-del-.txt <==
+ 14:20:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-309-add-.txt <==
+ 14:20:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-309-del-.txt <==
+ 14:20:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-30-add-.txt <==
+ 13:17:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-30-del-.txt <==
+ 13:17:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-310-add-.txt <==
+ 14:20:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-310-del-.txt <==
+ 14:20:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-311-add-.txt <==
+ 14:20:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-311-del-.txt <==
+ 14:21:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-312-add-.txt <==
+ 14:21:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-312-del-.txt <==
+ 14:21:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-313-add-.txt <==
+ 14:21:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-313-del-.txt <==
+ 14:21:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-314-add-.txt <==
+ 14:21:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-314-del-.txt <==
+ 14:21:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-315-add-.txt <==
+ 14:21:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-315-del-.txt <==
+ 14:21:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-316-add-.txt <==
+ 14:21:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-316-del-.txt <==
+ 14:22:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-317-add-.txt <==
+ 14:22:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-317-del-.txt <==
+ 14:22:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-318-add-.txt <==
+ 14:22:29 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-318-del-.txt <==
+ 14:22:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-319-add-.txt <==
+ 14:22:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-319-del-.txt <==
+ 14:22:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-31-add-.txt <==
+ 13:17:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-31-del-.txt <==
+ 13:18:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-320-add-.txt <==
+ 14:22:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-320-del-.txt <==
+ 14:23:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-321-add-.txt <==
+ 14:23:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-321-del-.txt <==
+ 14:23:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-322-add-.txt <==
+ 14:23:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-322-del-.txt <==
+ 14:23:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-323-add-.txt <==
+ 14:23:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-323-del-.txt <==
+ 14:23:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-324-add-.txt <==
+ 14:23:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-324-del-.txt <==
+ 14:23:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-325-add-.txt <==
+ 14:24:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-325-del-.txt <==
+ 14:24:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-326-add-.txt <==
+ 14:24:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-326-del-.txt <==
+ 14:24:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-327-add-.txt <==
+ 14:24:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-327-del-.txt <==
+ 14:24:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-328-add-.txt <==
+ 14:24:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-328-del-.txt <==
+ 14:24:51 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-329-add-.txt <==
+ 14:25:01 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-329-del-.txt <==
+ 14:25:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-32-add-.txt <==
+ 13:18:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-32-del-.txt <==
+ 13:18:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-330-add-.txt <==
+ 14:25:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-330-del-.txt <==
+ 14:25:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-331-add-.txt <==
+ 14:25:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-331-del-.txt <==
+ 14:25:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-332-add-.txt <==
+ 14:25:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-332-del-.txt <==
+ 14:25:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-333-add-.txt <==
+ 14:26:00 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-333-del-.txt <==
+ 14:26:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-334-add-.txt <==
+ 14:26:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-334-del-.txt <==
+ 14:26:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-335-add-.txt <==
+ 14:26:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-335-del-.txt <==
+ 14:26:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-336-add-.txt <==
+ 14:26:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-336-del-.txt <==
+ 14:26:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-337-add-.txt <==
+ 14:26:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-337-del-.txt <==
+ 14:26:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-338-add-.txt <==
+ 14:27:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-338-del-.txt <==
+ 14:27:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-339-add-.txt <==
+ 14:27:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-339-del-.txt <==
+ 14:27:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-33-add-.txt <==
+ 13:18:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-33-del-.txt <==
+ 13:18:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-340-add-.txt <==
+ 14:27:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-340-del-.txt <==
+ 14:27:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-341-add-.txt <==
+ 14:27:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-341-del-.txt <==
+ 14:27:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-342-add-.txt <==
+ 14:27:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-342-del-.txt <==
+ 14:28:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-343-add-.txt <==
+ 14:28:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-343-del-.txt <==
+ 14:28:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-344-add-.txt <==
+ 14:28:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-344-del-.txt <==
+ 14:28:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-345-add-.txt <==
+ 14:28:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-345-del-.txt <==
+ 14:28:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-346-add-.txt <==
+ 14:28:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-346-del-.txt <==
+ 14:28:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-347-add-.txt <==
+ 14:29:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-347-del-.txt <==
+ 14:29:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-348-add-.txt <==
+ 14:29:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-348-del-.txt <==
+ 14:29:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-349-add-.txt <==
+ 14:29:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-349-del-.txt <==
+ 14:29:40 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-34-add-.txt <==
+ 13:18:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-34-del-.txt <==
+ 13:18:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-350-add-.txt <==
+ 14:29:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-350-del-.txt <==
+ 14:29:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-351-add-.txt <==
+ 14:29:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-351-del-.txt <==
+ 14:30:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-352-add-.txt <==
+ 14:30:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-352-del-.txt <==
+ 14:30:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-353-add-.txt <==
+ 14:30:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-353-del-.txt <==
+ 14:30:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-354-add-.txt <==
+ 14:30:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-354-del-.txt <==
+ 14:30:53 INFO -- 12 seconds
+
+==> load-bearb-hour-cb-355-add-.txt <==
+ 14:31:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-355-del-.txt <==
+ 14:31:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-356-add-.txt <==
+ 14:31:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-356-del-.txt <==
+ 14:31:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-357-add-.txt <==
+ 14:31:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-357-del-.txt <==
+ 14:31:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-358-add-.txt <==
+ 14:31:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-358-del-.txt <==
+ 14:31:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-359-add-.txt <==
+ 14:31:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-359-del-.txt <==
+ 14:31:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-35-add-.txt <==
+ 13:18:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-35-del-.txt <==
+ 13:18:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-360-add-.txt <==
+ 14:32:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-360-del-.txt <==
+ 14:32:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-361-add-.txt <==
+ 14:32:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-361-del-.txt <==
+ 14:32:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-362-add-.txt <==
+ 14:32:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-362-del-.txt <==
+ 14:32:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-363-add-.txt <==
+ 14:32:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-363-del-.txt <==
+ 14:32:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-364-add-.txt <==
+ 14:32:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-364-del-.txt <==
+ 14:32:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-365-add-.txt <==
+ 14:33:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-365-del-.txt <==
+ 14:33:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-366-add-.txt <==
+ 14:33:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-366-del-.txt <==
+ 14:33:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-367-add-.txt <==
+ 14:33:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-367-del-.txt <==
+ 14:33:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-368-add-.txt <==
+ 14:33:42 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-368-del-.txt <==
+ 14:33:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-369-add-.txt <==
+ 14:33:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-369-del-.txt <==
+ 14:34:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-36-add-.txt <==
+ 13:18:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-36-del-.txt <==
+ 13:19:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-370-add-.txt <==
+ 14:34:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-370-del-.txt <==
+ 14:34:16 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-371-add-.txt <==
+ 14:34:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-371-del-.txt <==
+ 14:34:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-372-add-.txt <==
+ 14:34:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-372-del-.txt <==
+ 14:34:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-373-add-.txt <==
+ 14:34:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-373-del-.txt <==
+ 14:34:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-374-add-.txt <==
+ 14:34:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-374-del-.txt <==
+ 14:35:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-375-add-.txt <==
+ 14:35:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-375-del-.txt <==
+ 14:35:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-376-add-.txt <==
+ 14:35:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-376-del-.txt <==
+ 14:35:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-377-add-.txt <==
+ 14:35:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-377-del-.txt <==
+ 14:35:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-378-add-.txt <==
+ 14:35:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-378-del-.txt <==
+ 14:35:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-379-add-.txt <==
+ 14:36:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-379-del-.txt <==
+ 14:36:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-37-add-.txt <==
+ 13:19:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-37-del-.txt <==
+ 13:19:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-380-add-.txt <==
+ 14:36:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-380-del-.txt <==
+ 14:36:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-381-add-.txt <==
+ 14:36:30 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-381-del-.txt <==
+ 14:36:43 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-382-add-.txt <==
+ 14:36:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-382-del-.txt <==
+ 14:36:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-383-add-.txt <==
+ 14:37:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-383-del-.txt <==
+ 14:37:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-384-add-.txt <==
+ 14:37:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-384-del-.txt <==
+ 14:37:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-385-add-.txt <==
+ 14:37:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-385-del-.txt <==
+ 14:37:37 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-386-add-.txt <==
+ 14:37:46 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-386-del-.txt <==
+ 14:37:56 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-387-add-.txt <==
+ 14:38:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-387-del-.txt <==
+ 14:38:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-388-add-.txt <==
+ 14:38:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-388-del-.txt <==
+ 14:38:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-389-add-.txt <==
+ 14:38:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-389-del-.txt <==
+ 14:38:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-38-add-.txt <==
+ 13:19:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-38-del-.txt <==
+ 13:19:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-390-add-.txt <==
+ 14:38:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-390-del-.txt <==
+ 14:38:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-391-add-.txt <==
+ 14:38:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-391-del-.txt <==
+ 14:39:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-392-add-.txt <==
+ 14:39:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-392-del-.txt <==
+ 14:39:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-393-add-.txt <==
+ 14:39:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-393-del-.txt <==
+ 14:39:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-394-add-.txt <==
+ 14:39:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-394-del-.txt <==
+ 14:39:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-395-add-.txt <==
+ 14:39:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-395-del-.txt <==
+ 14:39:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-396-add-.txt <==
+ 14:39:59 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-396-del-.txt <==
+ 14:40:08 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-397-add-.txt <==
+ 14:40:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-397-del-.txt <==
+ 14:40:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-398-add-.txt <==
+ 14:40:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-398-del-.txt <==
+ 14:40:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-399-add-.txt <==
+ 14:40:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-399-del-.txt <==
+ 14:40:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-39-add-.txt <==
+ 13:19:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-39-del-.txt <==
+ 13:19:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-3-add-.txt <==
+ 13:12:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-3-del-.txt <==
+ 13:12:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-400-add-.txt <==
+ 14:40:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-400-del-.txt <==
+ 14:40:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-401-add-.txt <==
+ 14:41:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-401-del-.txt <==
+ 14:41:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-402-add-.txt <==
+ 14:41:19 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-402-del-.txt <==
+ 14:41:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-403-add-.txt <==
+ 14:41:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-403-del-.txt <==
+ 14:41:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-404-add-.txt <==
+ 14:41:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-404-del-.txt <==
+ 14:41:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-405-add-.txt <==
+ 14:41:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-405-del-.txt <==
+ 14:42:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-406-add-.txt <==
+ 14:42:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-406-del-.txt <==
+ 14:42:16 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-407-add-.txt <==
+ 14:42:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-407-del-.txt <==
+ 14:42:35 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-408-add-.txt <==
+ 14:42:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-408-del-.txt <==
+ 14:42:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-409-add-.txt <==
+ 14:42:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-409-del-.txt <==
+ 14:43:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-40-add-.txt <==
+ 13:19:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-40-del-.txt <==
+ 13:19:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-410-add-.txt <==
+ 14:43:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-410-del-.txt <==
+ 14:43:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-411-add-.txt <==
+ 14:43:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-411-del-.txt <==
+ 14:43:28 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-412-add-.txt <==
+ 14:43:35 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-412-del-.txt <==
+ 14:43:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-413-add-.txt <==
+ 14:43:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-413-del-.txt <==
+ 14:43:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-414-add-.txt <==
+ 14:44:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-414-del-.txt <==
+ 14:44:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-415-add-.txt <==
+ 14:44:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-415-del-.txt <==
+ 14:44:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-416-add-.txt <==
+ 14:44:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-416-del-.txt <==
+ 14:44:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-417-add-.txt <==
+ 14:44:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-417-del-.txt <==
+ 14:44:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-418-add-.txt <==
+ 14:44:53 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-418-del-.txt <==
+ 14:45:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-419-add-.txt <==
+ 14:45:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-419-del-.txt <==
+ 14:45:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-41-add-.txt <==
+ 13:19:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-41-del-.txt <==
+ 13:20:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-420-add-.txt <==
+ 14:45:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-420-del-.txt <==
+ 14:45:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-421-add-.txt <==
+ 14:45:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-421-del-.txt <==
+ 14:45:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-422-add-.txt <==
+ 14:45:46 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-422-del-.txt <==
+ 14:45:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-423-add-.txt <==
+ 14:45:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-423-del-.txt <==
+ 14:46:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-424-add-.txt <==
+ 14:46:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-424-del-.txt <==
+ 14:46:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-425-add-.txt <==
+ 14:46:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-425-del-.txt <==
+ 14:46:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-426-add-.txt <==
+ 14:46:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-426-del-.txt <==
+ 14:46:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-427-add-.txt <==
+ 14:46:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-427-del-.txt <==
+ 14:46:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-428-add-.txt <==
+ 14:47:04 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-428-del-.txt <==
+ 14:47:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-429-add-.txt <==
+ 14:47:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-429-del-.txt <==
+ 14:47:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-42-add-.txt <==
+ 13:20:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-42-del-.txt <==
+ 13:20:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-430-add-.txt <==
+ 14:47:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-430-del-.txt <==
+ 14:47:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-431-add-.txt <==
+ 14:47:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-431-del-.txt <==
+ 14:47:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-432-add-.txt <==
+ 14:47:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-432-del-.txt <==
+ 14:48:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-433-add-.txt <==
+ 14:48:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-433-del-.txt <==
+ 14:48:19 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-434-add-.txt <==
+ 14:48:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-434-del-.txt <==
+ 14:48:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-435-add-.txt <==
+ 14:48:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-435-del-.txt <==
+ 14:48:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-436-add-.txt <==
+ 14:48:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-436-del-.txt <==
+ 14:48:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-437-add-.txt <==
+ 14:49:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-437-del-.txt <==
+ 14:49:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-438-add-.txt <==
+ 14:49:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-438-del-.txt <==
+ 14:49:28 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-439-add-.txt <==
+ 14:49:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-439-del-.txt <==
+ 14:49:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-43-add-.txt <==
+ 13:20:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-43-del-.txt <==
+ 13:20:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-440-add-.txt <==
+ 14:49:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-440-del-.txt <==
+ 14:49:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-441-add-.txt <==
+ 14:50:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-441-del-.txt <==
+ 14:50:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-442-add-.txt <==
+ 14:50:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-442-del-.txt <==
+ 14:50:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-443-add-.txt <==
+ 14:50:28 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-443-del-.txt <==
+ 14:50:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-444-add-.txt <==
+ 14:50:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-444-del-.txt <==
+ 14:50:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-445-add-.txt <==
+ 14:50:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-445-del-.txt <==
+ 14:51:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-446-add-.txt <==
+ 14:51:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-446-del-.txt <==
+ 14:51:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-447-add-.txt <==
+ 14:51:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-447-del-.txt <==
+ 14:51:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-448-add-.txt <==
+ 14:51:38 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-448-del-.txt <==
+ 14:51:45 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-449-add-.txt <==
+ 14:51:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-449-del-.txt <==
+ 14:51:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-44-add-.txt <==
+ 13:20:37 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-44-del-.txt <==
+ 13:20:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-450-add-.txt <==
+ 14:52:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-450-del-.txt <==
+ 14:52:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-451-add-.txt <==
+ 14:52:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-451-del-.txt <==
+ 14:52:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-452-add-.txt <==
+ 14:52:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-452-del-.txt <==
+ 14:52:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-453-add-.txt <==
+ 14:52:47 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-453-del-.txt <==
+ 14:52:56 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-454-add-.txt <==
+ 14:53:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-454-del-.txt <==
+ 14:53:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-455-add-.txt <==
+ 14:53:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-455-del-.txt <==
+ 14:53:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-456-add-.txt <==
+ 14:53:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-456-del-.txt <==
+ 14:53:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-457-add-.txt <==
+ 14:53:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-457-del-.txt <==
+ 14:53:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-458-add-.txt <==
+ 14:53:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-458-del-.txt <==
+ 14:54:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-459-add-.txt <==
+ 14:54:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-459-del-.txt <==
+ 14:54:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-45-add-.txt <==
+ 13:20:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-45-del-.txt <==
+ 13:20:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-460-add-.txt <==
+ 14:54:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-460-del-.txt <==
+ 14:54:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-461-add-.txt <==
+ 14:54:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-461-del-.txt <==
+ 14:54:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-462-add-.txt <==
+ 14:54:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-462-del-.txt <==
+ 14:54:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-463-add-.txt <==
+ 14:54:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-463-del-.txt <==
+ 14:55:06 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-464-add-.txt <==
+ 14:55:14 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-464-del-.txt <==
+ 14:55:22 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-465-add-.txt <==
+ 14:55:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-465-del-.txt <==
+ 14:55:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-466-add-.txt <==
+ 14:55:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-466-del-.txt <==
+ 14:55:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-467-add-.txt <==
+ 14:55:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-467-del-.txt <==
+ 14:56:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-468-add-.txt <==
+ 14:56:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-468-del-.txt <==
+ 14:56:14 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-469-add-.txt <==
+ 14:56:25 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-469-del-.txt <==
+ 14:56:33 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-46-add-.txt <==
+ 13:21:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-46-del-.txt <==
+ 13:21:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-470-add-.txt <==
+ 14:56:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-470-del-.txt <==
+ 14:56:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-471-add-.txt <==
+ 14:56:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-471-del-.txt <==
+ 14:56:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-472-add-.txt <==
+ 14:57:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-472-del-.txt <==
+ 14:57:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-473-add-.txt <==
+ 14:57:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-473-del-.txt <==
+ 14:57:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-474-add-.txt <==
+ 14:57:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-474-del-.txt <==
+ 14:57:42 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-475-add-.txt <==
+ 14:57:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-475-del-.txt <==
+ 14:57:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-476-add-.txt <==
+ 14:58:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-476-del-.txt <==
+ 14:58:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-477-add-.txt <==
+ 14:58:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-477-del-.txt <==
+ 14:58:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-478-add-.txt <==
+ 14:58:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-478-del-.txt <==
+ 14:58:35 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-479-add-.txt <==
+ 14:58:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-479-del-.txt <==
+ 14:58:51 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-47-add-.txt <==
+ 13:21:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-47-del-.txt <==
+ 13:21:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-480-add-.txt <==
+ 14:58:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-480-del-.txt <==
+ 14:59:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-481-add-.txt <==
+ 14:59:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-481-del-.txt <==
+ 14:59:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-482-add-.txt <==
+ 14:59:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-482-del-.txt <==
+ 14:59:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-483-add-.txt <==
+ 14:59:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-483-del-.txt <==
+ 14:59:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-484-add-.txt <==
+ 14:59:52 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-484-del-.txt <==
+ 15:00:00 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-485-add-.txt <==
+ 15:00:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-485-del-.txt <==
+ 15:00:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-486-add-.txt <==
+ 15:00:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-486-del-.txt <==
+ 15:00:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-487-add-.txt <==
+ 15:00:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-487-del-.txt <==
+ 15:00:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-488-add-.txt <==
+ 15:00:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-488-del-.txt <==
+ 15:00:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-489-add-.txt <==
+ 15:01:00 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-489-del-.txt <==
+ 15:01:13 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-48-add-.txt <==
+ 13:21:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-48-del-.txt <==
+ 13:21:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-490-add-.txt <==
+ 15:01:21 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-490-del-.txt <==
+ 15:01:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-491-add-.txt <==
+ 15:01:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-491-del-.txt <==
+ 15:01:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-492-add-.txt <==
+ 15:01:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-492-del-.txt <==
+ 15:01:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-493-add-.txt <==
+ 15:01:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-493-del-.txt <==
+ 15:02:08 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-494-add-.txt <==
+ 15:02:17 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-494-del-.txt <==
+ 15:02:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-495-add-.txt <==
+ 15:02:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-495-del-.txt <==
+ 15:02:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-496-add-.txt <==
+ 15:02:42 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-496-del-.txt <==
+ 15:02:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-497-add-.txt <==
+ 15:02:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-497-del-.txt <==
+ 15:03:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-498-add-.txt <==
+ 15:03:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-498-del-.txt <==
+ 15:03:19 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-499-add-.txt <==
+ 15:03:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-499-del-.txt <==
+ 15:03:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-49-add-.txt <==
+ 13:21:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-49-del-.txt <==
+ 13:21:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-4-add-.txt <==
+ 13:12:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-4-del-.txt <==
+ 13:12:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-500-add-.txt <==
+ 15:03:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-500-del-.txt <==
+ 15:03:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-501-add-.txt <==
+ 15:03:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-501-del-.txt <==
+ 15:03:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-502-add-.txt <==
+ 15:04:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-502-del-.txt <==
+ 15:04:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-503-add-.txt <==
+ 15:04:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-503-del-.txt <==
+ 15:04:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-504-add-.txt <==
+ 15:04:32 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-504-del-.txt <==
+ 15:04:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-505-add-.txt <==
+ 15:04:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-505-del-.txt <==
+ 15:04:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-506-add-.txt <==
+ 15:04:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-506-del-.txt <==
+ 15:05:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-507-add-.txt <==
+ 15:05:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-507-del-.txt <==
+ 15:05:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-508-add-.txt <==
+ 15:05:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-508-del-.txt <==
+ 15:05:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-509-add-.txt <==
+ 15:05:39 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-509-del-.txt <==
+ 15:05:48 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-50-add-.txt <==
+ 13:21:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-50-del-.txt <==
+ 13:21:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-510-add-.txt <==
+ 15:05:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-510-del-.txt <==
+ 15:06:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-511-add-.txt <==
+ 15:06:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-511-del-.txt <==
+ 15:06:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-512-add-.txt <==
+ 15:06:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-512-del-.txt <==
+ 15:06:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-513-add-.txt <==
+ 15:06:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-513-del-.txt <==
+ 15:06:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-514-add-.txt <==
+ 15:06:47 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-514-del-.txt <==
+ 15:06:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-515-add-.txt <==
+ 15:07:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-515-del-.txt <==
+ 15:07:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-516-add-.txt <==
+ 15:07:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-516-del-.txt <==
+ 15:07:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-517-add-.txt <==
+ 15:07:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-517-del-.txt <==
+ 15:07:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-518-add-.txt <==
+ 15:07:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-518-del-.txt <==
+ 15:07:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-519-add-.txt <==
+ 15:07:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-519-del-.txt <==
+ 15:08:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-51-add-.txt <==
+ 13:22:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-51-del-.txt <==
+ 13:22:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-520-add-.txt <==
+ 15:08:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-520-del-.txt <==
+ 15:08:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-521-add-.txt <==
+ 15:08:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-521-del-.txt <==
+ 15:08:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-522-add-.txt <==
+ 15:08:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-522-del-.txt <==
+ 15:08:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-523-add-.txt <==
+ 15:08:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-523-del-.txt <==
+ 15:08:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-524-add-.txt <==
+ 15:08:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-524-del-.txt <==
+ 15:09:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-525-add-.txt <==
+ 15:09:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-525-del-.txt <==
+ 15:09:20 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-526-add-.txt <==
+ 15:09:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-526-del-.txt <==
+ 15:09:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-527-add-.txt <==
+ 15:09:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-527-del-.txt <==
+ 15:09:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-528-add-.txt <==
+ 15:09:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-528-del-.txt <==
+ 15:09:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-529-add-.txt <==
+ 15:10:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-529-del-.txt <==
+ 15:10:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-52-add-.txt <==
+ 13:22:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-52-del-.txt <==
+ 13:22:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-530-add-.txt <==
+ 15:10:19 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-530-del-.txt <==
+ 15:10:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-531-add-.txt <==
+ 15:10:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-531-del-.txt <==
+ 15:10:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-532-add-.txt <==
+ 15:10:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-532-del-.txt <==
+ 15:10:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-533-add-.txt <==
+ 15:10:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-533-del-.txt <==
+ 15:11:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-534-add-.txt <==
+ 15:11:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-534-del-.txt <==
+ 15:11:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-535-add-.txt <==
+ 15:11:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-535-del-.txt <==
+ 15:11:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-536-add-.txt <==
+ 15:11:41 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-536-del-.txt <==
+ 15:11:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-537-add-.txt <==
+ 15:11:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-537-del-.txt <==
+ 15:12:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-538-add-.txt <==
+ 15:12:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-538-del-.txt <==
+ 15:12:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-539-add-.txt <==
+ 15:12:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-539-del-.txt <==
+ 15:12:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-53-add-.txt <==
+ 13:22:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-53-del-.txt <==
+ 13:22:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-540-add-.txt <==
+ 15:12:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-540-del-.txt <==
+ 15:12:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-541-add-.txt <==
+ 15:12:49 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-541-del-.txt <==
+ 15:12:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-542-add-.txt <==
+ 15:13:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-542-del-.txt <==
+ 15:13:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-543-add-.txt <==
+ 15:13:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-543-del-.txt <==
+ 15:13:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-544-add-.txt <==
+ 15:13:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-544-del-.txt <==
+ 15:13:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-545-add-.txt <==
+ 15:13:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-545-del-.txt <==
+ 15:13:50 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-546-add-.txt <==
+ 15:13:57 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-546-del-.txt <==
+ 15:14:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-547-add-.txt <==
+ 15:14:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-547-del-.txt <==
+ 15:14:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-548-add-.txt <==
+ 15:14:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-548-del-.txt <==
+ 15:14:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-549-add-.txt <==
+ 15:14:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-549-del-.txt <==
+ 15:14:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-54-add-.txt <==
+ 13:22:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-54-del-.txt <==
+ 13:22:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-550-add-.txt <==
+ 15:14:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-550-del-.txt <==
+ 15:14:59 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-551-add-.txt <==
+ 15:15:13 INFO -- 12 seconds
+
+==> load-bearb-hour-cb-551-del-.txt <==
+ 15:15:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-552-add-.txt <==
+ 15:15:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-552-del-.txt <==
+ 15:15:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-553-add-.txt <==
+ 15:15:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-553-del-.txt <==
+ 15:15:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-554-add-.txt <==
+ 15:15:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-554-del-.txt <==
+ 15:15:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-555-add-.txt <==
+ 15:16:06 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-555-del-.txt <==
+ 15:16:14 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-556-add-.txt <==
+ 15:16:22 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-556-del-.txt <==
+ 15:16:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-557-add-.txt <==
+ 15:16:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-557-del-.txt <==
+ 15:16:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-558-add-.txt <==
+ 15:16:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-558-del-.txt <==
+ 15:16:53 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-559-add-.txt <==
+ 15:16:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-559-del-.txt <==
+ 15:17:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-55-add-.txt <==
+ 13:22:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-55-del-.txt <==
+ 13:23:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-560-add-.txt <==
+ 15:17:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-560-del-.txt <==
+ 15:17:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-561-add-.txt <==
+ 15:17:27 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-561-del-.txt <==
+ 15:17:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-562-add-.txt <==
+ 15:17:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-562-del-.txt <==
+ 15:17:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-563-add-.txt <==
+ 15:17:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-563-del-.txt <==
+ 15:17:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-564-add-.txt <==
+ 15:18:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-564-del-.txt <==
+ 15:18:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-565-add-.txt <==
+ 15:18:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-565-del-.txt <==
+ 15:18:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-566-add-.txt <==
+ 15:18:37 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-566-del-.txt <==
+ 15:18:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-567-add-.txt <==
+ 15:18:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-567-del-.txt <==
+ 15:18:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-568-add-.txt <==
+ 15:19:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-568-del-.txt <==
+ 15:19:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-569-add-.txt <==
+ 15:19:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-569-del-.txt <==
+ 15:19:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-56-add-.txt <==
+ 13:23:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-56-del-.txt <==
+ 13:23:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-570-add-.txt <==
+ 15:19:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-570-del-.txt <==
+ 15:19:36 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-571-add-.txt <==
+ 15:19:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-571-del-.txt <==
+ 15:19:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-572-add-.txt <==
+ 15:19:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-572-del-.txt <==
+ 15:20:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-573-add-.txt <==
+ 15:20:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-573-del-.txt <==
+ 15:20:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-574-add-.txt <==
+ 15:20:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-574-del-.txt <==
+ 15:20:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-575-add-.txt <==
+ 15:20:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-575-del-.txt <==
+ 15:20:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-576-add-.txt <==
+ 15:20:51 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-576-del-.txt <==
+ 15:20:59 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-577-add-.txt <==
+ 15:21:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-577-del-.txt <==
+ 15:21:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-578-add-.txt <==
+ 15:21:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-578-del-.txt <==
+ 15:21:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-579-add-.txt <==
+ 15:21:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-579-del-.txt <==
+ 15:21:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-57-add-.txt <==
+ 13:23:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-57-del-.txt <==
+ 13:23:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-580-add-.txt <==
+ 15:21:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-580-del-.txt <==
+ 15:21:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-581-add-.txt <==
+ 15:21:59 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-581-del-.txt <==
+ 15:22:07 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-582-add-.txt <==
+ 15:22:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-582-del-.txt <==
+ 15:22:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-583-add-.txt <==
+ 15:22:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-583-del-.txt <==
+ 15:22:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-584-add-.txt <==
+ 15:22:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-584-del-.txt <==
+ 15:22:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-585-add-.txt <==
+ 15:22:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-585-del-.txt <==
+ 15:22:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-586-add-.txt <==
+ 15:23:05 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-586-del-.txt <==
+ 15:23:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-587-add-.txt <==
+ 15:23:19 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-587-del-.txt <==
+ 15:23:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-588-add-.txt <==
+ 15:23:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-588-del-.txt <==
+ 15:23:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-589-add-.txt <==
+ 15:23:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-589-del-.txt <==
+ 15:23:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-58-add-.txt <==
+ 13:23:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-58-del-.txt <==
+ 13:23:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-590-add-.txt <==
+ 15:23:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-590-del-.txt <==
+ 15:24:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-591-add-.txt <==
+ 15:24:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-591-del-.txt <==
+ 15:24:20 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-592-add-.txt <==
+ 15:24:28 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-592-del-.txt <==
+ 15:24:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-593-add-.txt <==
+ 15:24:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-593-del-.txt <==
+ 15:24:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-594-add-.txt <==
+ 15:24:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-594-del-.txt <==
+ 15:25:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-595-add-.txt <==
+ 15:25:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-595-del-.txt <==
+ 15:25:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-596-add-.txt <==
+ 15:25:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-596-del-.txt <==
+ 15:25:31 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-597-add-.txt <==
+ 15:25:44 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-597-del-.txt <==
+ 15:25:52 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-598-add-.txt <==
+ 15:25:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-598-del-.txt <==
+ 15:26:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-599-add-.txt <==
+ 15:26:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-599-del-.txt <==
+ 15:26:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-59-add-.txt <==
+ 13:23:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-59-del-.txt <==
+ 13:23:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-5-add-.txt <==
+ 13:12:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-5-del-.txt <==
+ 13:12:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-600-add-.txt <==
+ 15:26:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-600-del-.txt <==
+ 15:26:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-601-add-.txt <==
+ 15:26:42 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-601-del-.txt <==
+ 15:26:52 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-602-add-.txt <==
+ 15:26:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-602-del-.txt <==
+ 15:27:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-603-add-.txt <==
+ 15:27:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-603-del-.txt <==
+ 15:27:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-604-add-.txt <==
+ 15:27:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-604-del-.txt <==
+ 15:27:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-605-add-.txt <==
+ 15:27:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-605-del-.txt <==
+ 15:27:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-606-add-.txt <==
+ 15:27:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-606-del-.txt <==
+ 15:27:59 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-607-add-.txt <==
+ 15:28:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-607-del-.txt <==
+ 15:28:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-608-add-.txt <==
+ 15:28:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-608-del-.txt <==
+ 15:28:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-609-add-.txt <==
+ 15:28:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-609-del-.txt <==
+ 15:28:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-60-add-.txt <==
+ 13:24:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-60-del-.txt <==
+ 13:24:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-610-add-.txt <==
+ 15:28:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-610-del-.txt <==
+ 15:28:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-611-add-.txt <==
+ 15:28:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-611-del-.txt <==
+ 15:29:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-612-add-.txt <==
+ 15:29:10 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-612-del-.txt <==
+ 15:29:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-613-add-.txt <==
+ 15:29:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-613-del-.txt <==
+ 15:29:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-614-add-.txt <==
+ 15:29:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-614-del-.txt <==
+ 15:29:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-615-add-.txt <==
+ 15:29:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-615-del-.txt <==
+ 15:29:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-616-add-.txt <==
+ 15:30:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-616-del-.txt <==
+ 15:30:08 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-617-add-.txt <==
+ 15:30:16 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-617-del-.txt <==
+ 15:30:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-618-add-.txt <==
+ 15:30:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-618-del-.txt <==
+ 15:30:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-619-add-.txt <==
+ 15:30:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-619-del-.txt <==
+ 15:30:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-61-add-.txt <==
+ 13:24:16 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-61-del-.txt <==
+ 13:24:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-620-add-.txt <==
+ 15:30:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-620-del-.txt <==
+ 15:31:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-621-add-.txt <==
+ 15:31:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-621-del-.txt <==
+ 15:31:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-622-add-.txt <==
+ 15:31:21 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-622-del-.txt <==
+ 15:31:32 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-623-add-.txt <==
+ 15:31:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-623-del-.txt <==
+ 15:31:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-624-add-.txt <==
+ 15:31:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-624-del-.txt <==
+ 15:31:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-625-add-.txt <==
+ 15:32:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-625-del-.txt <==
+ 15:32:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-626-add-.txt <==
+ 15:32:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-626-del-.txt <==
+ 15:32:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-627-add-.txt <==
+ 15:32:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-627-del-.txt <==
+ 15:32:41 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-628-add-.txt <==
+ 15:32:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-628-del-.txt <==
+ 15:32:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-629-add-.txt <==
+ 15:33:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-629-del-.txt <==
+ 15:33:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-62-add-.txt <==
+ 13:24:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-62-del-.txt <==
+ 13:24:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-630-add-.txt <==
+ 15:33:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-630-del-.txt <==
+ 15:33:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-631-add-.txt <==
+ 15:33:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-631-del-.txt <==
+ 15:33:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-632-add-.txt <==
+ 15:33:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-632-del-.txt <==
+ 15:33:50 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-633-add-.txt <==
+ 15:33:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-633-del-.txt <==
+ 15:34:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-634-add-.txt <==
+ 15:34:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-634-del-.txt <==
+ 15:34:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-635-add-.txt <==
+ 15:34:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-635-del-.txt <==
+ 15:34:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-636-add-.txt <==
+ 15:34:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-636-del-.txt <==
+ 15:34:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-637-add-.txt <==
+ 15:34:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-637-del-.txt <==
+ 15:34:58 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-638-add-.txt <==
+ 15:35:07 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-638-del-.txt <==
+ 15:35:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-639-add-.txt <==
+ 15:35:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-639-del-.txt <==
+ 15:35:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-63-add-.txt <==
+ 13:24:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-63-del-.txt <==
+ 13:24:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-640-add-.txt <==
+ 15:35:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-640-del-.txt <==
+ 15:35:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-641-add-.txt <==
+ 15:35:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-641-del-.txt <==
+ 15:35:50 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-642-add-.txt <==
+ 15:35:58 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-642-del-.txt <==
+ 15:36:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-643-add-.txt <==
+ 15:36:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-643-del-.txt <==
+ 15:36:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-644-add-.txt <==
+ 15:36:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-644-del-.txt <==
+ 15:36:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-645-add-.txt <==
+ 15:36:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-645-del-.txt <==
+ 15:36:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-646-add-.txt <==
+ 15:36:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-646-del-.txt <==
+ 15:36:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-647-add-.txt <==
+ 15:37:07 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-647-del-.txt <==
+ 15:37:17 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-648-add-.txt <==
+ 15:37:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-648-del-.txt <==
+ 15:37:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-649-add-.txt <==
+ 15:37:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-649-del-.txt <==
+ 15:37:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-64-add-.txt <==
+ 13:24:53 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-64-del-.txt <==
+ 13:25:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-650-add-.txt <==
+ 15:37:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-650-del-.txt <==
+ 15:37:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-651-add-.txt <==
+ 15:38:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-651-del-.txt <==
+ 15:38:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-652-add-.txt <==
+ 15:38:19 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-652-del-.txt <==
+ 15:38:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-653-add-.txt <==
+ 15:38:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-653-del-.txt <==
+ 15:38:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-654-add-.txt <==
+ 15:38:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-654-del-.txt <==
+ 15:38:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-655-add-.txt <==
+ 15:38:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-655-del-.txt <==
+ 15:39:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-656-add-.txt <==
+ 15:39:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-656-del-.txt <==
+ 15:39:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-657-add-.txt <==
+ 15:39:27 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-657-del-.txt <==
+ 15:39:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-658-add-.txt <==
+ 15:39:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-658-del-.txt <==
+ 15:39:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-659-add-.txt <==
+ 15:39:53 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-659-del-.txt <==
+ 15:39:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-65-add-.txt <==
+ 13:25:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-65-del-.txt <==
+ 13:25:14 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-660-add-.txt <==
+ 15:40:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-660-del-.txt <==
+ 15:40:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-661-add-.txt <==
+ 15:40:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-661-del-.txt <==
+ 15:40:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-662-add-.txt <==
+ 15:40:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-662-del-.txt <==
+ 15:40:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-663-add-.txt <==
+ 15:40:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-663-del-.txt <==
+ 15:40:57 INFO -- 11 seconds
+
+==> load-bearb-hour-cb-664-add-.txt <==
+ 15:41:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-664-del-.txt <==
+ 15:41:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-665-add-.txt <==
+ 15:41:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-665-del-.txt <==
+ 15:41:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-666-add-.txt <==
+ 15:41:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-666-del-.txt <==
+ 15:41:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-667-add-.txt <==
+ 15:41:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-667-del-.txt <==
+ 15:41:51 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-668-add-.txt <==
+ 15:41:59 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-668-del-.txt <==
+ 15:42:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-669-add-.txt <==
+ 15:42:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-669-del-.txt <==
+ 15:42:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-66-add-.txt <==
+ 13:25:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-66-del-.txt <==
+ 13:25:29 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-670-add-.txt <==
+ 15:42:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-670-del-.txt <==
+ 15:42:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-671-add-.txt <==
+ 15:42:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-671-del-.txt <==
+ 15:42:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-672-add-.txt <==
+ 15:42:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-672-del-.txt <==
+ 15:43:00 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-673-add-.txt <==
+ 15:43:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-673-del-.txt <==
+ 15:43:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-674-add-.txt <==
+ 15:43:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-674-del-.txt <==
+ 15:43:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-675-add-.txt <==
+ 15:43:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-675-del-.txt <==
+ 15:43:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-676-add-.txt <==
+ 15:43:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-676-del-.txt <==
+ 15:43:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-677-add-.txt <==
+ 15:43:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-677-del-.txt <==
+ 15:44:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-678-add-.txt <==
+ 15:44:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-678-del-.txt <==
+ 15:44:24 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-679-add-.txt <==
+ 15:44:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-679-del-.txt <==
+ 15:44:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-67-add-.txt <==
+ 13:25:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-67-del-.txt <==
+ 13:25:41 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-680-add-.txt <==
+ 15:44:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-680-del-.txt <==
+ 15:44:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-681-add-.txt <==
+ 15:44:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-681-del-.txt <==
+ 15:45:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-682-add-.txt <==
+ 15:45:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-682-del-.txt <==
+ 15:45:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-683-add-.txt <==
+ 15:45:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-683-del-.txt <==
+ 15:45:31 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-684-add-.txt <==
+ 15:45:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-684-del-.txt <==
+ 15:45:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-685-add-.txt <==
+ 15:45:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-685-del-.txt <==
+ 15:45:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-686-add-.txt <==
+ 15:46:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-686-del-.txt <==
+ 15:46:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-687-add-.txt <==
+ 15:46:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-687-del-.txt <==
+ 15:46:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-688-add-.txt <==
+ 15:46:30 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-688-del-.txt <==
+ 15:46:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-689-add-.txt <==
+ 15:46:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-689-del-.txt <==
+ 15:46:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-68-add-.txt <==
+ 13:25:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-68-del-.txt <==
+ 13:25:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-690-add-.txt <==
+ 15:46:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-690-del-.txt <==
+ 15:47:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-691-add-.txt <==
+ 15:47:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-691-del-.txt <==
+ 15:47:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-692-add-.txt <==
+ 15:47:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-692-del-.txt <==
+ 15:47:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-693-add-.txt <==
+ 15:47:37 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-693-del-.txt <==
+ 15:47:45 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-694-add-.txt <==
+ 15:47:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-694-del-.txt <==
+ 15:47:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-695-add-.txt <==
+ 15:48:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-695-del-.txt <==
+ 15:48:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-696-add-.txt <==
+ 15:48:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-696-del-.txt <==
+ 15:48:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-697-add-.txt <==
+ 15:48:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-697-del-.txt <==
+ 15:48:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-698-add-.txt <==
+ 15:48:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-698-del-.txt <==
+ 15:48:54 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-699-add-.txt <==
+ 15:49:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-699-del-.txt <==
+ 15:49:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-69-add-.txt <==
+ 13:26:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-69-del-.txt <==
+ 13:26:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-6-add-.txt <==
+ 13:12:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-6-del-.txt <==
+ 13:12:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-700-add-.txt <==
+ 15:49:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-700-del-.txt <==
+ 15:49:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-701-add-.txt <==
+ 15:49:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-701-del-.txt <==
+ 15:49:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-702-add-.txt <==
+ 15:49:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-702-del-.txt <==
+ 15:49:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-703-add-.txt <==
+ 15:49:53 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-703-del-.txt <==
+ 15:50:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-704-add-.txt <==
+ 15:50:13 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-704-del-.txt <==
+ 15:50:21 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-705-add-.txt <==
+ 15:50:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-705-del-.txt <==
+ 15:50:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-706-add-.txt <==
+ 15:50:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-706-del-.txt <==
+ 15:50:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-707-add-.txt <==
+ 15:50:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-707-del-.txt <==
+ 15:50:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-708-add-.txt <==
+ 15:51:08 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-708-del-.txt <==
+ 15:51:18 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-709-add-.txt <==
+ 15:51:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-709-del-.txt <==
+ 15:51:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-70-add-.txt <==
+ 13:26:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-70-del-.txt <==
+ 13:26:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-710-add-.txt <==
+ 15:51:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-710-del-.txt <==
+ 15:51:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-711-add-.txt <==
+ 15:51:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-711-del-.txt <==
+ 15:51:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-712-add-.txt <==
+ 15:52:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-712-del-.txt <==
+ 15:52:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-713-add-.txt <==
+ 15:52:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-713-del-.txt <==
+ 15:52:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-714-add-.txt <==
+ 15:52:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-714-del-.txt <==
+ 15:52:36 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-715-add-.txt <==
+ 15:52:43 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-715-del-.txt <==
+ 15:52:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-716-add-.txt <==
+ 15:52:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-716-del-.txt <==
+ 15:53:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-717-add-.txt <==
+ 15:53:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-717-del-.txt <==
+ 15:53:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-718-add-.txt <==
+ 15:53:22 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-718-del-.txt <==
+ 15:53:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-719-add-.txt <==
+ 15:53:38 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-719-del-.txt <==
+ 15:53:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-71-add-.txt <==
+ 13:26:31 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-71-del-.txt <==
+ 13:26:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-720-add-.txt <==
+ 15:53:58 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-720-del-.txt <==
+ 15:54:07 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-721-add-.txt <==
+ 15:54:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-721-del-.txt <==
+ 15:54:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-722-add-.txt <==
+ 15:54:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-722-del-.txt <==
+ 15:54:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-723-add-.txt <==
+ 15:54:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-723-del-.txt <==
+ 15:54:53 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-724-add-.txt <==
+ 15:55:00 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-724-del-.txt <==
+ 15:55:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-725-add-.txt <==
+ 15:55:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-725-del-.txt <==
+ 15:55:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-726-add-.txt <==
+ 15:55:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-726-del-.txt <==
+ 15:55:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-727-add-.txt <==
+ 15:55:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-727-del-.txt <==
+ 15:55:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-728-add-.txt <==
+ 15:55:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-728-del-.txt <==
+ 15:55:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-729-add-.txt <==
+ 15:56:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-729-del-.txt <==
+ 15:56:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-72-add-.txt <==
+ 13:26:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-72-del-.txt <==
+ 13:26:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-730-add-.txt <==
+ 15:56:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-730-del-.txt <==
+ 15:56:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-731-add-.txt <==
+ 15:56:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-731-del-.txt <==
+ 15:56:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-732-add-.txt <==
+ 15:56:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-732-del-.txt <==
+ 15:56:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-733-add-.txt <==
+ 15:56:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-733-del-.txt <==
+ 15:57:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-734-add-.txt <==
+ 15:57:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-734-del-.txt <==
+ 15:57:18 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-735-add-.txt <==
+ 15:57:27 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-735-del-.txt <==
+ 15:57:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-736-add-.txt <==
+ 15:57:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-736-del-.txt <==
+ 15:57:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-737-add-.txt <==
+ 15:57:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-737-del-.txt <==
+ 15:58:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-738-add-.txt <==
+ 15:58:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-738-del-.txt <==
+ 15:58:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-739-add-.txt <==
+ 15:58:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-739-del-.txt <==
+ 15:58:29 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-73-add-.txt <==
+ 13:26:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-73-del-.txt <==
+ 13:27:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-740-add-.txt <==
+ 15:58:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-740-del-.txt <==
+ 15:58:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-741-add-.txt <==
+ 15:58:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-741-del-.txt <==
+ 15:58:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-742-add-.txt <==
+ 15:59:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-742-del-.txt <==
+ 15:59:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-743-add-.txt <==
+ 15:59:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-743-del-.txt <==
+ 15:59:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-744-add-.txt <==
+ 15:59:27 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-744-del-.txt <==
+ 15:59:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-745-add-.txt <==
+ 15:59:42 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-745-del-.txt <==
+ 15:59:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-746-add-.txt <==
+ 15:59:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-746-del-.txt <==
+ 16:00:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-747-add-.txt <==
+ 16:00:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-747-del-.txt <==
+ 16:00:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-748-add-.txt <==
+ 16:00:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-748-del-.txt <==
+ 16:00:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-749-add-.txt <==
+ 16:00:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-749-del-.txt <==
+ 16:00:43 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-74-add-.txt <==
+ 13:27:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-74-del-.txt <==
+ 13:27:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-750-add-.txt <==
+ 16:00:53 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-750-del-.txt <==
+ 16:00:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-751-add-.txt <==
+ 16:01:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-751-del-.txt <==
+ 16:01:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-752-add-.txt <==
+ 16:01:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-752-del-.txt <==
+ 16:01:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-753-add-.txt <==
+ 16:01:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-753-del-.txt <==
+ 16:01:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-754-add-.txt <==
+ 16:01:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-754-del-.txt <==
+ 16:01:51 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-755-add-.txt <==
+ 16:01:59 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-755-del-.txt <==
+ 16:02:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-756-add-.txt <==
+ 16:02:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-756-del-.txt <==
+ 16:02:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-757-add-.txt <==
+ 16:02:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-757-del-.txt <==
+ 16:02:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-758-add-.txt <==
+ 16:02:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-758-del-.txt <==
+ 16:02:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-759-add-.txt <==
+ 16:02:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-759-del-.txt <==
+ 16:02:59 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-75-add-.txt <==
+ 13:27:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-75-del-.txt <==
+ 13:27:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-760-add-.txt <==
+ 16:03:07 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-760-del-.txt <==
+ 16:03:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-761-add-.txt <==
+ 16:03:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-761-del-.txt <==
+ 16:03:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-762-add-.txt <==
+ 16:03:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-762-del-.txt <==
+ 16:03:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-763-add-.txt <==
+ 16:03:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-763-del-.txt <==
+ 16:03:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-764-add-.txt <==
+ 16:03:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-764-del-.txt <==
+ 16:04:09 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-765-add-.txt <==
+ 16:04:21 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-765-del-.txt <==
+ 16:04:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-766-add-.txt <==
+ 16:04:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-766-del-.txt <==
+ 16:04:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-767-add-.txt <==
+ 16:04:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-767-del-.txt <==
+ 16:04:53 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-768-add-.txt <==
+ 16:04:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-768-del-.txt <==
+ 16:05:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-769-add-.txt <==
+ 16:05:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-769-del-.txt <==
+ 16:05:19 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-76-add-.txt <==
+ 13:27:35 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-76-del-.txt <==
+ 13:27:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-770-add-.txt <==
+ 16:05:29 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-770-del-.txt <==
+ 16:05:36 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-771-add-.txt <==
+ 16:05:42 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-771-del-.txt <==
+ 16:05:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-772-add-.txt <==
+ 16:05:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-772-del-.txt <==
+ 16:06:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-773-add-.txt <==
+ 16:06:07 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-773-del-.txt <==
+ 16:06:13 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-774-add-.txt <==
+ 16:06:19 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-774-del-.txt <==
+ 16:06:32 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-775-add-.txt <==
+ 16:06:40 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-775-del-.txt <==
+ 16:06:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-776-add-.txt <==
+ 16:06:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-776-del-.txt <==
+ 16:07:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-777-add-.txt <==
+ 16:07:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-777-del-.txt <==
+ 16:07:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-778-add-.txt <==
+ 16:07:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-778-del-.txt <==
+ 16:07:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-779-add-.txt <==
+ 16:07:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-779-del-.txt <==
+ 16:07:40 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-77-add-.txt <==
+ 13:27:56 INFO -- 11 seconds
+
+==> load-bearb-hour-cb-77-del-.txt <==
+ 13:28:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-780-add-.txt <==
+ 16:07:52 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-780-del-.txt <==
+ 16:07:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-781-add-.txt <==
+ 16:08:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-781-del-.txt <==
+ 16:08:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-782-add-.txt <==
+ 16:08:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-782-del-.txt <==
+ 16:08:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-783-add-.txt <==
+ 16:08:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-783-del-.txt <==
+ 16:08:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-784-add-.txt <==
+ 16:08:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-784-del-.txt <==
+ 16:08:53 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-785-add-.txt <==
+ 16:09:05 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-785-del-.txt <==
+ 16:09:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-786-add-.txt <==
+ 16:09:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-786-del-.txt <==
+ 16:09:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-787-add-.txt <==
+ 16:09:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-787-del-.txt <==
+ 16:09:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-788-add-.txt <==
+ 16:09:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-788-del-.txt <==
+ 16:09:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-789-add-.txt <==
+ 16:09:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-789-del-.txt <==
+ 16:10:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-78-add-.txt <==
+ 13:28:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-78-del-.txt <==
+ 13:28:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-790-add-.txt <==
+ 16:10:13 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-790-del-.txt <==
+ 16:10:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-791-add-.txt <==
+ 16:10:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-791-del-.txt <==
+ 16:10:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-792-add-.txt <==
+ 16:10:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-792-del-.txt <==
+ 16:10:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-793-add-.txt <==
+ 16:10:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-793-del-.txt <==
+ 16:10:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-794-add-.txt <==
+ 16:11:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-794-del-.txt <==
+ 16:11:09 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-795-add-.txt <==
+ 16:11:19 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-795-del-.txt <==
+ 16:11:35 INFO -- 13 seconds
+
+==> load-bearb-hour-cb-796-add-.txt <==
+ 16:11:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-796-del-.txt <==
+ 16:11:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-797-add-.txt <==
+ 16:11:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-797-del-.txt <==
+ 16:12:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-798-add-.txt <==
+ 16:12:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-798-del-.txt <==
+ 16:12:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-799-add-.txt <==
+ 16:12:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-799-del-.txt <==
+ 16:12:31 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-79-add-.txt <==
+ 13:28:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-79-del-.txt <==
+ 13:28:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-7-add-.txt <==
+ 13:12:53 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-7-del-.txt <==
+ 13:13:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-800-add-.txt <==
+ 16:12:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-800-del-.txt <==
+ 16:12:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-801-add-.txt <==
+ 16:12:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-801-del-.txt <==
+ 16:12:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-802-add-.txt <==
+ 16:13:03 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-802-del-.txt <==
+ 16:13:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-803-add-.txt <==
+ 16:13:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-803-del-.txt <==
+ 16:13:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-804-add-.txt <==
+ 16:13:34 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-804-del-.txt <==
+ 16:13:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-805-add-.txt <==
+ 16:13:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-805-del-.txt <==
+ 16:13:53 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-806-add-.txt <==
+ 16:13:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-806-del-.txt <==
+ 16:14:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-807-add-.txt <==
+ 16:14:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-807-del-.txt <==
+ 16:14:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-808-add-.txt <==
+ 16:14:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-808-del-.txt <==
+ 16:14:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-809-add-.txt <==
+ 16:14:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-809-del-.txt <==
+ 16:14:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-80-add-.txt <==
+ 13:28:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-80-del-.txt <==
+ 13:28:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-810-add-.txt <==
+ 16:14:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-810-del-.txt <==
+ 16:14:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-811-add-.txt <==
+ 16:15:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-811-del-.txt <==
+ 16:15:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-812-add-.txt <==
+ 16:15:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-812-del-.txt <==
+ 16:15:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-813-add-.txt <==
+ 16:15:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-813-del-.txt <==
+ 16:15:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-814-add-.txt <==
+ 16:15:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-814-del-.txt <==
+ 16:15:52 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-815-add-.txt <==
+ 16:15:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-815-del-.txt <==
+ 16:16:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-816-add-.txt <==
+ 16:16:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-816-del-.txt <==
+ 16:16:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-817-add-.txt <==
+ 16:16:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-817-del-.txt <==
+ 16:16:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-818-add-.txt <==
+ 16:16:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-818-del-.txt <==
+ 16:16:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-819-add-.txt <==
+ 16:16:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-819-del-.txt <==
+ 16:17:00 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-81-add-.txt <==
+ 13:28:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-81-del-.txt <==
+ 13:28:58 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-820-add-.txt <==
+ 16:17:09 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-820-del-.txt <==
+ 16:17:17 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-821-add-.txt <==
+ 16:17:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-821-del-.txt <==
+ 16:17:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-822-add-.txt <==
+ 16:17:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-822-del-.txt <==
+ 16:17:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-823-add-.txt <==
+ 16:17:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-823-del-.txt <==
+ 16:17:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-824-add-.txt <==
+ 16:18:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-824-del-.txt <==
+ 16:18:11 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-825-add-.txt <==
+ 16:18:24 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-825-del-.txt <==
+ 16:18:35 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-826-add-.txt <==
+ 16:18:41 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-826-del-.txt <==
+ 16:18:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-827-add-.txt <==
+ 16:18:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-827-del-.txt <==
+ 16:19:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-828-add-.txt <==
+ 16:19:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-828-del-.txt <==
+ 16:19:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-829-add-.txt <==
+ 16:19:24 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-829-del-.txt <==
+ 16:19:32 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-82-add-.txt <==
+ 13:29:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-82-del-.txt <==
+ 13:29:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-830-add-.txt <==
+ 16:19:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-830-del-.txt <==
+ 16:19:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-831-add-.txt <==
+ 16:19:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-831-del-.txt <==
+ 16:19:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-832-add-.txt <==
+ 16:20:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-832-del-.txt <==
+ 16:20:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-833-add-.txt <==
+ 16:20:16 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-833-del-.txt <==
+ 16:20:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-834-add-.txt <==
+ 16:20:34 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-834-del-.txt <==
+ 16:20:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-835-add-.txt <==
+ 16:20:47 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-835-del-.txt <==
+ 16:20:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-836-add-.txt <==
+ 16:20:59 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-836-del-.txt <==
+ 16:21:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-837-add-.txt <==
+ 16:21:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-837-del-.txt <==
+ 16:21:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-838-add-.txt <==
+ 16:21:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-838-del-.txt <==
+ 16:21:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-839-add-.txt <==
+ 16:21:39 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-839-del-.txt <==
+ 16:21:49 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-83-add-.txt <==
+ 13:29:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-83-del-.txt <==
+ 13:29:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-840-add-.txt <==
+ 16:21:56 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-840-del-.txt <==
+ 16:22:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-841-add-.txt <==
+ 16:22:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-841-del-.txt <==
+ 16:22:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-842-add-.txt <==
+ 16:22:21 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-842-del-.txt <==
+ 16:22:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-843-add-.txt <==
+ 16:22:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-843-del-.txt <==
+ 16:22:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-844-add-.txt <==
+ 16:22:48 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-844-del-.txt <==
+ 16:22:58 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-845-add-.txt <==
+ 16:23:05 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-845-del-.txt <==
+ 16:23:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-846-add-.txt <==
+ 16:23:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-846-del-.txt <==
+ 16:23:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-847-add-.txt <==
+ 16:23:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-847-del-.txt <==
+ 16:23:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-848-add-.txt <==
+ 16:23:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-848-del-.txt <==
+ 16:23:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-849-add-.txt <==
+ 16:23:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-849-del-.txt <==
+ 16:24:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-84-add-.txt <==
+ 13:29:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-84-del-.txt <==
+ 13:29:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-850-add-.txt <==
+ 16:24:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-850-del-.txt <==
+ 16:24:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-851-add-.txt <==
+ 16:24:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-851-del-.txt <==
+ 16:24:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-852-add-.txt <==
+ 16:24:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-852-del-.txt <==
+ 16:24:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-853-add-.txt <==
+ 16:24:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-853-del-.txt <==
+ 16:24:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-854-add-.txt <==
+ 16:25:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-854-del-.txt <==
+ 16:25:14 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-855-add-.txt <==
+ 16:25:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-855-del-.txt <==
+ 16:25:27 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-856-add-.txt <==
+ 16:25:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-856-del-.txt <==
+ 16:25:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-857-add-.txt <==
+ 16:25:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-857-del-.txt <==
+ 16:25:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-858-add-.txt <==
+ 16:25:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-858-del-.txt <==
+ 16:26:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-859-add-.txt <==
+ 16:26:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-859-del-.txt <==
+ 16:26:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-85-add-.txt <==
+ 13:29:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-85-del-.txt <==
+ 13:29:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-860-add-.txt <==
+ 16:26:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-860-del-.txt <==
+ 16:26:32 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-861-add-.txt <==
+ 16:26:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-861-del-.txt <==
+ 16:26:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-862-add-.txt <==
+ 16:26:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-862-del-.txt <==
+ 16:26:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-863-add-.txt <==
+ 16:27:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-863-del-.txt <==
+ 16:27:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-864-add-.txt <==
+ 16:27:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-864-del-.txt <==
+ 16:27:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-865-add-.txt <==
+ 16:27:31 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-865-del-.txt <==
+ 16:27:39 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-866-add-.txt <==
+ 16:27:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-866-del-.txt <==
+ 16:27:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-867-add-.txt <==
+ 16:27:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-867-del-.txt <==
+ 16:28:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-868-add-.txt <==
+ 16:28:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-868-del-.txt <==
+ 16:28:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-869-add-.txt <==
+ 16:28:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-869-del-.txt <==
+ 16:28:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-86-add-.txt <==
+ 13:29:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-86-del-.txt <==
+ 13:30:06 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-870-add-.txt <==
+ 16:28:43 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-870-del-.txt <==
+ 16:28:51 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-871-add-.txt <==
+ 16:28:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-871-del-.txt <==
+ 16:29:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-872-add-.txt <==
+ 16:29:10 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-872-del-.txt <==
+ 16:29:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-873-add-.txt <==
+ 16:29:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-873-del-.txt <==
+ 16:29:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-874-add-.txt <==
+ 16:29:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-874-del-.txt <==
+ 16:29:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-875-add-.txt <==
+ 16:29:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-875-del-.txt <==
+ 16:29:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-876-add-.txt <==
+ 16:30:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-876-del-.txt <==
+ 16:30:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-877-add-.txt <==
+ 16:30:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-877-del-.txt <==
+ 16:30:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-878-add-.txt <==
+ 16:30:28 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-878-del-.txt <==
+ 16:30:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-879-add-.txt <==
+ 16:30:41 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-879-del-.txt <==
+ 16:30:48 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-87-add-.txt <==
+ 13:30:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-87-del-.txt <==
+ 13:30:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-880-add-.txt <==
+ 16:30:54 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-880-del-.txt <==
+ 16:31:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-881-add-.txt <==
+ 16:31:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-881-del-.txt <==
+ 16:31:15 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-882-add-.txt <==
+ 16:31:22 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-882-del-.txt <==
+ 16:31:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-883-add-.txt <==
+ 16:31:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-883-del-.txt <==
+ 16:31:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-884-add-.txt <==
+ 16:31:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-884-del-.txt <==
+ 16:31:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-885-add-.txt <==
+ 16:32:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-885-del-.txt <==
+ 16:32:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-886-add-.txt <==
+ 16:32:17 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-886-del-.txt <==
+ 16:32:24 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-887-add-.txt <==
+ 16:32:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-887-del-.txt <==
+ 16:32:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-888-add-.txt <==
+ 16:32:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-888-del-.txt <==
+ 16:32:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-889-add-.txt <==
+ 16:32:57 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-889-del-.txt <==
+ 16:33:04 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-88-add-.txt <==
+ 13:30:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-88-del-.txt <==
+ 13:30:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-890-add-.txt <==
+ 16:33:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-890-del-.txt <==
+ 16:33:19 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-891-add-.txt <==
+ 16:33:26 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-891-del-.txt <==
+ 16:33:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-892-add-.txt <==
+ 16:33:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-892-del-.txt <==
+ 16:33:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-893-add-.txt <==
+ 16:33:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-893-del-.txt <==
+ 16:33:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-894-add-.txt <==
+ 16:34:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-894-del-.txt <==
+ 16:34:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-895-add-.txt <==
+ 16:34:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-895-del-.txt <==
+ 16:34:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-896-add-.txt <==
+ 16:34:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-896-del-.txt <==
+ 16:34:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-897-add-.txt <==
+ 16:34:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-897-del-.txt <==
+ 16:34:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-898-add-.txt <==
+ 16:34:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-898-del-.txt <==
+ 16:35:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-899-add-.txt <==
+ 16:35:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-899-del-.txt <==
+ 16:35:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-89-add-.txt <==
+ 13:30:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-89-del-.txt <==
+ 13:30:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-8-add-.txt <==
+ 13:13:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-8-del-.txt <==
+ 13:13:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-900-add-.txt <==
+ 16:35:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-900-del-.txt <==
+ 16:35:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-901-add-.txt <==
+ 16:35:39 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-901-del-.txt <==
+ 16:35:49 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-902-add-.txt <==
+ 16:35:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-902-del-.txt <==
+ 16:36:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-903-add-.txt <==
+ 16:36:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-903-del-.txt <==
+ 16:36:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-904-add-.txt <==
+ 16:36:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-904-del-.txt <==
+ 16:36:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-905-add-.txt <==
+ 16:36:32 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-905-del-.txt <==
+ 16:36:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-906-add-.txt <==
+ 16:36:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-906-del-.txt <==
+ 16:36:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-907-add-.txt <==
+ 16:37:02 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-907-del-.txt <==
+ 16:37:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-908-add-.txt <==
+ 16:37:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-908-del-.txt <==
+ 16:37:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-909-add-.txt <==
+ 16:37:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-909-del-.txt <==
+ 16:37:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-90-add-.txt <==
+ 13:30:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-90-del-.txt <==
+ 13:30:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-910-add-.txt <==
+ 16:37:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-910-del-.txt <==
+ 16:37:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-911-add-.txt <==
+ 16:37:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-911-del-.txt <==
+ 16:38:03 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-912-add-.txt <==
+ 16:38:10 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-912-del-.txt <==
+ 16:38:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-913-add-.txt <==
+ 16:38:23 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-913-del-.txt <==
+ 16:38:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-914-add-.txt <==
+ 16:38:36 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-914-del-.txt <==
+ 16:38:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-915-add-.txt <==
+ 16:38:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-915-del-.txt <==
+ 16:38:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-916-add-.txt <==
+ 16:39:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-916-del-.txt <==
+ 16:39:12 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-917-add-.txt <==
+ 16:39:19 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-917-del-.txt <==
+ 16:39:25 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-918-add-.txt <==
+ 16:39:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-918-del-.txt <==
+ 16:39:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-919-add-.txt <==
+ 16:39:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-919-del-.txt <==
+ 16:39:51 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-91-add-.txt <==
+ 13:31:06 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-91-del-.txt <==
+ 13:31:13 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-920-add-.txt <==
+ 16:39:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-920-del-.txt <==
+ 16:40:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-921-add-.txt <==
+ 16:40:10 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-921-del-.txt <==
+ 16:40:19 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-922-add-.txt <==
+ 16:40:32 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-922-del-.txt <==
+ 16:40:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-923-add-.txt <==
+ 16:40:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-923-del-.txt <==
+ 16:40:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-924-add-.txt <==
+ 16:40:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-924-del-.txt <==
+ 16:41:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-925-add-.txt <==
+ 16:41:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-925-del-.txt <==
+ 16:41:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-926-add-.txt <==
+ 16:41:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-926-del-.txt <==
+ 16:41:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-927-add-.txt <==
+ 16:41:39 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-927-del-.txt <==
+ 16:41:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-928-add-.txt <==
+ 16:41:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-928-del-.txt <==
+ 16:41:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-929-add-.txt <==
+ 16:42:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-929-del-.txt <==
+ 16:42:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-92-add-.txt <==
+ 13:31:20 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-92-del-.txt <==
+ 13:31:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-930-add-.txt <==
+ 16:42:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-930-del-.txt <==
+ 16:42:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-931-add-.txt <==
+ 16:42:31 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-931-del-.txt <==
+ 16:42:38 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-932-add-.txt <==
+ 16:42:45 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-932-del-.txt <==
+ 16:42:55 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-933-add-.txt <==
+ 16:43:01 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-933-del-.txt <==
+ 16:43:07 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-934-add-.txt <==
+ 16:43:14 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-934-del-.txt <==
+ 16:43:20 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-935-add-.txt <==
+ 16:43:26 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-935-del-.txt <==
+ 16:43:33 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-936-add-.txt <==
+ 16:43:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-936-del-.txt <==
+ 16:43:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-937-add-.txt <==
+ 16:43:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-937-del-.txt <==
+ 16:44:02 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-938-add-.txt <==
+ 16:44:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-938-del-.txt <==
+ 16:44:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-939-add-.txt <==
+ 16:44:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-939-del-.txt <==
+ 16:44:28 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-93-add-.txt <==
+ 13:31:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-93-del-.txt <==
+ 13:31:40 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-940-add-.txt <==
+ 16:44:34 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-940-del-.txt <==
+ 16:44:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-941-add-.txt <==
+ 16:44:46 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-941-del-.txt <==
+ 16:44:53 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-942-add-.txt <==
+ 16:45:02 INFO -- 7 seconds
+
+==> load-bearb-hour-cb-942-del-.txt <==
+ 16:45:10 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-943-add-.txt <==
+ 16:45:17 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-943-del-.txt <==
+ 16:45:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-944-add-.txt <==
+ 16:45:29 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-944-del-.txt <==
+ 16:45:35 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-945-add-.txt <==
+ 16:45:42 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-945-del-.txt <==
+ 16:45:48 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-946-add-.txt <==
+ 16:45:55 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-946-del-.txt <==
+ 16:46:01 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-947-add-.txt <==
+ 16:46:09 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-947-del-.txt <==
+ 16:46:17 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-948-add-.txt <==
+ 16:46:26 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-948-del-.txt <==
+ 16:46:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-949-add-.txt <==
+ 16:46:38 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-949-del-.txt <==
+ 16:46:44 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-94-add-.txt <==
+ 13:31:46 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-94-del-.txt <==
+ 13:31:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-950-add-.txt <==
+ 16:46:51 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-950-del-.txt <==
+ 16:46:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-951-add-.txt <==
+ 16:47:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-951-del-.txt <==
+ 16:47:09 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-952-add-.txt <==
+ 16:47:16 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-952-del-.txt <==
+ 16:47:27 INFO -- 8 seconds
+
+==> load-bearb-hour-cb-953-add-.txt <==
+ 16:47:34 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-953-del-.txt <==
+ 16:47:40 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-954-add-.txt <==
+ 16:47:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-954-del-.txt <==
+ 16:47:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-955-add-.txt <==
+ 16:48:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-955-del-.txt <==
+ 16:48:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-956-add-.txt <==
+ 16:48:13 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-956-del-.txt <==
+ 16:48:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-957-add-.txt <==
+ 16:48:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-957-del-.txt <==
+ 16:48:32 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-958-add-.txt <==
+ 16:48:39 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-958-del-.txt <==
+ 16:48:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-959-add-.txt <==
+ 16:48:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-959-del-.txt <==
+ 16:48:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-95-add-.txt <==
+ 13:31:59 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-95-del-.txt <==
+ 13:32:05 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-960-add-.txt <==
+ 16:49:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-960-del-.txt <==
+ 16:49:11 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-961-add-.txt <==
+ 16:49:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-961-del-.txt <==
+ 16:49:23 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-962-add-.txt <==
+ 16:49:29 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-962-del-.txt <==
+ 16:49:35 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-963-add-.txt <==
+ 16:49:42 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-963-del-.txt <==
+ 16:49:54 INFO -- 9 seconds
+
+==> load-bearb-hour-cb-964-add-.txt <==
+ 16:50:00 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-964-del-.txt <==
+ 16:50:06 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-965-add-.txt <==
+ 16:50:12 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-965-del-.txt <==
+ 16:50:19 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-966-add-.txt <==
+ 16:50:25 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-966-del-.txt <==
+ 16:50:31 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-967-add-.txt <==
+ 16:50:37 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-967-del-.txt <==
+ 16:50:44 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-968-add-.txt <==
+ 16:50:51 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-968-del-.txt <==
+ 16:50:58 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-969-add-.txt <==
+ 16:51:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-969-del-.txt <==
+ 16:51:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-96-add-.txt <==
+ 13:32:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-96-del-.txt <==
+ 13:32:18 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-970-add-.txt <==
+ 16:51:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-970-del-.txt <==
+ 16:51:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-971-add-.txt <==
+ 16:51:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-971-del-.txt <==
+ 16:51:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-972-add-.txt <==
+ 16:51:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-972-del-.txt <==
+ 16:51:49 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-973-add-.txt <==
+ 16:51:56 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-973-del-.txt <==
+ 16:52:04 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-974-add-.txt <==
+ 16:52:11 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-974-del-.txt <==
+ 16:52:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-975-add-.txt <==
+ 16:52:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-975-del-.txt <==
+ 16:52:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-976-add-.txt <==
+ 16:52:36 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-976-del-.txt <==
+ 16:52:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-977-add-.txt <==
+ 16:52:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-977-del-.txt <==
+ 16:52:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-978-add-.txt <==
+ 16:53:02 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-978-del-.txt <==
+ 16:53:08 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-979-add-.txt <==
+ 16:53:14 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-979-del-.txt <==
+ 16:53:30 INFO -- 13 seconds
+
+==> load-bearb-hour-cb-97-add-.txt <==
+ 13:32:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-97-del-.txt <==
+ 13:32:30 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-980-add-.txt <==
+ 16:53:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-980-del-.txt <==
+ 16:53:43 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-981-add-.txt <==
+ 16:53:50 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-981-del-.txt <==
+ 16:53:56 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-982-add-.txt <==
+ 16:54:02 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-982-del-.txt <==
+ 16:54:08 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-983-add-.txt <==
+ 16:54:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-983-del-.txt <==
+ 16:54:28 INFO -- 11 seconds
+
+==> load-bearb-hour-cb-984-add-.txt <==
+ 16:54:35 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-984-del-.txt <==
+ 16:54:41 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-985-add-.txt <==
+ 16:54:47 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-985-del-.txt <==
+ 16:54:54 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-986-add-.txt <==
+ 16:55:00 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-986-del-.txt <==
+ 16:55:06 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-987-add-.txt <==
+ 16:55:12 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-987-del-.txt <==
+ 16:55:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-988-add-.txt <==
+ 16:55:24 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-988-del-.txt <==
+ 16:55:37 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-989-add-.txt <==
+ 16:55:46 INFO -- 6 seconds
+
+==> load-bearb-hour-cb-989-del-.txt <==
+ 16:55:52 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-98-add-.txt <==
+ 13:32:37 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-98-del-.txt <==
+ 13:32:43 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-990-add-.txt <==
+ 16:55:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-990-del-.txt <==
+ 16:56:05 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-991-add-.txt <==
+ 16:56:11 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-991-del-.txt <==
+ 16:56:17 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-992-add-.txt <==
+ 16:56:24 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-992-del-.txt <==
+ 16:56:30 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-993-add-.txt <==
+ 16:56:38 INFO -- 5 seconds
+
+==> load-bearb-hour-cb-993-del-.txt <==
+ 16:56:51 INFO -- 10 seconds
+
+==> load-bearb-hour-cb-994-add-.txt <==
+ 16:56:57 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-994-del-.txt <==
+ 16:57:03 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-995-add-.txt <==
+ 16:57:09 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-995-del-.txt <==
+ 16:57:15 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-996-add-.txt <==
+ 16:57:21 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-996-del-.txt <==
+ 16:57:27 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-997-add-.txt <==
+ 16:57:33 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-997-del-.txt <==
+ 16:57:39 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-998-add-.txt <==
+ 16:57:45 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-998-del-.txt <==
+ 16:57:52 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-999-add-.txt <==
+ 16:57:58 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-999-del-.txt <==
+ 16:58:04 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-99-add-.txt <==
+ 13:32:49 INFO -- 4 seconds
+
+==> load-bearb-hour-cb-99-del-.txt <==
+ 13:32:55 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-9-add-.txt <==
+ 13:13:18 INFO -- 3 seconds
+
+==> load-bearb-hour-cb-9-del-.txt <==
+ 13:13:25 INFO -- 4 seconds
