@@ -3,9 +3,11 @@
 dir=$1
 category=$2
 policies="mat diff ver"
-queries="o-high o-low p-high p-low po-high po-low s-high s-low so-low sp-high sp-low spo"
+#queries="o-high o-low p-high p-low po-high po-low s-high s-low so-low sp-high sp-low spo"
+queries="p po"
 declare -a files
-files=(o-queries-highCardinality o-queries-lowCardinality p-queries-highCardinality p-queries-lowCardinality po-queries-highCardinality po-queries-lowCardinality s-queries-highCardinality s-queries-lowCardinality so-queries-lowCardinality sp-queries-highCardinality sp-queries-lowCardinality spo-queries)
+#files=(o-queries-highCardinality o-queries-lowCardinality p-queries-highCardinality p-queries-lowCardinality po-queries-highCardinality po-queries-lowCardinality s-queries-highCardinality s-queries-lowCardinality so-queries-lowCardinality sp-queries-highCardinality sp-queries-lowCardinality spo-queries)
+files=(p po)
 
 for policy in ${policies[@]}; do
     i=0
