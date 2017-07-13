@@ -1,0 +1,68 @@
+---INSERTION START---
+version,added,durationms,rate,accsize
+Version 1
+: 0 / 0Skipped constructing snapshot because it already exists, loaded instead.
+: 0 / 0Version 2
+: 0 / 0Skipped constructing patch because it already exists, loading instead...
+: 0 / 0Loaded!
+: 0 / 0Version 3
+: 0 / 0Skipped constructing patch because it already exists, loading instead...
+: 0 / 0Loaded!
+: 0 / 0Version 4
+: 0 / 0Skipped constructing patch because it already exists, loading instead...
+: 0 / 0Loaded!
+: 0 / 0Version 5
+: 0 / 0Skipped constructing patch because it already exists, loading instead...
+: 0 / 0Loaded!
+: 0 / 0Version 6
+: 0 / 0Skipped constructing patch because it already exists, loading instead...
+: 0 / 0Loaded!
+: 0 / 0Version 7
+: 0 / 0Skipped constructing patch because it already exists, loading instead...
+: 0 / 0Loaded!
+: 0 / 0Version 8
+: 0 / 0Skipped constructing patch because it already exists, loading instead...
+: 0 / 0Loaded!
+: 0 / 0Version 9
+: 0 / 0Skipped constructing patch because it already exists, loading instead...
+: 0 / 0Loaded!
+: 0 / 0Version 10
+: 0 / 0Skipped constructing patch because it already exists, loading instead...
+: 0 / 0Loaded!
+: 0 / 0---INSERTION END---
+---QUERIES START: /var/queries/spo_1024.txt---
+---PATTERN START:   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+0,1024,10,9,13,10
+1,1024,10,1769,1962,10
+2,1024,10,16,472,10
+3,1024,10,15,843,10
+4,1024,10,16,440,10
+5,1024,10,17,2582,10
+6,1024,10,16,323,10
+7,1024,10,16,287,10
+8,1024,10,15,712,10
+9,1024,10,16,860,10
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,1024,10,1540,81548,10
+0,2,1024,10,10,66832,10
+0,3,1024,10,11,72747,10
+1,3,1024,10,1527,130895,10
+0,4,1024,10,13,69347,10
+2,4,1024,10,23,144962,10
+0,5,1024,10,14,67163,10
+2,5,1024,10,19,109116,10
+0,6,1024,10,10,68923,10
+3,6,1024,10,20,107822,10
+0,7,1024,10,10,38638,10
+3,7,1024,10,19,39899,10
+0,8,1024,10,11,28494,10
+4,8,1024,10,18,23821,10
+0,9,1024,10,13,23024,10
+4,9,1024,10,17,20017,10
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+1024,10,5,189,10
+---QUERIES END---
