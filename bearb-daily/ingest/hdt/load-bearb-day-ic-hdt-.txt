@@ -1,0 +1,266 @@
+==> output/load-bearb-day-ic-0-hdt.txt <==
+Total processing time: Clock(221 ms 227 us)  User(220 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-10-hdt.txt <==
+Total processing time: Clock(244 ms 675 us)  User(240 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-11-hdt.txt <==
+Total processing time: Clock(246 ms 581 us)  User(240 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-12-hdt.txt <==
+Total processing time: Clock(249 ms 663 us)  User(240 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-13-hdt.txt <==
+Total processing time: Clock(236 ms 837 us)  User(232 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-14-hdt.txt <==
+Total processing time: Clock(246 ms 270 us)  User(244 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-15-hdt.txt <==
+Total processing time: Clock(244 ms 152 us)  User(240 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-16-hdt.txt <==
+Total processing time: Clock(243 ms 879 us)  User(240 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-17-hdt.txt <==
+Total processing time: Clock(249 ms 289 us)  User(244 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-18-hdt.txt <==
+Total processing time: Clock(224 ms 921 us)  User(216 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-19-hdt.txt <==
+Total processing time: Clock(243 ms 734 us)  User(240 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-1-hdt.txt <==
+Total processing time: Clock(240 ms 443 us)  User(240 ms )  System()
+
+==> output/load-bearb-day-ic-20-hdt.txt <==
+Total processing time: Clock(245 ms 446 us)  User(248 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-21-hdt.txt <==
+Total processing time: Clock(248 ms 429 us)  User(248 ms )  System()
+
+==> output/load-bearb-day-ic-22-hdt.txt <==
+Total processing time: Clock(242 ms 372 us)  User(236 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-23-hdt.txt <==
+Total processing time: Clock(248 ms 345 us)  User(244 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-24-hdt.txt <==
+Total processing time: Clock(242 ms 294 us)  User(240 ms )  System()
+
+==> output/load-bearb-day-ic-25-hdt.txt <==
+Total processing time: Clock(248 ms 412 us)  User(248 ms )  System()
+
+==> output/load-bearb-day-ic-26-hdt.txt <==
+Total processing time: Clock(243 ms 245 us)  User(240 ms )  System()
+
+==> output/load-bearb-day-ic-27-hdt.txt <==
+Total processing time: Clock(251 ms 231 us)  User(240 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-28-hdt.txt <==
+Total processing time: Clock(256 ms 954 us)  User(256 ms )  System()
+
+==> output/load-bearb-day-ic-29-hdt.txt <==
+Total processing time: Clock(255 ms 943 us)  User(252 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-2-hdt.txt <==
+Total processing time: Clock(221 ms 666 us)  User(220 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-30-hdt.txt <==
+Total processing time: Clock(254 ms 747 us)  User(256 ms )  System()
+
+==> output/load-bearb-day-ic-31-hdt.txt <==
+Total processing time: Clock(255 ms 520 us)  User(244 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-32-hdt.txt <==
+Total processing time: Clock(261 ms 226 us)  User(252 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-33-hdt.txt <==
+Total processing time: Clock(259 ms 373 us)  User(260 ms )  System()
+
+==> output/load-bearb-day-ic-34-hdt.txt <==
+Total processing time: Clock(264 ms 114 us)  User(264 ms )  System()
+
+==> output/load-bearb-day-ic-35-hdt.txt <==
+Total processing time: Clock(260 ms 564 us)  User(260 ms )  System()
+
+==> output/load-bearb-day-ic-36-hdt.txt <==
+Total processing time: Clock(246 ms 818 us)  User(240 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-37-hdt.txt <==
+Total processing time: Clock(266 ms 24 us)  User(252 ms )  System(16 ms )
+
+==> output/load-bearb-day-ic-38-hdt.txt <==
+Total processing time: Clock(259 ms 307 us)  User(244 ms )  System(16 ms )
+
+==> output/load-bearb-day-ic-39-hdt.txt <==
+Total processing time: Clock(267 ms 209 us)  User(260 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-3-hdt.txt <==
+Total processing time: Clock(240 ms 281 us)  User(224 ms )  System(16 ms )
+
+==> output/load-bearb-day-ic-40-hdt.txt <==
+Total processing time: Clock(272 ms 93 us)  User(268 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-41-hdt.txt <==
+Total processing time: Clock(267 ms 534 us)  User(264 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-42-hdt.txt <==
+Total processing time: Clock(268 ms 397 us)  User(260 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-43-hdt.txt <==
+Total processing time: Clock(272 ms 189 us)  User(260 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-44-hdt.txt <==
+Total processing time: Clock(260 ms 573 us)  User(248 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-45-hdt.txt <==
+Total processing time: Clock(272 ms 504 us)  User(272 ms )  System()
+
+==> output/load-bearb-day-ic-46-hdt.txt <==
+Total processing time: Clock(256 ms 363 us)  User(248 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-47-hdt.txt <==
+Total processing time: Clock(274 ms 531 us)  User(272 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-48-hdt.txt <==
+Total processing time: Clock(260 ms 145 us)  User(248 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-49-hdt.txt <==
+Total processing time: Clock(275 ms 654 us)  User(272 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-4-hdt.txt <==
+Total processing time: Clock(238 ms 150 us)  User(228 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-50-hdt.txt <==
+Total processing time: Clock(271 ms 244 us)  User(252 ms )  System(16 ms )
+
+==> output/load-bearb-day-ic-51-hdt.txt <==
+Total processing time: Clock(277 ms 612 us)  User(260 ms )  System(16 ms )
+
+==> output/load-bearb-day-ic-52-hdt.txt <==
+Total processing time: Clock(247 ms 679 us)  User(244 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-53-hdt.txt <==
+Total processing time: Clock(285 ms 74 us)  User(284 ms )  System()
+
+==> output/load-bearb-day-ic-54-hdt.txt <==
+Total processing time: Clock(272 ms 455 us)  User(268 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-55-hdt.txt <==
+Total processing time: Clock(280 ms 486 us)  User(272 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-56-hdt.txt <==
+Total processing time: Clock(283 ms 731 us)  User(276 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-57-hdt.txt <==
+Total processing time: Clock(284 ms 515 us)  User(276 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-58-hdt.txt <==
+Total processing time: Clock(239 ms 698 us)  User(232 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-59-hdt.txt <==
+Total processing time: Clock(283 ms 939 us)  User(280 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-5-hdt.txt <==
+Total processing time: Clock(268 ms 542 us)  User(264 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-60-hdt.txt <==
+Total processing time: Clock(268 ms 252 us)  User(268 ms )  System()
+
+==> output/load-bearb-day-ic-61-hdt.txt <==
+Total processing time: Clock(277 ms 522 us)  User(268 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-62-hdt.txt <==
+Total processing time: Clock(288 ms 945 us)  User(280 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-63-hdt.txt <==
+Total processing time: Clock(286 ms 8 us)  User(288 ms )  System()
+
+==> output/load-bearb-day-ic-64-hdt.txt <==
+Total processing time: Clock(293 ms 471 us)  User(280 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-65-hdt.txt <==
+Total processing time: Clock(287 ms 838 us)  User(276 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-66-hdt.txt <==
+Total processing time: Clock(284 ms 907 us)  User(276 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-67-hdt.txt <==
+Total processing time: Clock(279 ms 861 us)  User(272 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-68-hdt.txt <==
+Total processing time: Clock(292 ms 14 us)  User(284 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-69-hdt.txt <==
+Total processing time: Clock(288 ms 500 us)  User(268 ms )  System(20 ms )
+
+==> output/load-bearb-day-ic-6-hdt.txt <==
+Total processing time: Clock(242 ms 563 us)  User(220 ms )  System(24 ms )
+
+==> output/load-bearb-day-ic-70-hdt.txt <==
+Total processing time: Clock(299 ms 940 us)  User(288 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-71-hdt.txt <==
+Total processing time: Clock(295 ms 662 us)  User(292 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-72-hdt.txt <==
+Total processing time: Clock(298 ms 976 us)  User(296 ms )  System()
+
+==> output/load-bearb-day-ic-73-hdt.txt <==
+Total processing time: Clock(286 ms 820 us)  User(288 ms )  System()
+
+==> output/load-bearb-day-ic-74-hdt.txt <==
+Total processing time: Clock(289 ms 225 us)  User(284 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-75-hdt.txt <==
+Total processing time: Clock(288 ms 648 us)  User(280 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-76-hdt.txt <==
+Total processing time: Clock(288 ms 463 us)  User(272 ms )  System(16 ms )
+
+==> output/load-bearb-day-ic-77-hdt.txt <==
+Total processing time: Clock(289 ms 262 us)  User(292 ms )  System()
+
+==> output/load-bearb-day-ic-78-hdt.txt <==
+Total processing time: Clock(288 ms 664 us)  User(288 ms )  System()
+
+==> output/load-bearb-day-ic-79-hdt.txt <==
+Total processing time: Clock(294 ms 797 us)  User(296 ms )  System()
+
+==> output/load-bearb-day-ic-7-hdt.txt <==
+Total processing time: Clock(236 ms 505 us)  User(232 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-80-hdt.txt <==
+Total processing time: Clock(300 ms 656 us)  User(292 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-81-hdt.txt <==
+Total processing time: Clock(292 ms 945 us)  User(292 ms )  System()
+
+==> output/load-bearb-day-ic-82-hdt.txt <==
+Total processing time: Clock(293 ms 571 us)  User(284 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-83-hdt.txt <==
+Total processing time: Clock(301 ms 461 us)  User(284 ms )  System(16 ms )
+
+==> output/load-bearb-day-ic-84-hdt.txt <==
+Total processing time: Clock(286 ms 447 us)  User(284 ms )  System(4 ms )
+
+==> output/load-bearb-day-ic-85-hdt.txt <==
+Total processing time: Clock(294 ms 401 us)  User(284 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-86-hdt.txt <==
+Total processing time: Clock(297 ms 745 us)  User(288 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-87-hdt.txt <==
+Total processing time: Clock(299 ms 325 us)  User(300 ms )  System()
+
+==> output/load-bearb-day-ic-88-hdt.txt <==
+Total processing time: Clock(297 ms 52 us)  User(284 ms )  System(12 ms )
+
+==> output/load-bearb-day-ic-8-hdt.txt <==
+Total processing time: Clock(230 ms 821 us)  User(224 ms )  System(8 ms )
+
+==> output/load-bearb-day-ic-9-hdt.txt <==
+Total processing time: Clock(242 ms 639 us)  User(236 ms )  System(8 ms )

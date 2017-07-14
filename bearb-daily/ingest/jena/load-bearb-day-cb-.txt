@@ -1,0 +1,533 @@
+==> output/load-bearb-day-cb-0-add-.txt <==
+ 07:41:30 INFO -- 6 seconds
+
+==> output/load-bearb-day-cb-0-del-.txt <==
+ 07:41:34 INFO -- 1 seconds
+
+==> output/load-bearb-day-cb-10-add-.txt <==
+ 07:43:27 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-10-del-.txt <==
+ 07:43:33 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-11-add-.txt <==
+ 07:43:39 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-11-del-.txt <==
+ 07:43:47 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-12-add-.txt <==
+ 07:43:52 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-12-del-.txt <==
+ 07:43:58 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-13-add-.txt <==
+ 07:44:04 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-13-del-.txt <==
+ 07:44:10 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-14-add-.txt <==
+ 07:44:17 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-14-del-.txt <==
+ 07:44:23 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-15-add-.txt <==
+ 07:44:29 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-15-del-.txt <==
+ 07:44:35 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-16-add-.txt <==
+ 07:44:41 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-16-del-.txt <==
+ 07:44:47 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-17-add-.txt <==
+ 07:44:53 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-17-del-.txt <==
+ 07:44:59 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-18-add-.txt <==
+ 07:45:07 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-18-del-.txt <==
+ 07:45:13 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-19-add-.txt <==
+ 07:45:19 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-19-del-.txt <==
+ 07:45:25 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-1-add-.txt <==
+ 07:41:40 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-1-del-.txt <==
+ 07:41:47 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-20-add-.txt <==
+ 07:45:31 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-20-del-.txt <==
+ 07:45:37 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-21-add-.txt <==
+ 07:45:43 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-21-del-.txt <==
+ 07:45:50 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-22-add-.txt <==
+ 07:45:55 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-22-del-.txt <==
+ 07:46:01 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-23-add-.txt <==
+ 07:46:08 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-23-del-.txt <==
+ 07:46:14 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-24-add-.txt <==
+ 07:46:20 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-24-del-.txt <==
+ 07:46:26 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-25-add-.txt <==
+ 07:46:32 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-25-del-.txt <==
+ 07:46:38 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-26-add-.txt <==
+ 07:46:44 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-26-del-.txt <==
+ 07:46:50 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-27-add-.txt <==
+ 07:46:56 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-27-del-.txt <==
+ 07:47:02 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-28-add-.txt <==
+ 07:47:08 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-28-del-.txt <==
+ 07:47:14 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-29-add-.txt <==
+ 07:47:21 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-29-del-.txt <==
+ 07:47:27 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-2-add-.txt <==
+ 07:41:52 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-2-del-.txt <==
+ 07:41:58 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-30-add-.txt <==
+ 07:47:33 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-30-del-.txt <==
+ 07:47:39 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-31-add-.txt <==
+ 07:47:45 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-31-del-.txt <==
+ 07:47:51 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-32-add-.txt <==
+ 07:47:57 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-32-del-.txt <==
+ 07:48:04 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-33-add-.txt <==
+ 07:48:10 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-33-del-.txt <==
+ 07:48:16 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-34-add-.txt <==
+ 07:48:22 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-34-del-.txt <==
+ 07:48:28 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-35-add-.txt <==
+ 07:48:34 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-35-del-.txt <==
+ 07:48:40 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-36-add-.txt <==
+ 07:48:46 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-36-del-.txt <==
+ 07:48:52 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-37-add-.txt <==
+ 07:48:59 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-37-del-.txt <==
+ 07:49:05 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-38-add-.txt <==
+ 07:49:11 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-38-del-.txt <==
+ 07:49:17 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-39-add-.txt <==
+ 07:49:23 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-39-del-.txt <==
+ 07:49:29 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-3-add-.txt <==
+ 07:42:04 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-3-del-.txt <==
+ 07:42:10 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-40-add-.txt <==
+ 07:49:35 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-40-del-.txt <==
+ 07:49:41 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-41-add-.txt <==
+ 07:49:48 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-41-del-.txt <==
+ 07:49:54 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-42-add-.txt <==
+ 07:49:59 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-42-del-.txt <==
+ 07:50:05 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-43-add-.txt <==
+ 07:50:12 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-43-del-.txt <==
+ 07:50:18 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-44-add-.txt <==
+ 07:50:24 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-44-del-.txt <==
+ 07:50:30 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-45-add-.txt <==
+ 07:50:36 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-45-del-.txt <==
+ 07:50:43 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-46-add-.txt <==
+ 07:50:49 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-46-del-.txt <==
+ 07:50:55 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-47-add-.txt <==
+ 07:51:01 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-47-del-.txt <==
+ 07:51:07 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-48-add-.txt <==
+ 07:51:13 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-48-del-.txt <==
+ 07:51:19 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-49-add-.txt <==
+ 07:51:25 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-49-del-.txt <==
+ 07:51:33 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-4-add-.txt <==
+ 07:42:16 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-4-del-.txt <==
+ 07:42:22 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-50-add-.txt <==
+ 07:51:39 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-50-del-.txt <==
+ 07:51:45 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-51-add-.txt <==
+ 07:51:51 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-51-del-.txt <==
+ 07:51:57 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-52-add-.txt <==
+ 07:52:03 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-52-del-.txt <==
+ 07:52:09 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-53-add-.txt <==
+ 07:52:18 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-53-del-.txt <==
+ 07:52:24 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-54-add-.txt <==
+ 07:52:30 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-54-del-.txt <==
+ 07:52:36 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-55-add-.txt <==
+ 07:52:42 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-55-del-.txt <==
+ 07:52:48 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-56-add-.txt <==
+ 07:52:54 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-56-del-.txt <==
+ 07:53:00 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-57-add-.txt <==
+ 07:53:06 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-57-del-.txt <==
+ 07:53:12 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-58-add-.txt <==
+ 07:53:18 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-58-del-.txt <==
+ 07:53:24 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-59-add-.txt <==
+ 07:53:30 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-59-del-.txt <==
+ 07:53:36 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-5-add-.txt <==
+ 07:42:28 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-5-del-.txt <==
+ 07:42:34 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-60-add-.txt <==
+ 07:53:42 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-60-del-.txt <==
+ 07:53:48 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-61-add-.txt <==
+ 07:53:54 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-61-del-.txt <==
+ 07:54:00 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-62-add-.txt <==
+ 07:54:06 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-62-del-.txt <==
+ 07:54:12 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-63-add-.txt <==
+ 07:54:18 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-63-del-.txt <==
+ 07:54:24 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-64-add-.txt <==
+ 07:54:30 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-64-del-.txt <==
+ 07:54:36 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-65-add-.txt <==
+ 07:54:42 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-65-del-.txt <==
+ 07:54:48 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-66-add-.txt <==
+ 07:54:54 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-66-del-.txt <==
+ 07:55:00 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-67-add-.txt <==
+ 07:55:06 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-67-del-.txt <==
+ 07:55:12 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-68-add-.txt <==
+ 07:55:18 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-68-del-.txt <==
+ 07:55:24 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-69-add-.txt <==
+ 07:55:29 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-69-del-.txt <==
+ 07:55:35 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-6-add-.txt <==
+ 07:42:40 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-6-del-.txt <==
+ 07:42:46 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-70-add-.txt <==
+ 07:55:41 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-70-del-.txt <==
+ 07:55:47 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-71-add-.txt <==
+ 07:55:53 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-71-del-.txt <==
+ 07:55:59 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-72-add-.txt <==
+ 07:56:05 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-72-del-.txt <==
+ 07:56:11 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-73-add-.txt <==
+ 07:56:17 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-73-del-.txt <==
+ 07:56:23 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-74-add-.txt <==
+ 07:56:29 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-74-del-.txt <==
+ 07:56:34 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-75-add-.txt <==
+ 07:56:41 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-75-del-.txt <==
+ 07:56:46 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-76-add-.txt <==
+ 07:56:52 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-76-del-.txt <==
+ 07:56:58 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-77-add-.txt <==
+ 07:57:04 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-77-del-.txt <==
+ 07:57:10 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-78-add-.txt <==
+ 07:57:16 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-78-del-.txt <==
+ 07:57:22 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-79-add-.txt <==
+ 07:57:28 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-79-del-.txt <==
+ 07:57:34 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-7-add-.txt <==
+ 07:42:52 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-7-del-.txt <==
+ 07:42:58 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-80-add-.txt <==
+ 07:57:40 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-80-del-.txt <==
+ 07:57:46 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-81-add-.txt <==
+ 07:57:52 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-81-del-.txt <==
+ 07:57:58 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-82-add-.txt <==
+ 07:58:04 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-82-del-.txt <==
+ 07:58:10 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-83-add-.txt <==
+ 07:58:16 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-83-del-.txt <==
+ 07:58:22 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-84-add-.txt <==
+ 07:58:28 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-84-del-.txt <==
+ 07:58:34 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-85-add-.txt <==
+ 07:58:40 INFO -- 4 seconds
+
+==> output/load-bearb-day-cb-85-del-.txt <==
+ 07:58:45 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-86-add-.txt <==
+ 07:58:51 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-86-del-.txt <==
+ 07:58:57 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-87-add-.txt <==
+ 07:59:03 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-87-del-.txt <==
+ 07:59:10 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-88-add-.txt <==
+ 07:59:16 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-88-del-.txt <==
+ 07:59:22 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-8-add-.txt <==
+ 07:43:04 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-8-del-.txt <==
+ 07:43:10 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-9-add-.txt <==
+ 07:43:16 INFO -- 3 seconds
+
+==> output/load-bearb-day-cb-9-del-.txt <==
+ 07:43:21 INFO -- 3 seconds

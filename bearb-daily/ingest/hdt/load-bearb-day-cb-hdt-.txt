@@ -1,0 +1,533 @@
+==> output/load-bearb-day-cb-0-add-hdt.txt <==
+Total processing time: Clock(240 ms 603 us)  User(240 ms )  System()
+
+==> output/load-bearb-day-cb-0-del-hdt.txt <==
+Total processing time: Clock(774 us)  User()  System()
+
+==> output/load-bearb-day-cb-10-add-hdt.txt <==
+Total processing time: Clock(1 ms 307 us)  User()  System()
+
+==> output/load-bearb-day-cb-10-del-hdt.txt <==
+Total processing time: Clock(1 ms 182 us)  User()  System()
+
+==> output/load-bearb-day-cb-11-add-hdt.txt <==
+Total processing time: Clock(1 ms 180 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-11-del-hdt.txt <==
+Total processing time: Clock(1 ms 175 us)  User()  System()
+
+==> output/load-bearb-day-cb-12-add-hdt.txt <==
+Total processing time: Clock(937 us)  User()  System()
+
+==> output/load-bearb-day-cb-12-del-hdt.txt <==
+Total processing time: Clock(1 ms 133 us)  User()  System()
+
+==> output/load-bearb-day-cb-13-add-hdt.txt <==
+Total processing time: Clock(1 ms 300 us)  User()  System()
+
+==> output/load-bearb-day-cb-13-del-hdt.txt <==
+Total processing time: Clock(1 ms 181 us)  User()  System(4 ms )
+
+==> output/load-bearb-day-cb-14-add-hdt.txt <==
+Total processing time: Clock(10 ms 744 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-14-del-hdt.txt <==
+Total processing time: Clock(4 ms 898 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-15-add-hdt.txt <==
+Total processing time: Clock(9 ms 232 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-15-del-hdt.txt <==
+Total processing time: Clock(5 ms 479 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-16-add-hdt.txt <==
+Total processing time: Clock(11 ms 279 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-16-del-hdt.txt <==
+Total processing time: Clock(5 ms 175 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-17-add-hdt.txt <==
+Total processing time: Clock(10 ms 138 us)  User(8 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-17-del-hdt.txt <==
+Total processing time: Clock(6 ms 908 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-18-add-hdt.txt <==
+Total processing time: Clock(8 ms 166 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-18-del-hdt.txt <==
+Total processing time: Clock(5 ms 703 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-19-add-hdt.txt <==
+Total processing time: Clock(9 ms 921 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-19-del-hdt.txt <==
+Total processing time: Clock(6 ms 578 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-1-add-hdt.txt <==
+Total processing time: Clock(5 ms 308 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-1-del-hdt.txt <==
+Total processing time: Clock(3 ms 132 us)  User()  System()
+
+==> output/load-bearb-day-cb-20-add-hdt.txt <==
+Total processing time: Clock(9 ms 359 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-20-del-hdt.txt <==
+Total processing time: Clock(4 ms 667 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-21-add-hdt.txt <==
+Total processing time: Clock(5 ms 403 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-21-del-hdt.txt <==
+Total processing time: Clock(5 ms 499 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-22-add-hdt.txt <==
+Total processing time: Clock(969 us)  User()  System()
+
+==> output/load-bearb-day-cb-22-del-hdt.txt <==
+Total processing time: Clock(824 us)  User()  System()
+
+==> output/load-bearb-day-cb-23-add-hdt.txt <==
+Total processing time: Clock(11 ms 112 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-23-del-hdt.txt <==
+Total processing time: Clock(6 ms 352 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-24-add-hdt.txt <==
+Total processing time: Clock(11 ms 997 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-24-del-hdt.txt <==
+Total processing time: Clock(6 ms 368 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-25-add-hdt.txt <==
+Total processing time: Clock(8 ms 186 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-25-del-hdt.txt <==
+Total processing time: Clock(5 ms 386 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-26-add-hdt.txt <==
+Total processing time: Clock(10 ms 176 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-26-del-hdt.txt <==
+Total processing time: Clock(6 ms 58 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-27-add-hdt.txt <==
+Total processing time: Clock(9 ms 713 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-27-del-hdt.txt <==
+Total processing time: Clock(6 ms 699 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-28-add-hdt.txt <==
+Total processing time: Clock(12 ms 157 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-28-del-hdt.txt <==
+Total processing time: Clock(5 ms 426 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-29-add-hdt.txt <==
+Total processing time: Clock(13 ms 324 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-29-del-hdt.txt <==
+Total processing time: Clock(5 ms 130 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-2-add-hdt.txt <==
+Total processing time: Clock(1 ms 623 us)  User()  System()
+
+==> output/load-bearb-day-cb-2-del-hdt.txt <==
+Total processing time: Clock(1 ms 245 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-30-add-hdt.txt <==
+Total processing time: Clock(12 ms 28 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-30-del-hdt.txt <==
+Total processing time: Clock(5 ms 604 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-31-add-hdt.txt <==
+Total processing time: Clock(12 ms 76 us)  User(8 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-31-del-hdt.txt <==
+Total processing time: Clock(5 ms 752 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-32-add-hdt.txt <==
+Total processing time: Clock(8 ms 997 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-32-del-hdt.txt <==
+Total processing time: Clock(5 ms 899 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-33-add-hdt.txt <==
+Total processing time: Clock(11 ms 179 us)  User(8 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-33-del-hdt.txt <==
+Total processing time: Clock(6 ms 717 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-34-add-hdt.txt <==
+Total processing time: Clock(10 ms 752 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-34-del-hdt.txt <==
+Total processing time: Clock(5 ms 484 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-35-add-hdt.txt <==
+Total processing time: Clock(9 ms 295 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-35-del-hdt.txt <==
+Total processing time: Clock(4 ms 623 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-36-add-hdt.txt <==
+Total processing time: Clock(9 ms 853 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-36-del-hdt.txt <==
+Total processing time: Clock(6 ms 335 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-37-add-hdt.txt <==
+Total processing time: Clock(7 ms 719 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-37-del-hdt.txt <==
+Total processing time: Clock(5 ms 568 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-38-add-hdt.txt <==
+Total processing time: Clock(9 ms 741 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-38-del-hdt.txt <==
+Total processing time: Clock(5 ms 250 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-39-add-hdt.txt <==
+Total processing time: Clock(8 ms 716 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-39-del-hdt.txt <==
+Total processing time: Clock(6 ms 90 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-3-add-hdt.txt <==
+Total processing time: Clock(1 ms 854 us)  User()  System()
+
+==> output/load-bearb-day-cb-3-del-hdt.txt <==
+Total processing time: Clock(1 ms 466 us)  User()  System()
+
+==> output/load-bearb-day-cb-40-add-hdt.txt <==
+Total processing time: Clock(11 ms 865 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-40-del-hdt.txt <==
+Total processing time: Clock(6 ms 393 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-41-add-hdt.txt <==
+Total processing time: Clock(7 ms 272 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-41-del-hdt.txt <==
+Total processing time: Clock(6 ms 424 us)  User()  System(4 ms )
+
+==> output/load-bearb-day-cb-42-add-hdt.txt <==
+Total processing time: Clock(9 ms 447 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-42-del-hdt.txt <==
+Total processing time: Clock(5 ms 954 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-43-add-hdt.txt <==
+Total processing time: Clock(9 ms 567 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-43-del-hdt.txt <==
+Total processing time: Clock(5 ms 177 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-44-add-hdt.txt <==
+Total processing time: Clock(9 ms 208 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-44-del-hdt.txt <==
+Total processing time: Clock(5 ms 760 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-45-add-hdt.txt <==
+Total processing time: Clock(12 ms 118 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-45-del-hdt.txt <==
+Total processing time: Clock(2 ms 904 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-46-add-hdt.txt <==
+Total processing time: Clock(11 ms 6 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-46-del-hdt.txt <==
+Total processing time: Clock(3 ms 345 us)  User()  System(4 ms )
+
+==> output/load-bearb-day-cb-47-add-hdt.txt <==
+Total processing time: Clock(9 ms 252 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-47-del-hdt.txt <==
+Total processing time: Clock(3 ms 609 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-48-add-hdt.txt <==
+Total processing time: Clock(9 ms 840 us)  User(8 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-48-del-hdt.txt <==
+Total processing time: Clock(3 ms 276 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-49-add-hdt.txt <==
+Total processing time: Clock(9 ms 76 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-49-del-hdt.txt <==
+Total processing time: Clock(3 ms 226 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-4-add-hdt.txt <==
+Total processing time: Clock(1 ms 366 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-4-del-hdt.txt <==
+Total processing time: Clock(1 ms 187 us)  User()  System()
+
+==> output/load-bearb-day-cb-50-add-hdt.txt <==
+Total processing time: Clock(9 ms 497 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-50-del-hdt.txt <==
+Total processing time: Clock(2 ms 131 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-51-add-hdt.txt <==
+Total processing time: Clock(9 ms 238 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-51-del-hdt.txt <==
+Total processing time: Clock(3 ms 262 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-52-add-hdt.txt <==
+Total processing time: Clock(8 ms 697 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-52-del-hdt.txt <==
+Total processing time: Clock(3 ms 1 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-53-add-hdt.txt <==
+Total processing time: Clock(9 ms 648 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-53-del-hdt.txt <==
+Total processing time: Clock(3 ms 381 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-54-add-hdt.txt <==
+Total processing time: Clock(9 ms 72 us)  User(8 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-54-del-hdt.txt <==
+Total processing time: Clock(3 ms 314 us)  User()  System(4 ms )
+
+==> output/load-bearb-day-cb-55-add-hdt.txt <==
+Total processing time: Clock(9 ms 68 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-55-del-hdt.txt <==
+Total processing time: Clock(2 ms 871 us)  User()  System()
+
+==> output/load-bearb-day-cb-56-add-hdt.txt <==
+Total processing time: Clock(7 ms 16 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-56-del-hdt.txt <==
+Total processing time: Clock(2 ms 846 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-57-add-hdt.txt <==
+Total processing time: Clock(8 ms 576 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-57-del-hdt.txt <==
+Total processing time: Clock(3 ms 127 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-58-add-hdt.txt <==
+Total processing time: Clock(6 ms 469 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-58-del-hdt.txt <==
+Total processing time: Clock(2 ms 552 us)  User()  System()
+
+==> output/load-bearb-day-cb-59-add-hdt.txt <==
+Total processing time: Clock(1 ms 822 us)  User()  System()
+
+==> output/load-bearb-day-cb-59-del-hdt.txt <==
+Total processing time: Clock(1 ms 84 us)  User()  System()
+
+==> output/load-bearb-day-cb-5-add-hdt.txt <==
+Total processing time: Clock(1 ms 290 us)  User()  System()
+
+==> output/load-bearb-day-cb-5-del-hdt.txt <==
+Total processing time: Clock(999 us)  User()  System()
+
+==> output/load-bearb-day-cb-60-add-hdt.txt <==
+Total processing time: Clock(11 ms 639 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-60-del-hdt.txt <==
+Total processing time: Clock(3 ms 585 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-61-add-hdt.txt <==
+Total processing time: Clock(8 ms 51 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-61-del-hdt.txt <==
+Total processing time: Clock(3 ms 362 us)  User()  System()
+
+==> output/load-bearb-day-cb-62-add-hdt.txt <==
+Total processing time: Clock(9 ms 155 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-62-del-hdt.txt <==
+Total processing time: Clock(2 ms 911 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-63-add-hdt.txt <==
+Total processing time: Clock(8 ms 907 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-63-del-hdt.txt <==
+Total processing time: Clock(3 ms 570 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-64-add-hdt.txt <==
+Total processing time: Clock(7 ms 961 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-64-del-hdt.txt <==
+Total processing time: Clock(2 ms 904 us)  User()  System()
+
+==> output/load-bearb-day-cb-65-add-hdt.txt <==
+Total processing time: Clock(8 ms 706 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-65-del-hdt.txt <==
+Total processing time: Clock(3 ms 130 us)  User()  System()
+
+==> output/load-bearb-day-cb-66-add-hdt.txt <==
+Total processing time: Clock(9 ms 429 us)  User(12 ms )  System()
+
+==> output/load-bearb-day-cb-66-del-hdt.txt <==
+Total processing time: Clock(2 ms 880 us)  User()  System()
+
+==> output/load-bearb-day-cb-67-add-hdt.txt <==
+Total processing time: Clock(7 ms 888 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-67-del-hdt.txt <==
+Total processing time: Clock(2 ms 511 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-68-add-hdt.txt <==
+Total processing time: Clock(7 ms 528 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-68-del-hdt.txt <==
+Total processing time: Clock(2 ms 981 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-69-add-hdt.txt <==
+Total processing time: Clock(7 ms 175 us)  User(8 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-69-del-hdt.txt <==
+Total processing time: Clock(2 ms 536 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-6-add-hdt.txt <==
+Total processing time: Clock(1 ms 308 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-6-del-hdt.txt <==
+Total processing time: Clock(1 ms 218 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-70-add-hdt.txt <==
+Total processing time: Clock(7 ms 37 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-70-del-hdt.txt <==
+Total processing time: Clock(2 ms 683 us)  User()  System()
+
+==> output/load-bearb-day-cb-71-add-hdt.txt <==
+Total processing time: Clock(7 ms 776 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-71-del-hdt.txt <==
+Total processing time: Clock(2 ms 863 us)  User()  System()
+
+==> output/load-bearb-day-cb-72-add-hdt.txt <==
+Total processing time: Clock(5 ms 750 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-72-del-hdt.txt <==
+Total processing time: Clock(2 ms 151 us)  User()  System()
+
+==> output/load-bearb-day-cb-73-add-hdt.txt <==
+Total processing time: Clock(7 ms 235 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-73-del-hdt.txt <==
+Total processing time: Clock(2 ms 765 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-74-add-hdt.txt <==
+Total processing time: Clock(7 ms 777 us)  User(4 ms )  System(4 ms )
+
+==> output/load-bearb-day-cb-74-del-hdt.txt <==
+Total processing time: Clock(2 ms 949 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-75-add-hdt.txt <==
+Total processing time: Clock(9 ms 343 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-75-del-hdt.txt <==
+Total processing time: Clock(3 ms 454 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-76-add-hdt.txt <==
+Total processing time: Clock(8 ms 195 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-76-del-hdt.txt <==
+Total processing time: Clock(3 ms 37 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-77-add-hdt.txt <==
+Total processing time: Clock(7 ms 813 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-77-del-hdt.txt <==
+Total processing time: Clock(3 ms 255 us)  User()  System()
+
+==> output/load-bearb-day-cb-78-add-hdt.txt <==
+Total processing time: Clock(7 ms 183 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-78-del-hdt.txt <==
+Total processing time: Clock(3 ms 69 us)  User()  System()
+
+==> output/load-bearb-day-cb-79-add-hdt.txt <==
+Total processing time: Clock(6 ms 483 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-79-del-hdt.txt <==
+Total processing time: Clock(2 ms 986 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-7-add-hdt.txt <==
+Total processing time: Clock(1 ms 437 us)  User()  System()
+
+==> output/load-bearb-day-cb-7-del-hdt.txt <==
+Total processing time: Clock(1 ms 22 us)  User()  System()
+
+==> output/load-bearb-day-cb-80-add-hdt.txt <==
+Total processing time: Clock(8 ms 494 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-80-del-hdt.txt <==
+Total processing time: Clock(3 ms 279 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-81-add-hdt.txt <==
+Total processing time: Clock(7 ms 212 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-81-del-hdt.txt <==
+Total processing time: Clock(3 ms 137 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-82-add-hdt.txt <==
+Total processing time: Clock(8 ms 162 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-82-del-hdt.txt <==
+Total processing time: Clock(2 ms 852 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-83-add-hdt.txt <==
+Total processing time: Clock(7 ms 634 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-83-del-hdt.txt <==
+Total processing time: Clock(3 ms 40 us)  User()  System()
+
+==> output/load-bearb-day-cb-84-add-hdt.txt <==
+Total processing time: Clock(7 ms 367 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-84-del-hdt.txt <==
+Total processing time: Clock(2 ms 599 us)  User()  System()
+
+==> output/load-bearb-day-cb-85-add-hdt.txt <==
+Total processing time: Clock(6 ms 73 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-85-del-hdt.txt <==
+Total processing time: Clock(2 ms 764 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-86-add-hdt.txt <==
+Total processing time: Clock(6 ms 761 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-86-del-hdt.txt <==
+Total processing time: Clock(2 ms 647 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-87-add-hdt.txt <==
+Total processing time: Clock(6 ms 577 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-87-del-hdt.txt <==
+Total processing time: Clock(2 ms 578 us)  User()  System()
+
+==> output/load-bearb-day-cb-88-add-hdt.txt <==
+Total processing time: Clock(7 ms 50 us)  User(8 ms )  System()
+
+==> output/load-bearb-day-cb-88-del-hdt.txt <==
+Total processing time: Clock(2 ms 833 us)  User(4 ms )  System()
+
+==> output/load-bearb-day-cb-8-add-hdt.txt <==
+Total processing time: Clock(1 ms 39 us)  User()  System()
+
+==> output/load-bearb-day-cb-8-del-hdt.txt <==
+Total processing time: Clock(1 ms 193 us)  User()  System()
+
+==> output/load-bearb-day-cb-9-add-hdt.txt <==
+Total processing time: Clock(1 ms 152 us)  User()  System()
+
+==> output/load-bearb-day-cb-9-del-hdt.txt <==
+Total processing time: Clock(1 ms 72 us)  User(4 ms )  System()

@@ -1,0 +1,266 @@
+==> output/load-bearb-day-ic-0-.txt <==
+ 07:23:16 INFO -- 5 seconds
+
+==> output/load-bearb-day-ic-10-.txt <==
+ 07:24:41 INFO -- 5 seconds
+
+==> output/load-bearb-day-ic-11-.txt <==
+ 07:24:50 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-12-.txt <==
+ 07:24:58 INFO -- 5 seconds
+
+==> output/load-bearb-day-ic-13-.txt <==
+ 07:25:07 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-14-.txt <==
+ 07:25:15 INFO -- 5 seconds
+
+==> output/load-bearb-day-ic-15-.txt <==
+ 07:25:24 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-16-.txt <==
+ 07:25:32 INFO -- 5 seconds
+
+==> output/load-bearb-day-ic-17-.txt <==
+ 07:25:41 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-18-.txt <==
+ 07:25:50 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-19-.txt <==
+ 07:25:58 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-1-.txt <==
+ 07:23:25 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-20-.txt <==
+ 07:26:07 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-21-.txt <==
+ 07:26:16 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-22-.txt <==
+ 07:26:24 INFO -- 5 seconds
+
+==> output/load-bearb-day-ic-23-.txt <==
+ 07:26:33 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-24-.txt <==
+ 07:26:42 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-25-.txt <==
+ 07:26:50 INFO -- 5 seconds
+
+==> output/load-bearb-day-ic-26-.txt <==
+ 07:26:59 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-27-.txt <==
+ 07:27:07 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-28-.txt <==
+ 07:27:16 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-29-.txt <==
+ 07:27:25 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-2-.txt <==
+ 07:23:34 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-30-.txt <==
+ 07:27:34 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-31-.txt <==
+ 07:27:42 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-32-.txt <==
+ 07:27:51 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-33-.txt <==
+ 07:28:00 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-34-.txt <==
+ 07:28:09 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-35-.txt <==
+ 07:28:17 INFO -- 5 seconds
+
+==> output/load-bearb-day-ic-36-.txt <==
+ 07:28:26 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-37-.txt <==
+ 07:28:35 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-38-.txt <==
+ 07:28:44 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-39-.txt <==
+ 07:28:53 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-3-.txt <==
+ 07:23:42 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-40-.txt <==
+ 07:29:02 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-41-.txt <==
+ 07:29:11 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-42-.txt <==
+ 07:29:20 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-43-.txt <==
+ 07:29:28 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-44-.txt <==
+ 07:29:38 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-45-.txt <==
+ 07:29:46 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-46-.txt <==
+ 07:29:56 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-47-.txt <==
+ 07:30:05 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-48-.txt <==
+ 07:30:14 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-49-.txt <==
+ 07:30:23 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-4-.txt <==
+ 07:23:50 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-50-.txt <==
+ 07:30:32 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-51-.txt <==
+ 07:30:41 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-52-.txt <==
+ 07:30:50 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-53-.txt <==
+ 07:31:02 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-54-.txt <==
+ 07:31:11 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-55-.txt <==
+ 07:31:19 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-56-.txt <==
+ 07:31:28 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-57-.txt <==
+ 07:31:37 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-58-.txt <==
+ 07:31:46 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-59-.txt <==
+ 07:31:55 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-5-.txt <==
+ 07:23:59 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-60-.txt <==
+ 07:32:04 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-61-.txt <==
+ 07:32:13 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-62-.txt <==
+ 07:32:22 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-63-.txt <==
+ 07:32:31 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-64-.txt <==
+ 07:32:41 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-65-.txt <==
+ 07:32:49 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-66-.txt <==
+ 07:32:58 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-67-.txt <==
+ 07:33:08 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-68-.txt <==
+ 07:33:16 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-69-.txt <==
+ 07:33:25 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-6-.txt <==
+ 07:24:07 INFO -- 5 seconds
+
+==> output/load-bearb-day-ic-70-.txt <==
+ 07:33:34 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-71-.txt <==
+ 07:33:43 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-72-.txt <==
+ 07:33:53 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-73-.txt <==
+ 07:34:02 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-74-.txt <==
+ 07:34:11 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-75-.txt <==
+ 07:34:20 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-76-.txt <==
+ 07:34:29 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-77-.txt <==
+ 07:34:38 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-78-.txt <==
+ 07:34:48 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-79-.txt <==
+ 07:34:57 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-7-.txt <==
+ 07:24:16 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-80-.txt <==
+ 07:35:06 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-81-.txt <==
+ 07:35:15 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-82-.txt <==
+ 07:35:24 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-83-.txt <==
+ 07:35:33 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-84-.txt <==
+ 07:35:43 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-85-.txt <==
+ 07:35:52 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-86-.txt <==
+ 07:36:01 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-87-.txt <==
+ 07:36:11 INFO -- 7 seconds
+
+==> output/load-bearb-day-ic-88-.txt <==
+ 07:36:20 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-8-.txt <==
+ 07:24:24 INFO -- 6 seconds
+
+==> output/load-bearb-day-ic-9-.txt <==
+ 07:24:33 INFO -- 6 seconds
