@@ -1,68 +1,0 @@
----INSERTION START---
-version,added,durationms,rate,accsize
-Version 1
-: 0 / 0Skipped constructing snapshot because it already exists, loaded instead.
-: 0 / 0Version 2
-: 0 / 0Skipped constructing patch because it already exists, loading instead...
-: 0 / 0Loaded!
-: 0 / 0Version 3
-: 0 / 0Skipped constructing patch because it already exists, loading instead...
-: 0 / 0Loaded!
-: 0 / 0Version 4
-: 0 / 0Skipped constructing patch because it already exists, loading instead...
-: 0 / 0Loaded!
-: 0 / 0Version 5
-: 0 / 0Skipped constructing patch because it already exists, loading instead...
-: 0 / 0Loaded!
-: 0 / 0Version 6
-: 0 / 0Skipped constructing patch because it already exists, loading instead...
-: 0 / 0Loaded!
-: 0 / 0Version 7
-: 0 / 0Skipped constructing patch because it already exists, loading instead...
-: 0 / 0Loaded!
-: 0 / 0Version 8
-: 0 / 0Skipped constructing patch because it already exists, loading instead...
-: 0 / 0Loaded!
-: 0 / 0Version 9
-: 0 / 0Skipped constructing patch because it already exists, loading instead...
-: 0 / 0Loaded!
-: 0 / 0Version 10
-: 0 / 0Skipped constructing patch because it already exists, loading instead...
-: 0 / 0Loaded!
-: 0 / 0---INSERTION END---
----QUERIES START: /var/queries/spo_512.txt---
----PATTERN START:   .
---- ---VERSION MATERIALIZED
-patch,offset,limit,count-ms,lookup-mus,results
-0,512,10,7,4,10
-1,512,10,2004,2476,10
-2,512,10,17,415,10
-3,512,10,16,448,10
-4,512,10,19,435,10
-5,512,10,20,582,10
-6,512,10,16,3117,10
-7,512,10,17,343,10
-8,512,10,19,5630,10
-9,512,10,16,5502,10
---- ---DELTA MATERIALIZED
-patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
-0,1,512,10,1617,70959,10
-0,2,512,10,10,62317,10
-0,3,512,10,11,65636,10
-1,3,512,10,1609,90951,10
-0,4,512,10,10,61851,10
-2,4,512,10,19,106619,10
-0,5,512,10,13,59523,10
-2,5,512,10,22,82612,10
-0,6,512,10,11,62278,10
-3,6,512,10,22,81757,10
-0,7,512,10,10,21088,10
-3,7,512,10,23,21218,10
-0,8,512,10,10,23280,10
-4,8,512,10,23,21225,10
-0,9,512,10,14,22469,10
-4,9,512,10,18,18166,10
---- ---VERSION
-offset,limit,count-ms,lookup-mus,results
-512,10,4,206,10
----QUERIES END---

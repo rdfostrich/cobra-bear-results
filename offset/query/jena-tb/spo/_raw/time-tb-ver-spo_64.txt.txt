@@ -1,2 +1,0 @@
-##name, min, mean, max, stddev, count
-tot,14.0,14.0,14.0,0.0,1 14.0

@@ -1,2 +1,0 @@
-<Queries>,<mean_time>,<total>
-1,1.259,1.259
