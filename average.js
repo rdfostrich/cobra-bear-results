@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 /* Make averages for all OSTRICH query results */
+/* Should be called first as "node average.js bearb-daily/query/cobra/po/ subdir", and then as "node average.js bearb-daily/query/cobra/" */
 
 let fs = require('fs');
 let csvParser = require('csv-parser');
@@ -22,6 +23,10 @@ let SUBDIRS = [
     'p',
     'po'
 ];
+let subdir = process.argv[3];
+if (subdir) {
+    SUBDIRS = [''];
+}
 
 let columnsStaticVm = [
     'patch',
@@ -81,11 +86,11 @@ SUBDIRS.forEach((subDir) => {
         
         files.forEach(file => {
             type = null;
-            if (file.indexOf('_median_vq') == 0 || file.indexOf('vq') == 0) {
+            if (file.indexOf('_median_vq') == 0 || file.indexOf('vq') == 0 || file.indexOf('version-') == 0) {
                 type = 'vq';
-            } else if (file.indexOf('_median_dm') == 0 || file.indexOf('dm') == 0) {
+            } else if (file.indexOf('_median_dm') == 0 || file.indexOf('dm') == 0 || file.indexOf('deltamat-') == 0) {
                 type = 'dm';
-            } else if (file.indexOf('_median_vm') == 0 || file.indexOf('vm') == 0) {
+            } else if (file.indexOf('_median_vm') == 0 || file.indexOf('vm') == 0 || file.indexOf('versionmat-') == 0) {
                 type = 'vm';
             }
             if (type) {
@@ -146,6 +151,7 @@ SUBDIRS.forEach((subDir) => {
                                 Object.keys(row).forEach((key) => {
                                     if (columsStaticIndex[type].indexOf(key) < 0) {
                                         row[key] /= countIndex[type];
+                                        row[key] /= 1000;
                                     }
                                 });
                                 writer.write(row);
@@ -157,7 +163,7 @@ SUBDIRS.forEach((subDir) => {
                             medianIndex[type].forEach((row) => {
                                 Object.keys(row).forEach((key) => {
                                     if (columsStaticIndex[type].indexOf(key) < 0) {
-                                        row[key] = row[key].sort((a, b) => a - b)[row[key].length / 2];
+                                        row[key] = row[key].sort((a, b) => a - b)[Math.floor(row[key].length / 2)] / 1000;
                                     }
                                 });
                                 writer.write(row);
@@ -167,6 +173,11 @@ SUBDIRS.forEach((subDir) => {
                             writer = csvWriter();
                             writer.pipe(fs.createWriteStream(dir + '/_min_' + type + '.csv'));
                             minIndex[type].forEach((row) => {
+                                Object.keys(row).forEach((key) => {
+                                    if (columsStaticIndex[type].indexOf(key) < 0) {
+                                        row[key] /= 1000;
+                                    }
+                                });
                                 writer.write(row);
                             });
                             writer.end();
@@ -174,6 +185,11 @@ SUBDIRS.forEach((subDir) => {
                             writer = csvWriter();
                             writer.pipe(fs.createWriteStream(dir + '/_max_' + type + '.csv'));
                             maxIndex[type].forEach((row) => {
+                                Object.keys(row).forEach((key) => {
+                                    if (columsStaticIndex[type].indexOf(key) < 0) {
+                                        row[key] /= 1000;
+                                    }
+                                });
                                 writer.write(row);
                             });
                             writer.end();
