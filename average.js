@@ -21,7 +21,19 @@ let SUBDIRS = [
     'sp-low',
     'spo',
     'p',
-    'po'
+    'po',
+    'o-queries-highCardinality',
+    'o-queries-lowCardinality',
+    'p-queries-highCardinality',
+    'p-queries-lowCardinality',
+    'po-queries-highCardinality',
+    'po-queries-lowCardinality',
+    's-queries-highCardinality',
+    's-queries-lowCardinality',
+    'so-queries-lowCardinality',
+    'sp-queries-highCardinality',
+    'sp-queries-lowCardinality',
+    'spo-queries',
 ];
 let subdir = process.argv[3];
 if (subdir) {
